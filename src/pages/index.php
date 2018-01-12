@@ -57,6 +57,8 @@ body-class: index
 		</div>
 	</div>
 	<div id="curator-feed"></div>
+	<br>
+	<br>
 </section>
 
 

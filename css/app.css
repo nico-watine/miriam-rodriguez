@@ -4765,9 +4765,6 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
-body#index.index {
-  padding-bottom: 400px !important; }
-
 .index#index .splash {
   height: 800px;
   background: #fff url("/img/splash/splash-1.jpg") center top/cover no-repeat; }
