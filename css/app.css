@@ -4795,7 +4795,11 @@ a.thumbnail {
   color: #fff !important; }
 
 #index.index .contact hr {
-  border-bottom: 0.1875rem solid #5B5EA6; }
+  border-bottom: 0.1875rem solid #5B5EA6;
+  width: 80%; }
+  @media print, screen and (min-width: 40em) {
+    #index.index .contact hr {
+      width: 75%; } }
 
 #index.index .sectionHeading h2 {
   letter-spacing: 0.125rem;

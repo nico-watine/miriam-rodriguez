@@ -4,6 +4,11 @@
 	.contact {
 		hr {
 			border-bottom: rem-calc(3) solid #5B5EA6;
+			width: 80%;
+
+			@include breakpoint(medium) {
+				width: 75%;
+			}
 		}
 	}
 }
