@@ -49,8 +49,8 @@ body-class: index
 </section>
 
 <section class="instagram">
-	<div class="row padding-Y expanded collapse sectionHeading">
-		<div class="columns text-center content">
+	<div class="row expanded collapse sectionHeading">
+		<div class="columns text-center content padding-Y">
 			<br>
 			<h2 class="white"><strong>@</strong>REAL<strong>MIRIAM</strong>RODRIGUEZ</h2>
 			<br>
