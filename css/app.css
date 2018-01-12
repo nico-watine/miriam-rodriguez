@@ -4798,8 +4798,29 @@ a.thumbnail {
   background-color: #5B5DA6 !important;
   color: #fff !important; }
 
+#index.index .contact hr {
+  border-bottom: 0.1875rem solid #5B5EA6;
+  width: 80%; }
+  @media print, screen and (min-width: 40em) {
+    #index.index .contact hr {
+      width: 75%; } }
+
+#index.index .contact #name small {
+  text-transform: uppercase;
+  letter-spacing: 0.09375rem;
+  color: #0a0a0a; }
+
+#index.index .contact address {
+  font-style: normal; }
+
+#index.index .contact a {
+  color: #5B5EA6; }
+  #index.index .contact a:hover {
+    text-decoration: underline; }
+
 #index.index .sectionHeading h2 {
-  letter-spacing: 0.125rem; }
+  letter-spacing: 0.125rem;
+  text-transform: uppercase; }
 
 .inline-block {
   display: inline-block; }

@@ -16,7 +16,7 @@ body-class: index
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
-			<h2 class="white"><strong>BRIDALS</strong></h2>
+			<h2 class="white"><strong>Bridals</strong></h2>
 			<br>
 		</div>
 	</div>
@@ -36,7 +36,7 @@ body-class: index
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
-			<h2><strong>BIO</strong></h2>
+			<h2><strong>Bio</strong></h2>
 			<br>
 		</div>
 	</div>
@@ -52,7 +52,7 @@ body-class: index
 	<div class="row expanded collapse sectionHeading">
 		<div class="columns text-center content padding-Y">
 			<br>
-			<h2 class="white"><span class="inline-block"><strong>@</strong>REAL</span><span class="inline-block"><strong>MIRIAM</strong></span><span class="inline-block">RODRIGUEZ</span></h2>
+			<h2 class="white"><span class="inline-block"><strong>@</strong>real</span><span class="inline-block"><strong>Miriam</strong></span><span class="inline-block">Rodriguez</span></h2>
 			<br>
 		</div>
 	</div>
@@ -61,12 +61,22 @@ body-class: index
 	<br>
 </section>
 
+<section class="contact">
+	<hr>
+	<div class="row text-center">
+		<div class="columns prose">
+			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <small>Alta Costura</small></h3>
+			<a class="h4 block" href="https://www.instagram.com/realmiriamrodriguez/">@realmiriamrodriguez</a>
+			<br>
+			<address class="h4">Ave 9, calle 66A Nro 66A-17 <br>
+			Maracaibo, Venezuela 04002</address>
+			<br>
+			<h4>(0261) 741.15.82 - (0414) 364.63.12</h4>
+			<br>
+			<a class="h4 block" href="mailto:info@miriamrodriguez.com">info@miriamrodriguez.com</a>
+			<br>
+			<br>
+		</div>
+	</div>
+</section>
 
-<!-- Curator.io Instagram feed javascript snippet -->
-<!-- <script type="text/javascript">
-(function(){
-	var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
-	i.src = "https://cdn.curator.io/published/a82c8ade-f8fd-49f6-b452-f5aaae18.js";
-	e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
-})();
-</script> -->

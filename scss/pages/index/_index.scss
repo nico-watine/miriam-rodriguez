@@ -4,12 +4,14 @@
 @import "_bridals.scss";
 @import "_bio.scss";
 @import "_instagram.scss";
+@import "_contact.scss";
 
 
 #index.index {
 	.sectionHeading {
 		h2 {
 			letter-spacing: rem-calc(2);
+			text-transform: uppercase;
 		}
 	}
 }
