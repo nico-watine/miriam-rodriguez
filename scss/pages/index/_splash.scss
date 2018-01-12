@@ -1,2 +1,8 @@
 @import "../../_settings.scss";
 
+.index#index {
+	.splash {
+		height: 800px;
+		background: #fff url('/img/splash/splash-1.jpg') center top/cover no-repeat;
+	}
+}

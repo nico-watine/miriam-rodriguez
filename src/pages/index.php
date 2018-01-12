@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section style="height: 800px; background: #fff url('/img/splash/splash-1.jpg') center top/cover no-repeat;" class="splash">
+<section class="splash">
 	
 </section>
 

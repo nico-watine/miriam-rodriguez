@@ -4759,6 +4759,10 @@ a.thumbnail {
   .h6 {
     font-size: 0.8125rem; } }
 
+.index#index .splash {
+  height: 800px;
+  background: #fff url("/img/splash/splash-1.jpg") center top/cover no-repeat; }
+
 .inline-block {
   display: inline-block; }
 
