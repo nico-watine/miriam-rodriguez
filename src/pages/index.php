@@ -8,8 +8,8 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="bridals">
-	<div class="row padding-Y" style="background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;">
+<section style="background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;" class="bridals">
+	<div class="row padding-Y">
 		<div class="columns text-center">
 			<h2><strong>BRIDALS</strong></h2>
 			<img style="max-width: 760px;" src="/img/bridals/bridals.svg" alt="">
