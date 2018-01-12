@@ -4810,6 +4810,14 @@ a.thumbnail {
   letter-spacing: 0.09375rem;
   color: #0a0a0a; }
 
+#index.index .contact address {
+  font-style: normal; }
+
+#index.index .contact a {
+  color: #5B5EA6; }
+  #index.index .contact a:hover {
+    text-decoration: underline; }
+
 #index.index .sectionHeading h2 {
   letter-spacing: 0.125rem;
   text-transform: uppercase; }

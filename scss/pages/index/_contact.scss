@@ -18,5 +18,17 @@
 				color: $black;
 			}
 		}
+
+		address {
+			font-style: normal;
+		}
+
+		a {
+			color: #5B5EA6;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
 	}
 }
