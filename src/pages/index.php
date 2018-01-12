@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 ---
 <section class="splash text-center relative">
-	<div class="logoWrapper flex absolute">
+	<div class="masthead flex absolute">
 		<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
 	</div>
 	<div class="row expanded collapse">
