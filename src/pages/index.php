@@ -71,7 +71,7 @@ body-class: index
 				<picture class="block">
 					<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
 					<source srcset="/img/bio/medium/miriam-rodriguez.jpg" media="(min-width: 640px)">
-					<img src="/img/bio/miriam-rodriguez.jpg" alt="…">
+					<img style="width: 100%;" src="/img/bio/miriam-rodriguez.jpg" alt="…">
 				</picture>
 			</div>
 			<br>
