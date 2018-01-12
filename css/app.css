@@ -4845,6 +4845,9 @@ a.thumbnail {
 .relative {
   position: relative; }
 
+.absolute {
+  position: absolute; }
+
 .padding-0 {
   padding: 0; }
 
