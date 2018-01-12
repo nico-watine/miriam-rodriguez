@@ -4769,14 +4769,6 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
-.index#index .splash .imgWrapper {
-  padding-top: 111.1111111%; }
-  .index#index .splash .imgWrapper img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%; }
-
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
   .index#index .bridals .sectionHeading .content {
