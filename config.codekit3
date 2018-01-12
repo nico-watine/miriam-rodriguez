@@ -4444,6 +4444,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/bridals\/bridals.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/img\/bridals\/bridals.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/dist\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4595,6 +4605,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/img\/bridals\/bridals.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/bridals\/bridals.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
