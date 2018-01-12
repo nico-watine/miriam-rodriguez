@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 ---
 <section class="splash">
-	<div class="row">
+	<div class="row flex heightWrapper" style="height: 100vh; position: absolute; width: 100%; top: 0; left: 0; z-index: 10;">
 		<div class="columns text-center">
 			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
 		</div>
