@@ -14,9 +14,9 @@ body-class: index
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<nav>
 				<ul class="menu inline-block">
-					<li><a class="h3" href="#">Bridal</a></li>
+					<li data-magellan><a class="h3" href="#bridals">Bridal</a></li>
 					<li class="h3"><strong>|</strong></li>
-					<li><a class="h3" href="#">Bio</a></li>
+					<li data-magellan><a class="h3" href="#bio">Bio</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -34,7 +34,7 @@ body-class: index
 	</div>
 </section>
 
-<section class="bridals">
+<section id="bridals" class="bridals" data-magellan-target="bridals">
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
@@ -54,7 +54,7 @@ body-class: index
 	</div>
 </section>
 
-<section class="bio">
+<section id="bio" class="bio">
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
@@ -77,6 +77,8 @@ body-class: index
 		</div>
 		<div class="medium-6 columns padding-XY prose">
 			<p class="intro">Adjetivos que definen claramente las propuestas de Miriam Rodríguez, siempre inspirada en la mujer latina y su cuerpo de curvas sinuosas.</p>
+			<span class="bar block"></span>
+			<br>
 			<p>Nacida en Santa Marta, Colombia, pero zuliana por eleccion, Miriam Rodríguez tiene 45 años vistiendo a las mujeres más elegantes de la sociedad venezolana.</p>
 			<p>Su estilo siempre clásico y atemporal marca la elegancia y destaca a quien lo luce.</p>
 		</div>
@@ -91,7 +93,7 @@ body-class: index
 			<br>
 		</div>
 	</div>
-	<!-- <div id="curator-feed"></div> -->
+	<div id="curator-feed"></div>
 	<br>
 	<br>
 </section>
