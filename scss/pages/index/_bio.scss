@@ -2,7 +2,21 @@
 
 #index.index {
 	.bio {
-		padding-bottom: rem-calc(130);
+		// padding-bottom: rem-calc(130);
 		background: $white url("/img/bio/logo.svg") right top/contain no-repeat;
+
+		.prose {
+			.intro {
+				@extend .lead;
+			}
+
+			p {
+				font-size: $h4;
+
+				@include breakpoint(medium) {
+					font-size: $h4-medium !important;
+				}
+			}
+		}
 	}
 }

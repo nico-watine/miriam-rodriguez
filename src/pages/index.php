@@ -59,14 +59,25 @@ body-class: index
 		<div class="columns text-center content">
 			<br>
 			<h2><strong>Bio</strong></h2>
-			<br>
+			<!-- <br> -->
 		</div>
 	</div>
-	<div class="row collapse">
-		<div class="medium-6 columns">
-			<img src="/img/bio/miriam-rodriguez.jpg" alt="">
+	<div class="row">
+		<div class="medium-6 columns medium-text-right padding-0">
+			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción<!-- <span class="block">Armonia,</span> <span class="block">Elegancia y</span> <span class="block">Distinción</span> --></h3>
+			<br>
+			<picture class="block">
+				<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
+				<source srcset="/img/bio/medium/miriam-rodriguez.jpg" media="(min-width: 640px)">
+				<img src="/img/bio/miriam-rodriguez.jpg" alt="…">
+			</picture>
+			<br>
 		</div>
-		<div class="medium-6 columns"></div>
+		<div class="medium-6 columns padding-XY prose">
+			<p class="intro">Adjetivos que definen claramente las propuestas de Miriam Rodríguez, siempre inspirada en la mujer latina y su cuerpo de curvas sinuosas.</p>
+			<p>Nacida en Santa Marta, Colombia, pero zuliana por eleccion, Miriam Rodríguez tiene 45 años vistiendo a las mujeres más elegantes de la sociedad venezolana.</p>
+			<p>Su estilo siempre clásico y atemporal marca la elegancia y destaca a quien lo luce.</p>
+		</div>
 	</div>
 </section>
 

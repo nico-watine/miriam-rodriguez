@@ -4343,16 +4343,6 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4390,6 +4380,26 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/dist\/img\/bio\/medium\/miriam-rodriguez.jpg": {
+		"ft": 16384,
+		"iS": 32696,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bio\/medium\/miriam-rodriguez.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bio\/medium\/miriam-rodriguez_medium.jpg": {
+		"ft": 16384,
+		"iS": 32696,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bio\/medium\/miriam-rodriguez_medium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/bio\/miriam-rodriguez.jpg": {
 		"ft": 16384,
@@ -4501,36 +4511,6 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/splash\/1.jpg": {
-		"ft": 16384,
-		"iS": 52709,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/2.jpg": {
-		"ft": 16384,
-		"iS": 52761,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/3.jpg": {
-		"ft": 16384,
-		"iS": 52761,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/dist\/img\/splash\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4543,7 +4523,7 @@
 		},
 	"\/dist\/img\/splash\/splash-1.jpg": {
 		"ft": 16384,
-		"iS": 85520,
+		"iS": 52761,
 		"oA": 1,
 		"oAP": "\/dist\/img\/splash\/splash-1.jpg",
 		"oF": 0,
@@ -4652,6 +4632,16 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/bio\/medium\/miriam-rodriguez.jpg": {
+		"ft": 16384,
+		"iS": 32696,
+		"oA": 1,
+		"oAP": "\/img\/bio\/medium\/miriam-rodriguez.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/bio\/miriam-rodriguez.jpg": {
 		"ft": 16384,
@@ -4775,7 +4765,7 @@
 		},
 	"\/img\/splash\/splash-1.jpg": {
 		"ft": 16384,
-		"iS": 52709,
+		"iS": 52761,
 		"oA": 1,
 		"oAP": "\/img\/splash\/splash-1.jpg",
 		"oF": 0,
