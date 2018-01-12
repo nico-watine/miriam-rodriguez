@@ -13,7 +13,7 @@ body-class: index
 		<div class="prose" style="position: absolute; width: 100%; z-index: 10;">
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<nav>
-				<ul class="menu">
+				<ul class="menu inline-block">
 					<li><a href="#">Bridal</a></li>
 					<li>|</li>
 					<li><a href="#">Bio</a></li>
