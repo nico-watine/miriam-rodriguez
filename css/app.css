@@ -4784,6 +4784,9 @@ body#index.index {
   max-width: 31.25rem;
   width: 100%; }
 
+#index.idex .bio {
+  padding-bottom: 8.125rem; }
+
 #index.index .sectionHeading h2 {
   letter-spacing: 0.125rem; }
 
