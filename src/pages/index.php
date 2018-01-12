@@ -9,8 +9,14 @@ body-id: index
 body-class: index
 ---
 <section class="splash">
-	<div class="imgWrapper"><img src="/img/splash/splash-1.jpg" alt=""></div>
-	<div class="imgWrapper"><img src="/img/splash/splash-2.jpg" alt=""></div>
+	<div class="row expanded collapse">
+		<div class="medium-6 columns">
+			<div class="imgWrapper"><img src="/img/splash/splash-1.jpg" alt=""></div>
+		</div>
+		<div class="medium-6 columns">
+			<div class="imgWrapper"><img src="/img/splash/splash-2.jpg" alt=""></div>
+		</div>
+	</div>
 </section>
 
 <section class="bridals">
