@@ -4777,6 +4777,10 @@ a.thumbnail {
       .index#index .bridals .sectionHeading .content {
         background: url("/img/bridals/bridals.svg") center center/auto 95% no-repeat; } }
 
+.index#index .bridals .imageGallery img {
+  max-width: 31.25rem;
+  width: 100%; }
+
 #index.index .sectionHeading h2 {
   letter-spacing: 0.125rem; }
 

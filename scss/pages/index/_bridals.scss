@@ -15,5 +15,12 @@ $minWidth-820: "only screen and (min-width : rem-calc(820))";
 				}
 			}
 		}
+
+		.imageGallery {
+			img {
+				max-width: rem-calc(500);
+				width: 100%;
+			}
+		}
 	}
 }

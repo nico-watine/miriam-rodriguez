@@ -20,7 +20,7 @@ body-class: index
 			<br>
 		</div>
 	</div>
-	<div class="row collapse">
+	<div class="row collapse imageGallery">
 		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-1.jpg" alt=""></div>
 		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-2.jpg" alt=""></div>
 		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-3.jpg" alt=""></div>
