@@ -64,7 +64,8 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns medium-text-right padding-0">
-			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción<!-- <span class="block">Armonia,</span> <span class="block">Elegancia y</span> <span class="block">Distinción</span> --></h3>
+			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción</h3>
+			<!-- <span class="block">Armonia,</span> <span class="block">Elegancia y</span> <span class="block">Distinción</span> -->
 			<br>
 			<div class="pictureWrapper relative text-center">
 				<h3 class="serif white absolute margin-0 padding-Y" style="background-image: linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, #000000 100%); bottom: 0; width: 100%;">Miriam Rodríguez</h3>
