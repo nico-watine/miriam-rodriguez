@@ -4724,6 +4724,9 @@ a.thumbnail {
 .long-delay {
   animation-delay: 700ms !important; }
 
+.script {
+  font-family: 'Playfair Display SC', serif; }
+
 .p {
   font-size: 1rem; }
 

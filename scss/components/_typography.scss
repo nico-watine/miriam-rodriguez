@@ -1,6 +1,17 @@
 @import "../_settings.scss";
 @import "typography/_fonts.scss";
 
+
+// -----------------------------------------------------
+// |            font-family utility classes            |
+// -----------------------------------------------------
+
+.script {
+	font-family: 'Playfair Display SC', serif;
+}
+
+// ---------------------------------------------------------------------- //
+
 .p {
 	font-size: $p;
 }
