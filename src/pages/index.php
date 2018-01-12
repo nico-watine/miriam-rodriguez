@@ -10,7 +10,10 @@ body-class: index
 ---
 <section class="splash text-center relative">
 	<div class="masthead flex absolute">
-		<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+		<h1 class="serif">Miriam Rodríguez</h1>
+		<div class="logoWrapper" style="position: absolute; width: 100%;">
+			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+		</div>
 	</div>
 	<div class="row expanded collapse">
 		<div class="medium-6 columns">
