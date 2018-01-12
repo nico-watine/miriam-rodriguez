@@ -28,7 +28,7 @@ body-class: index
 		<div class="medium-6 columns">
 			<img src="/img/splash/splash-1.jpg" alt="">
 		</div>
-		<div class="medium-6 columns">
+		<div class="medium-6 columns show-for-medium">
 			<img src="/img/splash/splash-2.jpg" alt="">
 		</div>
 	</div>
