@@ -64,17 +64,19 @@ body-class: index
 <section class="contact">
 	<hr>
 	<div class="row text-center">
-		<h3><span class="serif">Miriam Rodríguez,</span> <small style="text-transform: uppercase; letter-spacing: 1.5px;">Alta Costura</small></h3>
-		<h4>@realmiriamrodriguez</h4>
-		<br>
-		<h4>Ave 9, calle 66A Nro 66A-17 <br>
-		Maracaibo, Venezuela 04002</h4>
-		<br>
-		<h4>(0261) 741.15.82 - (0414) 364.63.12</h4>
-		<br>
-		<h4>info@miriamrodriguez.com</h4>
-		<br>
-		<br>
+		<div class="columns prose">
+			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <small style="text-transform: uppercase; letter-spacing: 1.5px;">Alta Costura</small></h3>
+			<h4>@realmiriamrodriguez</h4>
+			<br>
+			<h4>Ave 9, calle 66A Nro 66A-17 <br>
+			Maracaibo, Venezuela 04002</h4>
+			<br>
+			<h4>(0261) 741.15.82 - (0414) 364.63.12</h4>
+			<br>
+			<h4>info@miriamrodriguez.com</h4>
+			<br>
+			<br>
+		</div>
 	</div>
 </section>
 
