@@ -2,10 +2,15 @@
 
 .index#index {
 	.bridals {
-		background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;
+		// background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;
+		background: $white;
 
 		.sectionHeading {
-			background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;
+			background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;
+			
+			.content {
+				background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;
+			}
 		}
 	}
 }
