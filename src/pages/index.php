@@ -8,8 +8,8 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="splash">
-	<div class="row expanded collapse">
+<section class="splash" style="position: relative;">
+	<div class="row expanded collapse" style="position: absolute;">
 		<div class="medium-6 columns">
 			<div class="imgWrapper"><img src="/img/splash/splash-1.jpg" alt=""></div>
 		</div>
