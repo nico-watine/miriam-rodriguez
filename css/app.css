@@ -1925,7 +1925,7 @@ kbd {
   line-height: 1.4;
   color: #8a8a8a; }
 
-.lead {
+.lead, #index.index .bio .prose .intro {
   font-size: 125%;
   line-height: 1.6; }
 
@@ -4800,8 +4800,18 @@ a.thumbnail {
   width: 100%; }
 
 #index.index .bio {
-  padding-bottom: 8.125rem;
   background: #fefefe url("/img/bio/logo.svg") right top/contain no-repeat; }
+  #index.index .bio .pictureWrapper h3 {
+    background-image: linear-gradient(-180deg, transparent 0%, #000 100%);
+    bottom: 0;
+    width: 100%; }
+  #index.index .bio .pictureWrapper img {
+    width: 100%; }
+  #index.index .bio .prose p {
+    font-size: 1.125rem; }
+    @media print, screen and (min-width: 40em) {
+      #index.index .bio .prose p {
+        font-size: 1.375rem !important; } }
 
 #index.index .instagram .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
