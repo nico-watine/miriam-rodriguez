@@ -9,7 +9,11 @@ body-id: index
 body-class: index
 ---
 <section class="splash">
-	<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+	<div class="row">
+		<div class="columns text-center">
+			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+		</div>
+	</div>
 	<div class="row expanded collapse">
 		<div class="medium-6 columns relative">
 			<div class="imgWrapper">
