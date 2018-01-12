@@ -47,3 +47,7 @@ body-class: index
 		<div class="medium-6 columns"></div>
 	</div>
 </section>
+
+<section class="instagram">
+	
+</section>
