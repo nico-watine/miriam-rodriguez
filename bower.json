@@ -1,0 +1,19 @@
+{
+  "name": "miriam-rodriguez",
+  "version": "1.0.0",
+  "author": [
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+  ],
+  "description": "Repo for website of couturier Miriam Rodriguez - www.miriamrodriguez.com",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "foundation-sites": "~6.3.0",
+    "motion-ui": "~1.2.2"
+  }
+}
