@@ -58,7 +58,7 @@ body-class: index
 	</div>
 </section>
 
-<div id="curator-feed"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+<div id="curator-feed"></div>
 
 <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
 <script type="text/javascript">
