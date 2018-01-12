@@ -60,3 +60,9 @@ body-class: index
 	<br>
 	<br>
 </section>
+
+<section class="contact">
+	<hr>
+	<div class="row"></div>
+</section>
+

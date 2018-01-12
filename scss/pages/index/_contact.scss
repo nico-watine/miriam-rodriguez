@@ -1,2 +1,9 @@
 @import "../../_settings.scss";
 
+#index.index {
+	.contact {
+		hr {
+			border-bottom: rem-calc(3) solid #5B5EA6;
+		}
+	}
+}
