@@ -31,3 +31,13 @@ body-class: index
 		<div class="medium-4 large-3 columns end"><img src="/img/bridals/bridals-8.jpg" alt=""></div>
 	</div>
 </section>
+
+<section class="bio">
+	<div class="row padding-Y expanded collapse sectionHeading">
+		<div class="columns text-center content">
+			<br>
+			<h2><strong>BIO</strong></h2>
+			<br>
+		</div>
+	</div>
+</section>
