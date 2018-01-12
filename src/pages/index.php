@@ -15,11 +15,11 @@ body-class: index
 				<img style="position: absolute; top: 0; left: 0;" src="/img/splash/splash-1.jpg" alt="">
 			</div>
 		</div>
-		<!-- <div class="medium-6 columns">
-			<div class="imgWrapper" style="position: relative;">
-				<img src="/img/splash/splash-2.jpg" alt="">
+		<div class="medium-6 columns" style="position: relative;">
+			<div class="imgWrapper" style="padding-top: 111.1111111%;">
+				<img style="position: absolute; top: 0; left: 0;" src="/img/splash/splash-2.jpg" alt="">
 			</div>
-		</div> -->
+		</div>
 	</div>
 </section>
 
