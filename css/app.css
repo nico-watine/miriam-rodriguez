@@ -5,7 +5,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display+SC:700|Source+Sans+Pro:400,700");
 .slide-in-down.mui-enter {
   transition-duration: 500ms;
   transition-timing-function: linear;
