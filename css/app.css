@@ -4759,6 +4759,12 @@ a.thumbnail {
   .h6 {
     font-size: 0.8125rem; } }
 
+.white {
+  color: #fefefe; }
+
+.black {
+  color: #0a0a0a; }
+
 .inline-block {
   display: inline-block; }
 
