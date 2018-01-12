@@ -1,5 +1,17 @@
 @import "../../_settings.scss";
 
+// -------------------------------------
+// |            DELETE THIS            |
+// -------------------------------------
+
+
+body#index.index {
+	padding-bottom: 400px !important;
+}
+
+// ---------------------------------------------------------------------- //
+
+
 @import "_splash.scss";
 @import "_bridals.scss";
 
