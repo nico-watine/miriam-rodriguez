@@ -4343,8 +4343,6 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
-<<<<<<< HEAD
-=======
 	"\/dist\/css\/app-min.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4355,7 +4353,6 @@
 		"oF": 0,
 		"oS": 3
 		},
->>>>>>> develop
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,

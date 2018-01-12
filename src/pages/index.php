@@ -60,3 +60,23 @@ body-class: index
 	<br>
 	<br>
 </section>
+
+<section class="contact">
+	<hr>
+	<div class="row text-center">
+		<div class="columns prose">
+			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <small>Alta Costura</small></h3>
+			<a class="h4 block" href="https://www.instagram.com/realmiriamrodriguez/">@realmiriamrodriguez</a>
+			<br>
+			<address class="h4">Ave 9, calle 66A Nro 66A-17 <br>
+			Maracaibo, Venezuela 04002</address>
+			<br>
+			<h4>(0261) 741.15.82 - (0414) 364.63.12</h4>
+			<br>
+			<a class="h4 block" href="mailto:info@miriamrodriguez.com">info@miriamrodriguez.com</a>
+			<br>
+			<br>
+		</div>
+	</div>
+</section>
+
