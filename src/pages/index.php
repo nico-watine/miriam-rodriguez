@@ -66,7 +66,8 @@ body-class: index
 		<div class="medium-6 columns">
 			<h3 class="h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción</h3>
 			<br>
-			<img src="/img/bio/miriam-rodriguez.jpg" alt="">
+			<img class="block" src="/img/bio/miriam-rodriguez.jpg" alt="">
+			<br>
 		</div>
 		<div class="medium-6 columns">
 			<p class="h4">Adjetivos que definen claramente las propuestas de Miriam Rodríguez, siempre inspirada en la mujer latina y su cuerpo de curvas sinuosas.</p>
