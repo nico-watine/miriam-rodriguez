@@ -4809,6 +4809,10 @@ a.thumbnail {
     width: 100%; }
   #index.index .bio .prose {
     background: rgba(255, 255, 255, 0.5); }
+    #index.index .bio .prose span.bar {
+      width: 210px;
+      height: 5px;
+      background: #0a0a0a; }
     #index.index .bio .prose p {
       font-size: 1.125rem; }
       @media print, screen and (min-width: 40em) {

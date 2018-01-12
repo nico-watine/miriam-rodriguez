@@ -18,6 +18,12 @@
 
 		.prose {
 			background: rgba(255,255,255,0.50);
+
+			span.bar {
+				width: 210px;
+				height: 5px;
+				background: $black;
+			}
 			
 			.intro {
 				@extend .lead;

@@ -77,6 +77,8 @@ body-class: index
 		</div>
 		<div class="medium-6 columns padding-XY prose">
 			<p class="intro">Adjetivos que definen claramente las propuestas de Miriam Rodríguez, siempre inspirada en la mujer latina y su cuerpo de curvas sinuosas.</p>
+			<span class="bar block"></span>
+			<br>
 			<p>Nacida en Santa Marta, Colombia, pero zuliana por eleccion, Miriam Rodríguez tiene 45 años vistiendo a las mujeres más elegantes de la sociedad venezolana.</p>
 			<p>Su estilo siempre clásico y atemporal marca la elegancia y destaca a quien lo luce.</p>
 		</div>
