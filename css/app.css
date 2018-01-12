@@ -4771,7 +4771,7 @@ a.thumbnail {
 
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
-  @media only screen and (min-width: 820px) {
+  @media only screen and (min-width: 51.25rem) {
     .index#index .bridals .sectionHeading .content {
       background: url("/img/bridals/bridals.svg") center center/auto 95% no-repeat; } }
 

@@ -1,6 +1,6 @@
 @import "../../_settings.scss";
 
-$minWidth-820: "only screen and (min-width : 820px)";
+$minWidth-820: "only screen and (min-width : rem-calc(820))";
 
 .index#index {
 	.bridals {
