@@ -16,7 +16,7 @@ body-class: index
 	<div class="row padding-Y">
 		<div class="columns text-center sectionHeading">
 			<br>
-			<h2 style="color: #fff;"><strong>BRIDALS</strong></h2>
+			<h2 class="white"><strong>BRIDALS</strong></h2>
 			<br>
 		</div>
 	</div>
