@@ -14,9 +14,9 @@ body-class: index
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<nav>
 				<ul class="menu inline-block">
-					<li><a class="h3" style="color: #000;" href="#">Bridal</a></li>
+					<li><a class="h3" href="#">Bridal</a></li>
 					<li class="h3"><strong>|</strong></li>
-					<li><a class="h3" style="color: #000;" href="#">Bio</a></li>
+					<li><a class="h3" href="#">Bio</a></li>
 				</ul>
 			</nav>
 		</div>

@@ -16,6 +16,10 @@
 
 		.menu {
 			text-transform: uppercase;
+
+			a {
+				color: $black;
+			}
 		}
 	}
 }
