@@ -67,6 +67,8 @@ body-class: index
 			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;"><span class="block">Armonia,</span> <span class="block">Elegancia y</span> <span class="block">Distinción</span></h3>
 			<br>
 			<picture class="block">
+				<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
+				<source srcset="/img/bio/medium/miriam-rodriguez.jpg" media="(min-width: 640px)">
 				<img src="/img/bio/miriam-rodriguez.jpg" alt="…">
 			</picture>
 			<br>
