@@ -11,7 +11,9 @@ body-class: index
 <section class="bridals">
 	<div class="row" style="background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;">
 		<div class="columns">
+			<br>
 			<h2 class="text-center"><strong>BRIDALS</strong></h2>
+			<br>
 		</div>
 	</div>
 	<div class="row collapse">
