@@ -8,6 +8,10 @@ og-image:
 body-id: index
 body-class: index
 ---
+<section style="height: 800px; background: #fff url('/img/splash/splash-1.jpg') center top/cover no-repeat;" class="splash">
+	
+</section>
+
 <section style="background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;" class="bridals">
 	<div class="row padding-Y">
 		<div class="columns text-center" style="background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;">

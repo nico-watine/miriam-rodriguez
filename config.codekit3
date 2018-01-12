@@ -4336,6 +4336,16 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4463,6 +4473,36 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/dist\/img\/splash\/New Folder With Items\/splash.jpg": {
+		"ft": 16384,
+		"iS": 85520,
+		"oA": 1,
+		"oAP": "\/dist\/img\/splash\/New Folder With Items\/splash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/splash\/splash-1.jpg": {
+		"ft": 16384,
+		"iS": 85520,
+		"oA": 1,
+		"oAP": "\/dist\/img\/splash\/splash-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/splash\/splash.jpg": {
+		"ft": 16384,
+		"iS": 85520,
+		"oA": 1,
+		"oAP": "\/dist\/img\/splash\/splash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/index.php": {
 		"cB": 0,
@@ -4625,6 +4665,16 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/splash\/splash-1.jpg": {
+		"ft": 16384,
+		"iS": 85520,
+		"oA": 1,
+		"oAP": "\/img\/splash\/splash-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
