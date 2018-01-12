@@ -10,9 +10,11 @@ body-class: index
 ---
 <section style="background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;" class="bridals">
 	<div class="row padding-Y">
-		<div class="columns text-center">
+		<div class="columns text-center" style="background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;">
+			<br>
 			<h2><strong>BRIDALS</strong></h2>
-			<img style="max-width: 760px;" src="/img/bridals/bridals.svg" alt="">
+			<br>
+			<!-- <img style="max-width: 760px;" src="/img/bridals/bridals.svg" alt=""> -->
 		</div>
 	</div>
 	<div class="row collapse">
