@@ -52,7 +52,7 @@ body-class: index
 	<div class="row expanded collapse sectionHeading">
 		<div class="columns text-center content padding-Y">
 			<br>
-			<h2 class="white"><strong>@</strong>REAL<strong>MIRIAM</strong>RODRIGUEZ</h2>
+			<h2 class="white"><span class="inline-block"><strong>@</strong>REAL</span><span class="inline-block"><strong>MIRIAM</strong></span><span class="inline-block">RODRIGUEZ</span></h2>
 			<br>
 		</div>
 	</div>
