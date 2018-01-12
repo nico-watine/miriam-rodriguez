@@ -12,9 +12,8 @@ body-class: index
 	<div class="row padding-Y">
 		<div class="columns text-center" style="background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;">
 			<br>
-			<h2><strong>BRIDALS</strong></h2>
+			<h2 style="color: #fff;"><strong>BRIDALS</strong></h2>
 			<br>
-			<!-- <img style="max-width: 760px;" src="/img/bridals/bridals.svg" alt=""> -->
 		</div>
 	</div>
 	<div class="row collapse">
