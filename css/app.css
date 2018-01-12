@@ -4790,6 +4790,8 @@ body#index.index {
 
 #index.index .instagram .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
+  #index.index .instagram .sectionHeading .content {
+    background: url("/img/instagram/instagram.svg") center center/auto 120% no-repeat; }
 
 #index.index .sectionHeading h2 {
   letter-spacing: 0.125rem; }
