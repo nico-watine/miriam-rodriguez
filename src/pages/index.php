@@ -73,7 +73,7 @@ body-class: index
 			<br>
 			<h4>(0261) 741.15.82 - (0414) 364.63.12</h4>
 			<br>
-			<a class="h4" href="mailto:info@miriamrodriguez.com">info@miriamrodriguez.com</a>
+			<a class="h4 block" href="mailto:info@miriamrodriguez.com">info@miriamrodriguez.com</a>
 			<br>
 			<br>
 		</div>
