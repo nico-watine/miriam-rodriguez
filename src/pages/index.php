@@ -60,9 +60,8 @@ body-class: index
 
 <div id="curator-feed"></div>
 
-<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+<!-- Curator.io Instagram feed javascript snippet -->
 <script type="text/javascript">
-// curator-feed
 (function(){
     var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
     i.src = "https://cdn.curator.io/published/a82c8ade-f8fd-49f6-b452-f5aaae18.js";
