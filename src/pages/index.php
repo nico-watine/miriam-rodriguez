@@ -64,7 +64,7 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns medium-text-right padding-0">
-			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;"><span class="block">Armonia,</span> <span class="block">Elegancia y</span> <span class="block">Distinción</span></h3>
+			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción<!-- <span class="block">Armonia,</span> <span class="block">Elegancia y</span> <span class="block">Distinción</span> --></h3>
 			<br>
 			<picture class="block">
 				<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
