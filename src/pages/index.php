@@ -14,9 +14,9 @@ body-class: index
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<nav>
 				<ul class="menu inline-block">
-					<li><a class="h3" href="#">Bridal</a></li>
+					<li data-magellan><a class="h3" href="#bridals">Bridal</a></li>
 					<li class="h3"><strong>|</strong></li>
-					<li><a class="h3" href="#">Bio</a></li>
+					<li data-magellan><a class="h3" href="#bio">Bio</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -34,7 +34,7 @@ body-class: index
 	</div>
 </section>
 
-<section class="bridals">
+<section id="bridals" class="bridals" data-magellan-target="bridals">
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
@@ -54,7 +54,7 @@ body-class: index
 	</div>
 </section>
 
-<section class="bio">
+<section id="bio" class="bio">
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
