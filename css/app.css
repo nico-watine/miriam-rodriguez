@@ -4827,9 +4827,6 @@ a.thumbnail {
 .flex {
   display: flex; }
 
-.relative {
-  display: relative; }
-
 .boxShadow-1 {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 
@@ -4844,6 +4841,9 @@ a.thumbnail {
 
 .boxShadow-5 {
   box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3); }
+
+.relative {
+  position: relative; }
 
 .padding-0 {
   padding: 0; }
