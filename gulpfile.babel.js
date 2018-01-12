@@ -47,9 +47,9 @@ function pages() {
   return gulp.src('src/pages/**/*.{html,php,htm,hbs,handlebars}') // <-must specify exactly what kind
     .pipe(panini({
       root: 'src/pages/',
-      layouts: 'src/layouts/',
+      // layouts: 'src/layouts/',
       // UNCOMMENT FOR PRODUCTION ::
-      // layouts: 'src/layouts-production/',
+      layouts: 'src/layouts-production/',
       partials: 'src/partials/',
       data: 'src/data/',
       helpers: 'src/helpers/'
