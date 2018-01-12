@@ -4795,7 +4795,8 @@ a.thumbnail {
   color: #fff !important; }
 
 #index.index .sectionHeading h2 {
-  letter-spacing: 0.125rem; }
+  letter-spacing: 0.125rem;
+  text-transform: uppercase; }
 
 .inline-block {
   display: inline-block; }

@@ -16,7 +16,7 @@ body-class: index
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
-			<h2 class="white"><strong>BRIDALS</strong></h2>
+			<h2 class="white"><strong>Bridals</strong></h2>
 			<br>
 		</div>
 	</div>
@@ -36,7 +36,7 @@ body-class: index
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
-			<h2><strong>BIO</strong></h2>
+			<h2><strong>Bio</strong></h2>
 			<br>
 		</div>
 	</div>
@@ -52,7 +52,7 @@ body-class: index
 	<div class="row expanded collapse sectionHeading">
 		<div class="columns text-center content padding-Y">
 			<br>
-			<h2 class="white"><span class="inline-block"><strong>@</strong>REAL</span><span class="inline-block"><strong>MIRIAM</strong></span><span class="inline-block">RODRIGUEZ</span></h2>
+			<h2 class="white"><span class="inline-block"><strong>@</strong>real</span><span class="inline-block"><strong>Miriam</strong></span><span class="inline-block">Rodriguez</span></h2>
 			<br>
 		</div>
 	</div>
