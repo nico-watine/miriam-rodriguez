@@ -8,8 +8,30 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="splash">
-	
+<section class="splash text-center relative">
+	<div class="masthead flex absolute">
+		<div class="prose absolute">
+			<h1 class="serif">Miriam Rodríguez</h1>
+			<nav>
+				<ul class="menu inline-block">
+					<li><a class="h3" href="#">Bridal</a></li>
+					<li class="h3"><strong>|</strong></li>
+					<li><a class="h3" href="#">Bio</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="logoWrapper">
+			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+		</div>
+	</div>
+	<div class="row expanded collapse">
+		<div class="medium-6 columns">
+			<img src="/img/splash/splash-1.jpg" alt="">
+		</div>
+		<div class="medium-6 columns">
+			<img src="/img/splash/splash-2.jpg" alt="">
+		</div>
+	</div>
 </section>
 
 <section class="bridals">

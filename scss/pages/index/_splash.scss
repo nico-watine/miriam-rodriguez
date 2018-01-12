@@ -2,7 +2,29 @@
 
 .index#index {
 	.splash {
-		height: 800px;
-		background: #fff url('/img/splash/splash-1.jpg') center top/cover no-repeat;
+		.masthead {
+			width: 100%;
+			height: 100%;
+			justify-content: center;
+			flex-direction: column;
+		}
+
+		.prose {
+			width: 100%;
+			z-index: 10;
+		}
+
+		.menu {
+			text-transform: uppercase;
+
+			a {
+				color: $black;
+				border-bottom: rem-calc(3) solid transparent;
+
+				&:hover {
+					border-bottom: rem-calc(3) solid #5B5EA6;
+				}
+			}
+		}
 	}
 }

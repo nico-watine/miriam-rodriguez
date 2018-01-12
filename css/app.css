@@ -4769,9 +4769,23 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
-.index#index .splash {
-  height: 800px;
-  background: #fff url("/img/splash/splash-1.jpg") center top/cover no-repeat; }
+.index#index .splash .masthead {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  flex-direction: column; }
+
+.index#index .splash .prose {
+  width: 100%;
+  z-index: 10; }
+
+.index#index .splash .menu {
+  text-transform: uppercase; }
+  .index#index .splash .menu a {
+    color: #0a0a0a;
+    border-bottom: 0.1875rem solid transparent; }
+    .index#index .splash .menu a:hover {
+      border-bottom: 0.1875rem solid #5B5EA6; }
 
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
@@ -4845,6 +4859,12 @@ a.thumbnail {
 
 .boxShadow-5 {
   box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3); }
+
+.relative {
+  position: relative; }
+
+.absolute {
+  position: absolute; }
 
 .padding-0 {
   padding: 0; }
