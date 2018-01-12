@@ -12,12 +12,12 @@ body-class: index
 	<div class="row expanded collapse">
 		<div class="medium-6 columns" style="position: relative;">
 			<div class="imgWrapper" style="padding-top: 111.1111111%;">
-				<img style="position: absolute; top: 0; left: 0;" src="/img/splash/splash-1.jpg" alt="">
+				<img style="position: absolute; top: 0; left: 0; width: 100%;" src="/img/splash/splash-1.jpg" alt="">
 			</div>
 		</div>
 		<div class="medium-6 columns" style="position: relative;">
 			<div class="imgWrapper" style="padding-top: 111.1111111%;">
-				<img style="position: absolute; top: 0; left: 0;" src="/img/splash/splash-2.jpg" alt="">
+				<img style="position: absolute; top: 0; left: 0; width: 100%;" src="/img/splash/splash-2.jpg" alt="">
 			</div>
 		</div>
 	</div>
