@@ -4805,6 +4805,11 @@ a.thumbnail {
     #index.index .contact hr {
       width: 75%; } }
 
+#index.index .contact #name small {
+  text-transform: uppercase;
+  letter-spacing: 0.09375rem;
+  color: #0a0a0a; }
+
 #index.index .sectionHeading h2 {
   letter-spacing: 0.125rem;
   text-transform: uppercase; }

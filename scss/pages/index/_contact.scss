@@ -10,5 +10,13 @@
 				width: 75%;
 			}
 		}
+
+		#name {
+			small {
+				text-transform: uppercase;
+				letter-spacing: rem-calc(1.5);
+				color: $black;
+			}
+		}
 	}
 }
