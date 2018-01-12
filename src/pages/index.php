@@ -64,7 +64,7 @@ body-class: index
 <section class="contact">
 	<hr>
 	<div class="row text-center">
-		<h3>Miriam Rodríguez</h3>
+		<h3><span class="serif">Miriam Rodríguez,</span> <small style="text-transform: uppercase; letter-spacing: 1.5px;">Alta Costura</small></h3>
 		<h4>@realmiriamrodriguez</h4>
 		<br>
 		<h4>Ave 9, calle 66A Nro 66A-17 <br>
