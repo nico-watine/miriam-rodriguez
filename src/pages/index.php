@@ -9,19 +9,14 @@ body-id: index
 body-class: index
 ---
 <section class="splash">
-	<div class="row flex verticalCenter" style="height: 100vh; position: absolute; width: 100%; top: 0; left: 0; z-index: 10;">
-		<div class="content columns text-center">
-			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
-		</div>
-	</div>
-	<div class="row expanded collapse">
-		<div class="medium-6 columns relative">
-			<div class="imgWrapper">
+	<div class="row expanded collapse text-center relative">
+		<div class="medium-6 columns">
+			<div class="imgWrapper relative">
 				<img src="/img/splash/splash-1.jpg" alt="">
 			</div>
 		</div>
-		<div class="medium-6 columns relative">
-			<div class="imgWrapper">
+		<div class="medium-6 columns">
+			<div class="imgWrapper relative">
 				<img src="/img/splash/splash-2.jpg" alt="">
 			</div>
 		</div>
