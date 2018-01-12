@@ -1,12 +1,16 @@
 @import "../../_settings.scss";
 
+$minWidth-820: "only screen and (min-width : 820px)";
+
 .index#index {
 	.bridals {
 		.sectionHeading {
 			background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;
 
 			.content {
-				background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;
+				@media #{$minWidth-820} {
+					background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;
+				}
 			}
 		}
 	}
