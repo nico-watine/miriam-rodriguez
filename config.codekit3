@@ -72,6 +72,13 @@
 		"oAP": "\/_ignores\/miriam-rodriguez.sublime-workspace",
 		"oF": 0
 		},
+	"\/_ignores\/social-media\/instagram\/curator-io.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_ignores\/social-media\/instagram\/curator-io.html",
+		"oF": 0
+		},
 	"\/assets\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
@@ -4315,196 +4322,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/dist\/.htaccess": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/.htaccess",
-		"oF": 0
-		},
-	"\/dist\/403.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/403.html",
-		"oF": 0
-		},
-	"\/dist\/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/404.html",
-		"oF": 0
-		},
-	"\/dist\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/dist\/humans.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/humans.txt",
-		"oF": 0
-		},
-	"\/dist\/img\/assets\/hex-pattern.png": {
-		"ft": 32768,
-		"iS": 15987,
-		"oA": 1,
-		"oAP": "\/dist\/img\/assets\/hex-pattern.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-1.jpg": {
-		"ft": 16384,
-		"iS": 102852,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-2.jpg": {
-		"ft": 16384,
-		"iS": 72724,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-3.jpg": {
-		"ft": 16384,
-		"iS": 77205,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-4.jpg": {
-		"ft": 16384,
-		"iS": 90378,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-5.jpg": {
-		"ft": 16384,
-		"iS": 124410,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-6.jpg": {
-		"ft": 16384,
-		"iS": 54054,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-7.jpg": {
-		"ft": 16384,
-		"iS": 174353,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-8.jpg": {
-		"ft": 16384,
-		"iS": 70759,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/bridals\/bridals.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/dist\/index.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/index.php",
-		"oF": 0
-		},
-	"\/dist\/js\/app-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/app-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/custom\/scripts-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/dist\/js\/vendor\/jquery\/jquery-min-min.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/dist\/php\/autoVer.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/php\/autoVer.php",
-		"oF": 0
-		},
-	"\/dist\/robots.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/robots.txt",
-		"oF": 0
-		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4524,6 +4341,36 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/bio\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/bio\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/bio\/medium\/miriam-rodriguez.jpg": {
+		"ft": 16384,
+		"iS": 32696,
+		"oA": 1,
+		"oAP": "\/img\/bio\/medium\/miriam-rodriguez.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bio\/miriam-rodriguez.jpg": {
+		"ft": 16384,
+		"iS": 56796,
+		"oA": 1,
+		"oAP": "\/img\/bio\/miriam-rodriguez.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/bridals\/bridals-1.jpg": {
@@ -4615,6 +4462,56 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/instagram\/instagram.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/instagram\/instagram.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/splash\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/splash\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/splash\/splash-1.jpg": {
+		"ft": 16384,
+		"iS": 52761,
+		"oA": 1,
+		"oAP": "\/img\/splash\/splash-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/splash\/splash-2.jpg": {
+		"ft": 16384,
+		"iS": 52709,
+		"oA": 1,
+		"oAP": "\/img\/splash\/splash-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/splash\/splash-double.jpg": {
+		"ft": 16384,
+		"iS": 85520,
+		"oA": 1,
+		"oAP": "\/img\/splash\/splash-double.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
@@ -4880,6 +4777,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/index\/_bio.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_bio.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/_bridals.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4893,6 +4803,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/index\/_contact.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_contact.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/pages\/index\/_index.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4902,6 +4825,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/pages\/css\/_index.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_instagram.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_instagram.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_splash.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_splash.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -4964,7 +4913,7 @@
 	"\/src\/pages\/index.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},

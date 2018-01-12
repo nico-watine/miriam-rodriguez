@@ -1925,7 +1925,7 @@ kbd {
   line-height: 1.4;
   color: #8a8a8a; }
 
-.lead {
+.lead, #index.index .bio .prose .intro {
   font-size: 125%;
   line-height: 1.6; }
 
@@ -4724,6 +4724,10 @@ a.thumbnail {
 .long-delay {
   animation-delay: 700ms !important; }
 
+.serif {
+  font-family: 'Playfair Display SC', TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+  font-weight: 700; }
+
 .p {
   font-size: 1rem; }
 
@@ -4759,11 +4763,103 @@ a.thumbnail {
   .h6 {
     font-size: 0.8125rem; } }
 
+.white {
+  color: #fefefe; }
+
+.black {
+  color: #0a0a0a; }
+
+.index#index .splash .masthead {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  flex-direction: column; }
+
+.index#index .splash .prose {
+  width: 100%;
+  z-index: 10; }
+
+.index#index .splash .menu {
+  text-transform: uppercase; }
+  .index#index .splash .menu a {
+    color: #0a0a0a;
+    border-bottom: 0.1875rem solid transparent; }
+    .index#index .splash .menu a:hover {
+      border-bottom: 0.1875rem solid #5B5EA6; }
+
+.index#index .bridals .sectionHeading {
+  background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
+  .index#index .bridals .sectionHeading .content {
+    background: url("/img/bridals/bridals.svg") center center/95% auto no-repeat; }
+    @media only screen and (min-width: 51.25rem) {
+      .index#index .bridals .sectionHeading .content {
+        background: url("/img/bridals/bridals.svg") center center/auto 95% no-repeat; } }
+
+.index#index .bridals .imageGallery img {
+  max-width: 31.25rem;
+  width: 100%; }
+
+#index.index .bio {
+  background: #fefefe url("/img/bio/logo.svg") right top/contain no-repeat; }
+  #index.index .bio .pictureWrapper h3 {
+    background-image: linear-gradient(-180deg, transparent 0%, #000 100%);
+    bottom: 0;
+    width: 100%; }
+  #index.index .bio .pictureWrapper img {
+    width: 100%; }
+  #index.index .bio .prose {
+    background: rgba(255, 255, 255, 0.5); }
+    #index.index .bio .prose span.bar {
+      width: 210px;
+      height: 5px;
+      background: #0a0a0a; }
+    #index.index .bio .prose p {
+      font-size: 1.125rem; }
+      @media print, screen and (min-width: 40em) {
+        #index.index .bio .prose p {
+          font-size: 1.375rem !important; } }
+
+#index.index .instagram .sectionHeading {
+  background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
+  #index.index .instagram .sectionHeading .content {
+    background: url("/img/instagram/instagram.svg") center center/auto 120% no-repeat; }
+
+#curator-feed.crt-grid .crt-feed-more a {
+  background-color: #5B5DA6 !important;
+  color: #fff !important; }
+
+#index.index .contact hr {
+  border-bottom: 0.1875rem solid #5B5EA6;
+  width: 80%; }
+  @media print, screen and (min-width: 40em) {
+    #index.index .contact hr {
+      width: 75%; } }
+
+#index.index .contact #name small {
+  text-transform: uppercase;
+  letter-spacing: 0.09375rem;
+  color: #0a0a0a; }
+
+#index.index .contact address {
+  font-style: normal; }
+
+#index.index .contact a {
+  color: #5B5EA6; }
+  #index.index .contact a:hover {
+    text-decoration: underline; }
+
+#index.index .sectionHeading h2 {
+  letter-spacing: 0.125rem;
+  text-transform: uppercase; }
+
 .inline-block {
   display: inline-block; }
 
 .block {
   display: block; }
+
+.flex {
+  display: flex; }
 
 .boxShadow-1 {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
@@ -4779,6 +4875,12 @@ a.thumbnail {
 
 .boxShadow-5 {
   box-shadow: 0 1.0625rem 1.0625rem 0 rgba(0, 0, 0, 0.15), 0 1.6875rem 3.4375rem 0 rgba(0, 0, 0, 0.3); }
+
+.relative {
+  position: relative; }
+
+.absolute {
+  position: absolute; }
 
 .padding-0 {
   padding: 0; }

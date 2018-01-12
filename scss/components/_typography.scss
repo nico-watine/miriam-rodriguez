@@ -1,6 +1,18 @@
 @import "../_settings.scss";
 @import "typography/_fonts.scss";
 
+
+// -----------------------------------------------------
+// |            font-family utility classes            |
+// -----------------------------------------------------
+
+.serif {
+	font-family: 'Playfair Display SC', TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-weight: 700;
+}
+
+// ---------------------------------------------------------------------- //
+
 .p {
 	font-size: $p;
 }
@@ -53,5 +65,19 @@
 	.h6 {
 		font-size: $h6-medium;
 	}
+}
+
+// ---------------------------------------------------------------------- //
+
+// ---------------------------------------
+// |            Color Classes            |
+// ---------------------------------------
+
+.white {
+	color: $white;
+}
+
+.black {
+	color: $black;
 }
 
