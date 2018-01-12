@@ -8,6 +8,8 @@ $minWidth-820: "only screen and (min-width : rem-calc(820))";
 			background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;
 
 			.content {
+				background: url('/img/bridals/bridals.svg') center center/90% auto no-repeat;
+
 				@media #{$minWidth-820} {
 					background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;
 				}
