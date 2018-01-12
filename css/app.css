@@ -4725,7 +4725,7 @@ a.thumbnail {
   animation-delay: 700ms !important; }
 
 .serif {
-  font-family: 'Playfair Display SC', serif; }
+  font-family: 'Playfair Display SC', TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; }
 
 .p {
   font-size: 1rem; }
