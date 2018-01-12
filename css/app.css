@@ -4785,7 +4785,8 @@ body#index.index {
   width: 100%; }
 
 #index.index .bio {
-  padding-bottom: 8.125rem; }
+  padding-bottom: 8.125rem;
+  background: #fefefe url("/img/bio/logo.svg") right top/contain no-repeat; }
 
 #index.index .sectionHeading h2 {
   letter-spacing: 0.125rem; }
