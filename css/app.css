@@ -4769,6 +4769,11 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
+.index#index .splash .logoWrapper {
+  width: 100%;
+  height: 100%;
+  justify-content: center; }
+
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
   .index#index .bridals .sectionHeading .content {
