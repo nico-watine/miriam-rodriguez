@@ -8,17 +8,16 @@ og-image:
 body-id: index
 body-class: index
 ---
-<section class="splash">
-	<div class="row expanded collapse text-center relative">
+<section class="splash text-center" style="position: relative;">
+	<div class="logoWrapper" style="position: absolute; width: 100%; height: 100%;">
+		<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+	</div>
+	<div class="row expanded collapse">
 		<div class="medium-6 columns">
-			<div class="imgWrapper relative">
-				<img src="/img/splash/splash-1.jpg" alt="">
-			</div>
+			<img src="/img/splash/splash-1.jpg" alt="">
 		</div>
 		<div class="medium-6 columns">
-			<div class="imgWrapper relative">
-				<img src="/img/splash/splash-2.jpg" alt="">
-			</div>
+			<img src="/img/splash/splash-2.jpg" alt="">
 		</div>
 	</div>
 </section>
