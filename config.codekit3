@@ -4363,6 +4363,86 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/bridals\/bridals-1.jpg": {
+		"ft": 16384,
+		"iS": 103666,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/bridals-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/bridals-2.jpg": {
+		"ft": 16384,
+		"iS": 73380,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/bridals-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/bridals-3.jpg": {
+		"ft": 16384,
+		"iS": 77580,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/bridals-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/bridals-4.jpg": {
+		"ft": 16384,
+		"iS": 91027,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/bridals-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/bridals-5.jpg": {
+		"ft": 16384,
+		"iS": 125540,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/bridals-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/bridals-6.jpg": {
+		"ft": 16384,
+		"iS": 54992,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/bridals-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/bridals-7.jpg": {
+		"ft": 16384,
+		"iS": 176866,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/bridals-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/bridals-8.jpg": {
+		"ft": 16384,
+		"iS": 71738,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/bridals-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4423,6 +4503,86 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/img\/bridals\/bridals-1.jpg": {
+		"ft": 16384,
+		"iS": 103666,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/bridals-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/bridals-2.jpg": {
+		"ft": 16384,
+		"iS": 73380,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/bridals-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/bridals-3.jpg": {
+		"ft": 16384,
+		"iS": 77580,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/bridals-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/bridals-4.jpg": {
+		"ft": 16384,
+		"iS": 91027,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/bridals-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/bridals-5.jpg": {
+		"ft": 16384,
+		"iS": 125540,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/bridals-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/bridals-6.jpg": {
+		"ft": 16384,
+		"iS": 54992,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/bridals-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/bridals-7.jpg": {
+		"ft": 16384,
+		"iS": 176866,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/bridals-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/bridals-8.jpg": {
+		"ft": 16384,
+		"iS": 71738,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/bridals-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
