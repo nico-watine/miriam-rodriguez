@@ -59,18 +59,20 @@ body-class: index
 		<div class="columns text-center content">
 			<br>
 			<h2><strong>Bio</strong></h2>
-			<!-- <br> -->
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns medium-text-right padding-0">
-			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción<!-- <span class="block">Armonia,</span> <span class="block">Elegancia y</span> <span class="block">Distinción</span> --></h3>
+			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción</h3>
 			<br>
-			<picture class="block">
-				<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
-				<source srcset="/img/bio/medium/miriam-rodriguez.jpg" media="(min-width: 640px)">
-				<img src="/img/bio/miriam-rodriguez.jpg" alt="…">
-			</picture>
+			<div class="pictureWrapper relative text-center">
+				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
+				<picture class="block">
+					<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
+					<source srcset="/img/bio/medium/miriam-rodriguez.jpg" media="(min-width: 640px)">
+					<img src="/img/bio/miriam-rodriguez.jpg" alt="…">
+				</picture>
+			</div>
 			<br>
 		</div>
 		<div class="medium-6 columns padding-XY prose">
