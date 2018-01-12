@@ -4769,12 +4769,10 @@ a.thumbnail {
   height: 800px;
   background: #fff url("/img/splash/splash-1.jpg") center top/cover no-repeat; }
 
-.index#index .bridals {
-  background: #fefefe; }
-  .index#index .bridals .sectionHeading {
-    background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
-    .index#index .bridals .sectionHeading .content {
-      background: url("/img/bridals/bridals.svg") center center/auto 95% no-repeat; }
+.index#index .bridals .sectionHeading {
+  background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
+  .index#index .bridals .sectionHeading .content {
+    background: url("/img/bridals/bridals.svg") center center/auto 95% no-repeat; }
 
 #index.index .sectionHeading h2 {
   letter-spacing: 0.125rem; }
