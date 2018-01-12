@@ -959,8 +959,8 @@ pre {
         margin-left: -0.75rem; } }
     @media print, screen and (min-width: 64em) {
       .row .row {
-        margin-right: -0.75rem;
-        margin-left: -0.75rem; } }
+        margin-right: -0.9375rem;
+        margin-left: -0.9375rem; } }
     .row .row.collapse {
       margin-right: 0;
       margin-left: 0; }
@@ -977,6 +977,9 @@ pre {
   .row.gutter-medium > .column, .row.gutter-medium > .columns {
     padding-right: 0.75rem;
     padding-left: 0.75rem; }
+  .row.gutter-large > .column, .row.gutter-large > .columns {
+    padding-right: 0.9375rem;
+    padding-left: 0.9375rem; }
 
 .column, .columns {
   width: 100%;
@@ -987,6 +990,10 @@ pre {
     .column, .columns {
       padding-right: 0.75rem;
       padding-left: 0.75rem; } }
+  @media print, screen and (min-width: 64em) {
+    .column, .columns {
+      padding-right: 0.9375rem;
+      padding-left: 0.9375rem; } }
   .column:last-child:not(:first-child), .columns:last-child:not(:first-child) {
     float: right; }
   .column.end:last-child:last-child, .end.columns:last-child:last-child {
@@ -1682,8 +1689,8 @@ pre {
     margin-right: 0;
     margin-left: 0; }
   .large-uncollapse > .column, .large-uncollapse > .columns {
-    padding-right: 0.75rem;
-    padding-left: 0.75rem; }
+    padding-right: 0.9375rem;
+    padding-left: 0.9375rem; }
   .large-centered {
     margin-right: auto;
     margin-left: auto; }
@@ -1705,6 +1712,11 @@ pre {
   @media print, screen and (min-width: 40em) {
     .column-block {
       margin-bottom: 1.5rem; }
+      .column-block > :last-child {
+        margin-bottom: 0; } }
+  @media print, screen and (min-width: 64em) {
+    .column-block {
+      margin-bottom: 1.875rem; }
       .column-block > :last-child {
         margin-bottom: 0; } }
 
@@ -2014,9 +2026,7 @@ kbd {
     widows: 3; }
   h2,
   h3 {
-    page-break-after: avoid; }
-  .print-break-inside {
-    page-break-inside: auto; } }
+    page-break-after: avoid; } }
 
 .button {
   display: inline-block;
@@ -2167,18 +2177,6 @@ kbd {
     display: inline-block;
     float: right;
     margin-left: 1em; }
-  .button.dropdown.hollow::after {
-    border-top-color: #1779ba; }
-  .button.dropdown.hollow.primary::after {
-    border-top-color: #1779ba; }
-  .button.dropdown.hollow.secondary::after {
-    border-top-color: #767676; }
-  .button.dropdown.hollow.success::after {
-    border-top-color: #3adb76; }
-  .button.dropdown.hollow.warning::after {
-    border-top-color: #ffae00; }
-  .button.dropdown.hollow.alert::after {
-    border-top-color: #cc4b37; }
   .button.arrow-only::after {
     top: -0.1em;
     float: none;
@@ -3698,7 +3696,6 @@ html.is-reveal-open,
 html.is-reveal-open body {
   min-height: 100%;
   overflow: hidden;
-  position: fixed;
   user-select: none; }
 
 .reveal-overlay {
@@ -3730,7 +3727,8 @@ html.is-reveal-open body {
   @media print, screen and (min-width: 40em) {
     .reveal {
       min-height: 0; } }
-  .reveal .column, .reveal .columns {
+  .reveal .column, .reveal .columns,
+  .reveal .columns {
     min-width: 0; }
   .reveal > :last-child {
     margin-bottom: 0; }
