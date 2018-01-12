@@ -68,11 +68,11 @@ body-class: index
 			<!-- <span class="block">Armonia,</span> <span class="block">Elegancia y</span> <span class="block">Distinción</span> -->
 			<br>
 			<div class="pictureWrapper relative text-center">
-				<h3 class="serif white absolute margin-0 padding-Y" style="background-image: linear-gradient(-180deg, rgba(0,0,0,0.00) 0%, #000000 100%); bottom: 0; width: 100%;">Miriam Rodríguez</h3>
+				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
 				<picture class="block">
 					<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
 					<source srcset="/img/bio/medium/miriam-rodriguez.jpg" media="(min-width: 640px)">
-					<img style="width: 100%;" src="/img/bio/miriam-rodriguez.jpg" alt="…">
+					<img src="/img/bio/miriam-rodriguez.jpg" alt="…">
 				</picture>
 			</div>
 			<br>
