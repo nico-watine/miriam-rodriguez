@@ -56,9 +56,9 @@ body-class: index
 			<br>
 		</div>
 	</div>
+	<div id="curator-feed"></div>
 </section>
 
-<div id="curator-feed"></div>
 
 <!-- Curator.io Instagram feed javascript snippet -->
 <script type="text/javascript">
