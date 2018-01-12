@@ -13,7 +13,7 @@ body-class: index
 </section>
 
 <section class="bridals">
-	<div class="row padding-Y">
+	<div class="row padding-Y expanded collapse">
 		<div class="columns text-center sectionHeading">
 			<br>
 			<h2 class="white"><strong>BRIDALS</strong></h2>
