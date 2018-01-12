@@ -62,7 +62,7 @@ body-class: index
 			<br>
 		</div>
 	</div>
-	<div class="row collapse">
+	<div class="row">
 		<div class="medium-6 columns text-right">
 			<h3 class="h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, <br>Elegancia <br>y Distinción</h3>
 			<img src="/img/bio/miriam-rodriguez.jpg" alt="">
