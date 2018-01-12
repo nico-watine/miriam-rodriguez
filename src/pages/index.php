@@ -49,5 +49,11 @@ body-class: index
 </section>
 
 <section class="instagram">
-	
+	<div class="row padding-Y expanded collapse sectionHeading">
+		<div class="columns text-center content">
+			<br>
+			<h2 class="white"><strong>BRIDALS</strong></h2>
+			<br>
+		</div>
+	</div>
 </section>
