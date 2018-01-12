@@ -4763,6 +4763,11 @@ a.thumbnail {
   height: 800px;
   background: #fff url("/img/splash/splash-1.jpg") center top/cover no-repeat; }
 
+.index#index .bridals {
+  background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
+  .index#index .bridals .sectionHeading {
+    background: url("/img/bridals/bridals.svg") center center/auto 95% no-repeat; }
+
 .inline-block {
   display: inline-block; }
 

@@ -12,9 +12,9 @@ body-class: index
 	
 </section>
 
-<section style="background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;" class="bridals">
+<section class="bridals">
 	<div class="row padding-Y">
-		<div class="columns text-center" style="background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;">
+		<div class="columns text-center sectionHeading">
 			<br>
 			<h2 style="color: #fff;"><strong>BRIDALS</strong></h2>
 			<br>
