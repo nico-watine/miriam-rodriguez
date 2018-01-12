@@ -59,7 +59,6 @@ body-class: index
 		<div class="columns text-center content">
 			<br>
 			<h2><strong>Bio</strong></h2>
-			<!-- <br> -->
 		</div>
 	</div>
 	<div class="row">
