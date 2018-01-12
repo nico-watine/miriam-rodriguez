@@ -4807,11 +4807,13 @@ a.thumbnail {
     width: 100%; }
   #index.index .bio .pictureWrapper img {
     width: 100%; }
-  #index.index .bio .prose p {
-    font-size: 1.125rem; }
-    @media print, screen and (min-width: 40em) {
-      #index.index .bio .prose p {
-        font-size: 1.375rem !important; } }
+  #index.index .bio .prose {
+    background: rgba(255, 255, 255, 0.5); }
+    #index.index .bio .prose p {
+      font-size: 1.125rem; }
+      @media print, screen and (min-width: 40em) {
+        #index.index .bio .prose p {
+          font-size: 1.375rem !important; } }
 
 #index.index .instagram .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
