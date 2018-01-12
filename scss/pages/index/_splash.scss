@@ -19,6 +19,11 @@
 
 			a {
 				color: $black;
+				border-bottom: rem-calc(3) solid transparent;
+
+				&:hover {
+					border-bottom: rem-calc(3) solid #5B5EA6;
+				}
 			}
 		}
 	}
