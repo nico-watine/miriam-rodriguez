@@ -57,3 +57,5 @@ body-class: index
 		</div>
 	</div>
 </section>
+
+<div id="curator-feed"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
