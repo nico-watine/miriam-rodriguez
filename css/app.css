@@ -4775,6 +4775,10 @@ a.thumbnail {
   justify-content: center;
   flex-direction: column; }
 
+.index#index .splash .prose {
+  width: 100%;
+  z-index: 10; }
+
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
   .index#index .bridals .sectionHeading .content {

@@ -10,7 +10,7 @@ body-class: index
 ---
 <section class="splash text-center relative">
 	<div class="masthead flex absolute">
-		<div class="prose" style="position: absolute; width: 100%; z-index: 10;">
+		<div class="prose absolute">
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<nav>
 				<ul class="menu inline-block">

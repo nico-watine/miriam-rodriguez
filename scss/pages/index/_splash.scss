@@ -8,5 +8,10 @@
 			justify-content: center;
 			flex-direction: column;
 		}
+
+		.prose {
+			width: 100%;
+			z-index: 10;
+		}
 	}
 }
