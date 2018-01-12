@@ -4769,6 +4769,10 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
+.index#index .splash .verticalCenter {
+  flex-direction: column;
+  justify-content: center; }
+
 .index#index .splash .imgWrapper {
   padding-top: 111.1111111%; }
   .index#index .splash .imgWrapper img {

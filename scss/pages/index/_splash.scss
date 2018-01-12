@@ -2,6 +2,11 @@
 
 .index#index {
 	.splash {
+		.verticalCenter {
+			flex-direction: column;
+			justify-content: center;
+		}
+
 		.imgWrapper {
 			padding-top: 111.1111111%;
 
