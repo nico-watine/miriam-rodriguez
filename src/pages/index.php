@@ -12,6 +12,13 @@ body-class: index
 	<div class="masthead flex absolute">
 		<div class="prose" style="position: absolute; width: 100%; z-index: 10;">
 			<h1 class="serif">Miriam Rodríguez</h1>
+			<nav>
+				<ul class="menu">
+					<li><a href="#">Bridal</a></li>
+					<li>|</li>
+					<li><a href="#">Bio</a></li>
+				</ul>
+			</nav>
 		</div>
 		<div class="logoWrapper">
 			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
