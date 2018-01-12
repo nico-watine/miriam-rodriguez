@@ -40,7 +40,7 @@ body-class: index
 			<br>
 		</div>
 	</div>
-	<div class="row">
+	<div class="row collapse">
 		<div class="medium-6 columns">
 			<img src="/img/bio/miriam-rodriguez.jpg" alt="">
 		</div>
