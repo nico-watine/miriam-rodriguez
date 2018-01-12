@@ -9,7 +9,7 @@ body-id: index
 body-class: index
 ---
 <section class="bridals">
-	<div class="row">
+	<div class="row" style="background: #ECEBF1 url('/img/assets/hex-pattern.png') left top/auto repeat;">
 		<div class="columns">
 			<h2 class="text-center"><strong>BRIDALS</strong></h2>
 		</div>
