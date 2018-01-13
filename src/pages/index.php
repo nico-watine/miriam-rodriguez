@@ -58,7 +58,7 @@ body-class: index
 		<div class="medium-6 columns hide-for-large"><img src="/img/bridals/miriam-rodriguez-bridal-shot-2.jpg" alt=""></div>
 		<div class="medium-6 columns hide-for-large"><img src="/img/bridals/miriam-rodriguez-bridal-shot-1.jpg" alt=""></div>
 		<div class="show-for-large large-3 columns"><img src="/img/bridals/bridals-8.jpg" alt=""></div>
-		<div class="show-for-large large-3 columns end"><img src="/img/bridals/bridals-1.jpg" alt=""></div>
+		<div class="show-for-large large-3 columns"><img src="/img/bridals/bridals-1.jpg" alt=""></div>
 	</div>
 </section>
 
