@@ -4817,6 +4817,9 @@ a.thumbnail {
   max-width: 31.25rem;
   width: 100%; }
 
+.index#index .bridals .imageGallery .hide-for-large img {
+  max-width: none; }
+
 #index.index .bio {
   background: #fefefe url("/img/bio/logo.svg") right top/contain no-repeat; }
   #index.index .bio .pictureWrapper h3 {
