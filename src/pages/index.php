@@ -17,9 +17,9 @@ body-class: index
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<nav>
 				<ul class="menu inline-block">
-					<li data-magellan><a class="h3" href="#bridals">Bridal</a></li>
+					<li data-threshold="0" data-magellan><a class="h3" href="#bridals">Bridal</a></li>
 					<li class="h3"><strong>|</strong></li>
-					<li data-magellan><a class="h3" href="#bio">Bio</a></li>
+					<li data-threshold="0" data-magellan><a class="h3" href="#bio">Bio</a></li>
 				</ul>
 			</nav>
 			<div data-magellan class="iconWrapper show-for-small-only">
