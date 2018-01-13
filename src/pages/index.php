@@ -110,7 +110,7 @@ body-class: index
 	<hr>
 	<div class="row text-center">
 		<div class="columns prose">
-			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <small>Alta Costura</small></h3>
+			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <div class="inline-block"><small>Alta Costura</small></div></h3>
 			<a class="h4 block" href="https://www.instagram.com/realmiriamrodriguez/">@realmiriamrodriguez</a>
 			<br>
 			<address class="h4">Ave 9, calle 66A Nro 66A-17 <br>
