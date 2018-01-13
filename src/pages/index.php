@@ -1,6 +1,6 @@
 ---
 url: /
-title:
+title: Miriam Rodríguez, Alta Costura
 description:
 og-title:
 og-description:
