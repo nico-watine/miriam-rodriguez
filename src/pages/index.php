@@ -9,6 +9,11 @@ body-id: index
 body-class: index
 ---
 <section class="splash text-center relative">
+	<div data-magellan class="iconWrapper absolute" style="top: 30px; right: 30px; z-index: 20;">
+		<a href="#contact">
+			<img style="width: 40px; height: 40px;" src="/img/assets/contact.svg" alt="">
+		</a>
+	</div>
 	<div class="masthead flex absolute">
 		<div class="prose absolute">
 			<h1 class="serif">Miriam Rodríguez</h1>
@@ -98,7 +103,7 @@ body-class: index
 	<br>
 </section>
 
-<section class="contact">
+<section id="contact" class="contact">
 	<hr>
 	<div class="row text-center">
 		<div class="columns prose">
