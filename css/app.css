@@ -4793,6 +4793,10 @@ a.thumbnail {
   width: 100%;
   z-index: 10; }
 
+.index#index .splash .logoWrapper img {
+  width: 27.5rem;
+  opacity: .6; }
+
 .index#index .splash .menu {
   text-transform: uppercase; }
   .index#index .splash .menu a {

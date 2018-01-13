@@ -10,7 +10,7 @@ body-class: index
 ---
 <section class="splash text-center relative">
 	<div data-magellan class="iconWrapper absolute show-for-medium">
-		<a href="#contact"><img rc="/img/assets/contact.svg" alt="Contact Icon"></a>
+		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 	</div>
 	<div class="masthead flex absolute">
 		<div class="prose absolute">
@@ -23,11 +23,11 @@ body-class: index
 				</ul>
 			</nav>
 			<div data-magellan class="iconWrapper show-for-small-only">
-				<a href="#contact"><img  src="/img/assets/contact.svg" alt="Contact Icon"></a>
+				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 			</div>
 		</div>
 		<div class="logoWrapper">
-			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+			<img src="/img/splash/logo.svg" alt="">
 		</div>
 	</div>
 	<div class="row expanded collapse">

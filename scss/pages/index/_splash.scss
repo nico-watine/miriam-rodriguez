@@ -34,6 +34,13 @@
 			z-index: 10;
 		}
 
+		.logoWrapper {
+			img {
+				width: rem-calc(440);
+				opacity: .6;
+			}
+		}
+
 		.menu {
 			text-transform: uppercase;
 
