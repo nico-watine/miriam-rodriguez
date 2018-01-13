@@ -24,9 +24,9 @@ body-class: index
 					<li data-magellan><a class="h3" href="#bio">Bio</a></li>
 				</ul>
 			</nav>
-			<div data-magellan class="iconWrapper show-for-small-only" style="padding-top: 10px;">
+			<div data-magellan class="iconWrapper show-for-small-only">
 				<a href="#contact">
-					<img style="width: 30px; height: 30px;" src="/img/assets/contact.svg" alt="">
+					<img  src="/img/assets/contact.svg" alt="">
 				</a>
 			</div>
 		</div>
