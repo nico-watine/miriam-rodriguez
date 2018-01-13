@@ -9,6 +9,9 @@ body-id: index
 body-class: index
 ---
 <section class="splash text-center relative">
+	<div data-magellan class="iconWrapper absolute show-for-medium">
+		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
+	</div>
 	<div class="masthead flex absolute">
 		<div class="prose absolute">
 			<h1 class="serif">Miriam Rodríguez</h1>
@@ -19,9 +22,12 @@ body-class: index
 					<li data-magellan><a class="h3" href="#bio">Bio</a></li>
 				</ul>
 			</nav>
+			<div data-magellan class="iconWrapper show-for-small-only">
+				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
+			</div>
 		</div>
 		<div class="logoWrapper">
-			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
 	<div class="row expanded collapse">
@@ -43,14 +49,16 @@ body-class: index
 		</div>
 	</div>
 	<div class="row collapse imageGallery text-center">
-		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-1.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-2.jpg" alt=""></div>
+		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-7.jpg" alt=""></div>
 		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-3.jpg" alt=""></div>
+		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-2.jpg" alt=""></div>
 		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-4.jpg" alt=""></div>
 		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-5.jpg" alt=""></div>
 		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-6.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns"><img src="/img/bridals/bridals-7.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns end"><img src="/img/bridals/bridals-8.jpg" alt=""></div>
+		<div class="medium-6 columns hide-for-large"><img src="/img/bridals/miriam-rodriguez-bridal-shot-2.jpg" alt=""></div>
+		<div class="medium-6 columns hide-for-large"><img src="/img/bridals/miriam-rodriguez-bridal-shot-1.jpg" alt=""></div>
+		<div class="show-for-large large-3 columns"><img src="/img/bridals/bridals-8.jpg" alt=""></div>
+		<div class="show-for-large large-3 columns"><img src="/img/bridals/bridals-1.jpg" alt=""></div>
 	</div>
 </section>
 
@@ -98,7 +106,7 @@ body-class: index
 	<br>
 </section>
 
-<section class="contact">
+<section id="contact" class="contact">
 	<hr>
 	<div class="row text-center">
 		<div class="columns prose">

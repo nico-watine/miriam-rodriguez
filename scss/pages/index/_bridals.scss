@@ -21,6 +21,12 @@ $minWidth-820: "only screen and (min-width : rem-calc(820))";
 				max-width: rem-calc(500);
 				width: 100%;
 			}
+
+			.hide-for-large {
+				img {
+					max-width: none;
+				}
+			}
 		}
 	}
 }
