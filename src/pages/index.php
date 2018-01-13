@@ -9,6 +9,9 @@ body-id: index
 body-class: index
 ---
 <section class="splash text-center relative">
+	<div data-magellan class="iconWrapper absolute show-for-medium">
+		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
+	</div>
 	<div class="masthead flex absolute">
 		<div class="prose absolute">
 			<h1 class="serif">Miriam Rodríguez</h1>
@@ -19,9 +22,12 @@ body-class: index
 					<li data-magellan><a class="h3" href="#bio">Bio</a></li>
 				</ul>
 			</nav>
+			<div data-magellan class="iconWrapper show-for-small-only">
+				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
+			</div>
 		</div>
 		<div class="logoWrapper">
-			<img style="width: 440px; opacity: .6;" src="/img/splash/logo.svg" alt="">
+			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
 	<div class="row expanded collapse">
@@ -98,7 +104,7 @@ body-class: index
 	<br>
 </section>
 
-<section class="contact">
+<section id="contact" class="contact">
 	<hr>
 	<div class="row text-center">
 		<div class="columns prose">
