@@ -9,9 +9,9 @@ body-id: index
 body-class: index
 ---
 <section class="splash text-center relative">
-	<div data-magellan class="iconWrapper absolute show-for-medium" style="top: 30px; right: 30px; z-index: 20;">
+	<div data-magellan class="iconWrapper absolute show-for-medium">
 		<a href="#contact">
-			<img style="width: 40px; height: 40px;" src="/img/assets/contact.svg" alt="">
+			<img rc="/img/assets/contact.svg" alt="">
 		</a>
 	</div>
 	<div class="masthead flex absolute">

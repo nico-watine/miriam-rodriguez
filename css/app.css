@@ -4769,6 +4769,14 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
+.index#index .splash .iconWrapper.show-for-medium {
+  top: 30px;
+  right: 30px;
+  z-index: 20; }
+  .index#index .splash .iconWrapper.show-for-medium img {
+    width: 40px;
+    height: 40px; }
+
 .index#index .splash .masthead {
   width: 100%;
   height: 100%;
