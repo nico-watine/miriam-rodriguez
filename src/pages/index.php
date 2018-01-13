@@ -27,7 +27,7 @@ body-class: index
 			</div>
 		</div>
 		<div class="logoWrapper">
-			<img src="/img/splash/logo.svg" alt="">
+			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
 	<div class="row expanded collapse">
