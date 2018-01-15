@@ -4,7 +4,7 @@ title: Miriam Rodríguez, Alta Costura
 description:
 og-title:
 og-description:
-og-image:
+og-image: /img/assets/og-images/miriam-rodriguez-bridals.png
 body-id: index
 body-class: index
 ---
