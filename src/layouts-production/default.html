@@ -2,16 +2,28 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en-US">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>{{ title }}</title>
 	<meta name="description" content="{{ description }}">
-	<link href="http://url.com{{ url }}" rel="canonical">
+	<link href="http://miriamrodriguez.com{{ url }}" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
+	<link href="/apple-touch-icon.png" rel="apple-touch-icon">
+	<link href="/touch-icon-192x192.png" rel="icon" sizes="192x192">
+
+	<!-- <meta property="og:locale" content="en_US"> -->
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="{{ og-title }}">
+	<meta property="og:description" content="{{ og-description }}">
+	<meta property="og:url" content="http://miriamrodriguez.com{{ url }}">
+	<meta property="og:site_name" content="Miriam Rodríguez">
+	<meta property="og:image" content="http://miriamrodriguez.com{{ og-image }}">
+	<!-- <meta property="fb:app_id" content="123456789"> -->
+		
 	<link href="{{ cdn }}<?php autoVer('/css/app.css'); ?>" rel="stylesheet">
 		
 </head>

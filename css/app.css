@@ -4769,6 +4769,9 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
+.index#index img.backgroundSplash {
+  width: 100%; }
+
 .index#index .splash .iconWrapper.show-for-medium {
   top: 30px;
   right: 30px;

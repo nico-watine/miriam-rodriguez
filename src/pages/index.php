@@ -1,10 +1,10 @@
 ---
 url: /
 title: Miriam Rodríguez, Alta Costura
-description:
-og-title:
-og-description:
-og-image:
+description: Bridal gowns and prêt-à-porter evening wear by Venezuelan couturier Miriam Rodríguez
+og-title: Miriam Rodríguez, Haute Couture Bridals
+og-description: Bridal gowns and prêt-à-porter evening wear by Venezuelan couturier Miriam Rodríguez
+og-image: /img/assets/og-images/miriam-rodriguez-bridals.png
 body-id: index
 body-class: index
 ---
@@ -32,10 +32,10 @@ body-class: index
 	</div>
 	<div class="row expanded collapse">
 		<div class="medium-6 columns">
-			<img src="/img/splash/splash-1.jpg" alt="">
+			<img class="backgroundSplash" src="/img/splash/splash-1.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img src="/img/splash/splash-2.jpg" alt="">
+			<img class="backgroundSplash" src="/img/splash/splash-2.jpg" alt="">
 		</div>
 	</div>
 </section>
