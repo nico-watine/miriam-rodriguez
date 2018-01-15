@@ -1,6 +1,10 @@
 @import "../../_settings.scss";
 
 .index#index {
+	img.backgroundSplash {
+		width: 100%;
+	}
+	
 	.splash {
 		.iconWrapper.show-for-medium {
 			top: 30px;
