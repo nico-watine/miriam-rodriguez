@@ -32,10 +32,10 @@ body-class: index
 	</div>
 	<div class="row expanded collapse">
 		<div class="medium-6 columns">
-			<img src="/img/splash/splash-1.jpg" alt="">
+			<img class="backgroundSplash" src="/img/splash/splash-1.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img src="/img/splash/splash-2.jpg" alt="">
+			<img class="backgroundSplash" src="/img/splash/splash-2.jpg" alt="">
 		</div>
 	</div>
 </section>
