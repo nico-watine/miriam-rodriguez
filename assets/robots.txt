@@ -2,3 +2,10 @@
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
 User-agent: *
+Disallow: _index.html
+Disallow: _vti_inf.html
+Disallow: bio.html
+Disallow: contacto.html
+Disallow: navidad.html
+Disallow: newyear.html
+Disallow: postinfo.html
