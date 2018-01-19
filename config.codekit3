@@ -173,6 +173,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/googlea536b0ce9879dae9.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/googlea536b0ce9879dae9.html",
+		"oF": 0
+		},
 	"\/assets\/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -5049,7 +5056,7 @@
 		},
 	"\/img\/splash\/splash-1.jpg": {
 		"ft": 16384,
-		"iS": 52761,
+		"iS": 52709,
 		"oA": 1,
 		"oAP": "\/img\/splash\/splash-1.jpg",
 		"oF": 0,
@@ -5504,7 +5511,7 @@
 	"creationDate": 502296054,
 	"displayValue": "miriam-rodriguez",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_brown"
+	"iconImageName": "\/assets\/apple-touch-icon.png"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
