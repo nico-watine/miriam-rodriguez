@@ -10,7 +10,7 @@ og-image: /img/assets/og-images/miriam-rodriguez-bridals.png
 body-id: index
 body-class: index
 ---
-<aside class="languageToggles text-center">
+<aside class="languageToggles text-center show-for-small-only">
 	<a href="/" class="h4 active">Espanol</a>
 	<span class="pipe h4"><strong>|</strong></span>
 	<a href="/eng/" class="h4">English</a>
