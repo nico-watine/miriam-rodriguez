@@ -71,7 +71,7 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns medium-text-right padding-0">
-			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción</h3>
+			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Harmony, Elegance and Distinction</h3>
 			<br>
 			<div class="pictureWrapper relative text-center">
 				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
@@ -84,11 +84,11 @@ body-class: index
 			<br>
 		</div>
 		<div class="medium-6 columns padding-XY prose">
-			<p class="intro">Adjetivos que definen claramente las propuestas de Miriam Rodríguez, siempre inspirada en la mujer latina y su cuerpo de curvas sinuosas.</p>
+			<p class="intro">These are adjectives that clearly define the designs of Miriam Rodríguez, always inspired by Latin women and their curvy bodies.</p>
 			<span class="bar block"></span>
 			<br>
-			<p>Nacida en Santa Marta, Colombia, pero zuliana por eleccion, Miriam Rodríguez tiene 45 años vistiendo a las mujeres más elegantes de la sociedad venezolana.</p>
-			<p>Su estilo siempre clásico y atemporal marca la elegancia y destaca a quien lo luce.</p>
+			<p>Born in Santa Marta, Colombia, but <span data-tooltip aria-haspopup="true" class="has-tip top" data-disable-hover="false" title="One of the 23 states of Venezuela">Zulian</span> by choice, Miriam Rodríguez has 45 years of experience dressing the most elegant women in Venezuelan society.</p>
+			<p>Miriam's forever classic and timeless style marks the elegance and highlight of all who wear her gowns.</p>
 		</div>
 	</div>
 </section>
