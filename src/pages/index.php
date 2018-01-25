@@ -14,7 +14,7 @@ body-class: index
 	<div class="languageToggles menu absolute show-for-medium">
 		<a href="/" class="h4 active">Esp</a>
 		<span class="pipe h4"><strong>|</strong></span>
-		<a href="/eng/" class="h4" style="color: #000; text-transform: uppercase;">Eng</a>
+		<a href="/eng/" class="h4">Eng</a>
 	</div>
 	<div data-magellan class="iconWrapper absolute show-for-medium">
 		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
