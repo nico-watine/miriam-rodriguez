@@ -87,7 +87,7 @@ body-class: index
 			<p class="intro">These are adjectives that clearly define the designs of Miriam Rodríguez, always inspired by Latin women and their curvy bodies.</p>
 			<span class="bar block"></span>
 			<br>
-			<p>Born in Santa Marta, Colombia, but Venezuelan by choice, Miriam Rodríguez has 45 years of experience dressing the most elegant women in Venezuelan society.</p>
+			<p>Born in Santa Marta, Colombia, but Zulian by choice, Miriam Rodríguez has 45 years of experience dressing the most elegant women in Venezuelan society.</p>
 			<p>Miriam's forever classic and timeless style marks the elegance and highlight of all who wear her gowns.</p>
 		</div>
 	</div>
