@@ -113,7 +113,7 @@ body-class: index
 			<br>
 		</div>
 	</div>
-	<div id="curator-feed"></div>
+	<!-- <div id="curator-feed"></div> -->
 	<br>
 	<br>
 </section>
