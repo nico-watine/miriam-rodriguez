@@ -13,6 +13,8 @@ UNCSS_OPTIONS:
     - !!js/regexp ^\.is-.*
     - .tooltip
     - .tooltip.top
+    - .has-tip
+    - .has-tip.top
 
 # Gulp will reference these paths when it copies files
 PATHS:
