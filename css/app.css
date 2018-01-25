@@ -4774,6 +4774,8 @@ a.thumbnail {
 
 .index#index .languageToggles.show-for-medium {
   z-index: 20; }
+  .index#index .languageToggles.show-for-medium .pipe {
+    padding: 0 5px; }
   @media print, screen and (min-width: 40em) {
     .index#index .languageToggles.show-for-medium {
       top: 20px;
