@@ -11,8 +11,8 @@ body-id: index
 body-class: index
 ---
 <section class="splash text-center relative">
-	<div class="languageToggles absolute show-for-medium" style="top: 30px; left: 30px; z-index: 20;">
-		<a href="/" class="h4" style="color: #000; text-transform: uppercase; text-decoration: underline;">Esp</a>
+	<div class="languageToggles menu absolute show-for-medium" style="top: 30px; left: 30px; z-index: 20;">
+		<a href="/" class="h4 active">Esp</a>
 		<span class="h4" style="padding: 0 4px;"><strong>|</strong></span>
 		<a href="/eng/" class="h4" style="color: #000; text-transform: uppercase;">Eng</a>
 	</div>

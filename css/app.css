@@ -4807,6 +4807,8 @@ a.thumbnail {
     border-bottom: 0.1875rem solid transparent; }
     .index#index .splash .menu a:hover {
       border-bottom: 0.1875rem solid #5B5EA6; }
+  .index#index .splash .menu a.active {
+    border-bottom: 0.1875rem solid #5B5EA6; }
 
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
