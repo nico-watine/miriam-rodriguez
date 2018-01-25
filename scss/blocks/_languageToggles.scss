@@ -6,7 +6,11 @@
 	text-transform: uppercase;
 
 	.pipe {
-		padding: 0 5px;
+		padding: 0 10px;
+
+		@include breakpoint(medium) {
+			padding: 0 5px;
+		}
 	}
 
 	a {
