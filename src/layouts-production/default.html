@@ -2,7 +2,7 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="{{ html-lang }}">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -15,12 +15,12 @@
 	<link href="/apple-touch-icon.png" rel="apple-touch-icon">
 	<link href="/touch-icon-192x192.png" rel="icon" sizes="192x192">
 
-	<!-- <meta property="og:locale" content="en_US"> -->
+	<meta property="og:locale" content="{{ og-locale }}">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="{{ og-title }}">
 	<meta property="og:description" content="{{ og-description }}">
 	<meta property="og:url" content="http://miriamrodriguez.com{{ url }}">
-	<meta property="og:site_name" content="Miriam Rodríguez">
+	<meta property="og:site_name" content="Miriam Rodríguez Bridals">
 	<meta property="og:image" content="http://miriamrodriguez.com{{ og-image }}">
 	<!-- <meta property="fb:app_id" content="123456789"> -->
 		
