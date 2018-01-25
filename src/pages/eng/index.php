@@ -84,11 +84,11 @@ body-class: index
 			<br>
 		</div>
 		<div class="medium-6 columns padding-XY prose">
-			<p class="intro">Adjetivos que definen claramente las propuestas de Miriam Rodríguez, siempre inspirada en la mujer latina y su cuerpo de curvas sinuosas.</p>
+			<p class="intro">These are adjectives that clearly define the proposals of Miriam Rodríguez, always inspired by Latin women and their curvy bodies.</p>
 			<span class="bar block"></span>
 			<br>
-			<p>Nacida en Santa Marta, Colombia, pero zuliana por eleccion, Miriam Rodríguez tiene 45 años vistiendo a las mujeres más elegantes de la sociedad venezolana.</p>
-			<p>Su estilo siempre clásico y atemporal marca la elegancia y destaca a quien lo luce.</p>
+			<p>Born in Santa Marta, Colombia, but Venezuelan by choice, Miriam Rodríguez has 45 years of experience dressing the most elegant women in Venezuelan society.</p>
+			<p>Her forever classic and timeless style marks the elegance and highlight of all who wear her gowns.</p>
 		</div>
 	</div>
 </section>
