@@ -10,6 +10,15 @@ og-image: /img/assets/og-images/miriam-rodriguez-bridals.png
 body-id: index
 body-class: index
 ---
+<aside class="row show-for-small-only">
+	<div class="columns text-center">
+		<div class="languageToggles">
+			<a href="/" class="h4">Espanol</a>
+			<span class="pipe h4"><strong>|</strong></span>
+			<a href="/eng/" class="h4 active">English</a>
+		</div>		
+	</div>
+</aside>
 <section class="splash text-center relative">
 	<div data-magellan class="iconWrapper absolute show-for-medium">
 		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
