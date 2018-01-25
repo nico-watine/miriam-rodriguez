@@ -4769,13 +4769,24 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
+.languageToggles {
+  padding: 0.375rem 0;
+  text-transform: uppercase; }
+  .languageToggles .pipe {
+    padding: 0 5px; }
+  .languageToggles a {
+    color: #0a0a0a;
+    border-bottom: 0.1875rem solid transparent; }
+    .languageToggles a:hover {
+      border-bottom: 0.1875rem solid #5b5ea6; }
+  .languageToggles a.active {
+    border-bottom: 0.1875rem solid #5b5ea6; }
+
 .index#index img.backgroundSplash {
   width: 100%; }
 
 .index#index .languageToggles.show-for-medium {
   z-index: 20; }
-  .index#index .languageToggles.show-for-medium .pipe {
-    padding: 0 5px; }
   @media print, screen and (min-width: 40em) {
     .index#index .languageToggles.show-for-medium {
       top: 20px;
@@ -4820,8 +4831,6 @@ a.thumbnail {
     border-bottom: 0.1875rem solid transparent; }
     .index#index .splash .menu a:hover {
       border-bottom: 0.1875rem solid #5b5ea6; }
-  .index#index .splash .menu a.active {
-    border-bottom: 0.1875rem solid #5b5ea6; }
 
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }

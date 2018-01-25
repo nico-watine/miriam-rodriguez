@@ -8,10 +8,6 @@
 	.languageToggles.show-for-medium {
 		z-index: 20;
 
-		.pipe {
-			padding: 0 5px;
-		}
-
 		@include breakpoint(medium) {
 			top: 20px;
 			left: 20px;
@@ -73,10 +69,6 @@
 				&:hover {
 					border-bottom: rem-calc(3) solid #5b5ea6;
 				}
-			}
-
-			a.active {
-				border-bottom: rem-calc(3) solid #5b5ea6;
 			}
 		}
 	}

@@ -1,0 +1,24 @@
+@import "../_settings.scss";
+
+
+.languageToggles {
+	padding: rem-calc(6) 0;
+	text-transform: uppercase;
+
+	.pipe {
+		padding: 0 5px;
+	}
+
+	a {
+		color: $black;
+		border-bottom: rem-calc(3) solid transparent;
+
+		&:hover {
+			border-bottom: rem-calc(3) solid #5b5ea6;
+		}
+	}
+
+	a.active {
+		border-bottom: rem-calc(3) solid #5b5ea6;
+	}
+}
