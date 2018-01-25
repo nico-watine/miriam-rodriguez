@@ -1,10 +1,10 @@
 ---
 url: /
-title: Miriam Rodríguez, Alta Costura
+title: Miriam Rodríguez, Alta Costura Bridals
 description: Bridal gowns and prêt-à-porter evening wear by Venezuelan couturier Miriam Rodríguez
 html-lang: es
 og-locale: es_VE
-og-title: Miriam Rodríguez, Haute Couture Bridals
+og-title: Miriam Rodríguez, Alta Costura Bridals
 og-description: Bridal gowns and prêt-à-porter evening wear by Venezuelan couturier Miriam Rodríguez
 og-image: /img/assets/og-images/miriam-rodriguez-bridals.png
 body-id: index
