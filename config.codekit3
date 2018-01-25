@@ -4639,7 +4639,7 @@
 		},
 	"\/img\/splash\/splash-1.jpg": {
 		"ft": 16384,
-		"iS": 52709,
+		"iS": 52761,
 		"oA": 1,
 		"oAP": "\/img\/splash\/splash-1.jpg",
 		"oF": 0,
@@ -4810,6 +4810,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/css\/_header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/blocks\/_languageToggles.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/css\/_languageToggles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5062,6 +5075,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
+		"oF": 0
+		},
+	"\/src\/pages\/eng\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/eng\/index.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {

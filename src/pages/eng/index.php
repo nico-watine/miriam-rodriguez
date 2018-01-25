@@ -1,25 +1,25 @@
 ---
-url: /
-title: Miriam Rodríguez, Alta Costura Bridals
-description: Vestidos de novia y atuendos de gala prêt-à-porter de la diseñadora Venezolana Miriam Rodríguez
-html-lang: es
-og-locale: es_VE
-og-title: Miriam Rodríguez, Alta Costura Bridals
-og-description: Vestidos de novia y atuendos de gala prêt-à-porter de la diseñadora Venezolana Miriam Rodríguez
+url: /eng/
+title: Miriam Rodríguez, High Fashion Bridals
+description: Bridal gowns and prêt-à-porter evening wear by Venezuelan couturier Miriam Rodríguez
+html-lang: en-US
+og-locale: en_US
+og-title: Miriam Rodríguez, High Fashion Bridals
+og-description: Bridal gowns and prêt-à-porter evening wear by Venezuelan couturier Miriam Rodríguez
 og-image: /img/assets/og-images/miriam-rodriguez-bridals.png
 body-id: index
 body-class: index
 ---
 <aside class="languageToggles text-center show-for-small-only">
-	<a href="/" class="h4 active">Espanol</a>
+	<a href="/" class="h4">Espanol</a>
 	<span class="pipe h4"><strong>|</strong></span>
-	<a href="/eng/" class="h4">English</a>
-</aside>
+	<a href="/eng/" class="h4 active">English</a>
+</aside>	
 <section class="splash text-center relative">
 	<aside class="languageToggles absolute show-for-medium">
-		<a href="/" class="h4 active">Esp</a>
+		<a href="/" class="h4">Esp</a>
 		<span class="pipe h4"><strong>|</strong></span>
-		<a href="/eng/" class="h4">Eng</a>
+		<a href="/eng/" class="h4 active">Eng</a>
 	</aside>
 	<div data-magellan class="iconWrapper absolute show-for-medium">
 		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
@@ -83,7 +83,7 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns medium-text-right padding-0">
-			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción</h3>
+			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Harmony, Elegance and Distinction</h3>
 			<br>
 			<div class="pictureWrapper relative text-center">
 				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
@@ -96,11 +96,11 @@ body-class: index
 			<br>
 		</div>
 		<div class="medium-6 columns padding-XY prose">
-			<p class="intro">Adjetivos que definen claramente las propuestas de Miriam Rodríguez, siempre inspirada en la mujer latina y su cuerpo de curvas sinuosas.</p>
+			<p class="intro">These are adjectives that clearly define the designs of Miriam Rodríguez, always inspired by Latin women and their curvy bodies.</p>
 			<span class="bar block"></span>
 			<br>
-			<p>Nacida en Santa Marta, Colombia, pero zuliana por eleccion, Miriam Rodríguez tiene 45 años vistiendo a las mujeres más elegantes de la sociedad venezolana.</p>
-			<p>Su estilo siempre clásico y atemporal marca la elegancia y destaca a quien lo luce.</p>
+			<p>Born in Santa Marta, Colombia, but <span data-tooltip aria-haspopup="true" class="has-tip top" data-disable-hover="false" title="One of the 23 states of Venezuela">Zulian</span> by choice, Miriam Rodríguez has 45 years of experience dressing the most elegant women in Venezuelan society.</p>
+			<p>Miriam's forever classic and timeless style marks the elegance and highlight of all who wear her gowns.</p>
 		</div>
 	</div>
 </section>
@@ -122,7 +122,7 @@ body-class: index
 	<hr>
 	<div class="row text-center">
 		<div class="columns prose">
-			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <div class="inline-block"><small>Alta Costura</small></div></h3>
+			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <div class="inline-block"><small>High Fashion Bridals</small></div></h3>
 			<a class="h4 block" href="https://www.instagram.com/realmiriamrodriguez/">@realmiriamrodriguez</a>
 			<br>
 			<address class="h4">Ave 9, calle 66A Nro 66A-17 <br>
