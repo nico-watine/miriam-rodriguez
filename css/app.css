@@ -4772,6 +4772,17 @@ a.thumbnail {
 .index#index img.backgroundSplash {
   width: 100%; }
 
+.index#index .languageToggles.show-for-medium {
+  z-index: 20; }
+  @media print, screen and (min-width: 40em) {
+    .index#index .languageToggles.show-for-medium {
+      top: 20px;
+      left: 20px; } }
+  @media print, screen and (min-width: 64em) {
+    .index#index .languageToggles.show-for-medium {
+      top: 30px;
+      left: 30px; } }
+
 .index#index .splash .iconWrapper.show-for-medium {
   top: 30px;
   right: 30px;
@@ -4806,9 +4817,9 @@ a.thumbnail {
     color: #0a0a0a;
     border-bottom: 0.1875rem solid transparent; }
     .index#index .splash .menu a:hover {
-      border-bottom: 0.1875rem solid #5B5EA6; }
+      border-bottom: 0.1875rem solid #5b5ea6; }
   .index#index .splash .menu a.active {
-    border-bottom: 0.1875rem solid #5B5EA6; }
+    border-bottom: 0.1875rem solid #5b5ea6; }
 
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
