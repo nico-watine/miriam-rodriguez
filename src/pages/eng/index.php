@@ -2,6 +2,8 @@
 url: /eng/
 title: Miriam Rodríguez, High Fashion Bridals
 description: Bridal gowns and prêt-à-porter evening wear by Venezuelan couturier Miriam Rodríguez
+alt-lang: es
+alt-lang-url: /
 html-lang: en-US
 og-locale: en_US
 og-title: Miriam Rodríguez, High Fashion Bridals
