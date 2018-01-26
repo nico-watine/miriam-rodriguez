@@ -2,6 +2,8 @@
 url: /
 title: Miriam Rodríguez, Alta Costura Bridals
 description: Vestidos de novia y atuendos de gala prêt-à-porter de la diseñadora Venezolana Miriam Rodríguez
+alt-lang: en
+alt-lang-url: /eng/
 html-lang: es
 og-locale: es_VE
 og-title: Miriam Rodríguez, Alta Costura Bridals
