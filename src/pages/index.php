@@ -28,8 +28,8 @@ body-class: index
 	</div>
 	<div class="masthead flex absolute animated zoomIn">
 		<div class="prose absolute">
-			<h1 class="serif">Miriam Rodríguez</h1>
-			<h3 style="text-transform: uppercase; letter-spacing: 1.5px;">Alta Costa Bridals</h3>
+			<h1 class="serif white">Miriam Rodríguez</h1>
+			<h3 style="color: #fff; text-transform: uppercase; letter-spacing: 1.5px;">Alta Costa Bridals</h3>
 			<!-- <nav>
 				<ul class="menu inline-block">
 					<li data-threshold="0" data-magellan><a class="h3" href="#bridals">Bridal</a></li>
