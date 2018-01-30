@@ -87,7 +87,7 @@ body-class: index
 		<div class="medium-6 columns medium-text-right padding-0">
 			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción</h3>
 			<br>
-			<div class="pictureWrapper relative text-center">
+			<div class="pictureWrapper relative text-center wow animated fadeIn" data-wow-offset="100">
 				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
 				<picture class="block">
 					<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
