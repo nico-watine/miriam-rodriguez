@@ -29,13 +29,14 @@ body-class: index
 	<div class="masthead flex absolute">
 		<div class="prose absolute">
 			<h1 class="serif">Miriam Rodríguez</h1>
-			<nav>
+			<h3 style="text-transform: uppercase; letter-spacing: 1.5px;">Haute Couture Bridal Gowns</h3>
+			<!-- <nav>
 				<ul class="menu inline-block">
 					<li data-threshold="0" data-magellan><a class="h3" href="#bridals">Bridal</a></li>
 					<li class="h3"><strong>|</strong></li>
 					<li data-threshold="0" data-magellan><a class="h3" href="#bio">Bio</a></li>
 				</ul>
-			</nav>
+			</nav> -->
 			<div data-magellan class="iconWrapper show-for-small-only">
 				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 			</div>
@@ -124,7 +125,7 @@ body-class: index
 	<hr>
 	<div class="row text-center">
 		<div class="columns prose">
-			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <div class="inline-block"><small>High Fashion Bridals</small></div></h3>
+			<h3 id="name"><span class="serif">Miriam Rodríguez,</span> <div class="inline-block"><small>Haute Couture Bridals</small></div></h3>
 			<a class="h4 block" href="https://www.instagram.com/realmiriamrodriguez/">@realmiriamrodriguez</a>
 			<br>
 			<address class="h4">Ave 9, calle 66A Nro 66A-17 <br>
