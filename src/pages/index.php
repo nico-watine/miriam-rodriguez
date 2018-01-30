@@ -17,7 +17,7 @@ body-class: index
 	<span class="pipe h4"><strong>|</strong></span>
 	<a href="/eng/" class="h4">English</a>
 </aside>
-<section class="splash text-center relative">
+<section class="splash text-center relative" style="background: #8C8EB7;">
 	<aside class="languageToggles absolute show-for-medium">
 		<a href="/" class="h4 active">Esp</a>
 		<span class="pipe h4"><strong>|</strong></span>
