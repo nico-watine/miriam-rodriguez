@@ -4845,6 +4845,7 @@ a.thumbnail {
         background: url("/img/bridals/bridals.svg") center center/auto 95% no-repeat; } }
 
 .index#index .bridals .imageGallery img {
+  padding: 4px;
   max-width: 31.25rem;
   width: 100%; }
 
