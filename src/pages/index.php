@@ -17,7 +17,7 @@ body-class: index
 	<span class="pipe h4"><strong>|</strong></span>
 	<a href="/eng/" class="h4">English</a>
 </aside>
-<section class="splash text-center relative">
+<section class="splash text-center relative" style="background: #8C8EB7;">
 	<aside class="languageToggles absolute show-for-medium">
 		<a href="/" class="h4 active">Esp</a>
 		<span class="pipe h4"><strong>|</strong></span>
@@ -80,14 +80,14 @@ body-class: index
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
-			<h2><strong>Bio</strong></h2>
+			<h2 class="wow animated fadeInUp" data-wow-offset="100"><strong>Bio</strong></h2>
 		</div>
 	</div>
 	<div class="row">
 		<div class="medium-6 columns medium-text-right padding-0">
 			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción</h3>
 			<br>
-			<div class="pictureWrapper relative text-center">
+			<div class="pictureWrapper relative text-center wow animated fadeIn" data-wow-offset="100">
 				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
 				<picture class="block">
 					<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
