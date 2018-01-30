@@ -26,7 +26,7 @@ body-class: index
 	<div data-magellan class="iconWrapper absolute show-for-medium">
 		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 	</div>
-	<div class="masthead flex absolute">
+	<div class="masthead flex absolute animated zoomIn">
 		<div class="prose absolute">
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<nav>
@@ -46,10 +46,10 @@ body-class: index
 	</div>
 	<div class="row expanded collapse">
 		<div class="medium-6 columns">
-			<img class="backgroundSplash" src="/img/splash/splash-1.jpg" alt="">
+			<img class="backgroundSplash animated fadeInLeft" src="/img/splash/splash-1.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img class="backgroundSplash" src="/img/splash/splash-2.jpg" alt="">
+			<img class="backgroundSplash animated fadeInRight" src="/img/splash/splash-2.jpg" alt="">
 		</div>
 	</div>
 </section>
