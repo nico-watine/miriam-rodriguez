@@ -5390,6 +5390,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -5501,6 +5511,56 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/bridals\/1.jpg": {
+		"ft": 16384,
+		"iS": 140366,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/12.jpg": {
+		"ft": 16384,
+		"iS": 70164,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/13.jpg": {
+		"ft": 16384,
+		"iS": 70708,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/14.jpg": {
+		"ft": 16384,
+		"iS": 68130,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/17.jpg": {
+		"ft": 16384,
+		"iS": 101755,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/bridals\/bridals-1.jpg": {
 		"ft": 16384,
 		"iS": 102852,
@@ -5591,6 +5651,26 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/dist\/img\/bridals\/DSC_0714.jpg": {
+		"ft": 16384,
+		"iS": 68965,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/DSC_0714.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/DSC_3356s.jpg": {
+		"ft": 16384,
+		"iS": 108738,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/DSC_3356s.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-shot-1.jpg": {
 		"ft": 16384,
 		"iS": 67283,
@@ -5620,6 +5700,36 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/dist\/img\/splash\/1.jpg": {
+		"ft": 16384,
+		"iS": 157105,
+		"oA": 1,
+		"oAP": "\/dist\/img\/splash\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/splash\/2.jpg": {
+		"ft": 16384,
+		"iS": 128663,
+		"oA": 1,
+		"oAP": "\/dist\/img\/splash\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/splash\/3.jpg": {
+		"ft": 16384,
+		"iS": 136547,
+		"oA": 1,
+		"oAP": "\/dist\/img\/splash\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/splash\/beta-1.jpg": {
 		"ft": 16384,
@@ -5897,6 +6007,56 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/bridals\/1.jpg": {
+		"ft": 16384,
+		"iS": 140366,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/12.jpg": {
+		"ft": 16384,
+		"iS": 70164,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/13.jpg": {
+		"ft": 16384,
+		"iS": 70708,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/14.jpg": {
+		"ft": 16384,
+		"iS": 68130,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/17.jpg": {
+		"ft": 16384,
+		"iS": 101755,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/17.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/bridals\/bridals-1.jpg": {
 		"ft": 16384,
 		"iS": 102852,
@@ -5987,6 +6147,26 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/bridals\/DSC_0714.jpg": {
+		"ft": 16384,
+		"iS": 68965,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/DSC_0714.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/DSC_3356s.jpg": {
+		"ft": 16384,
+		"iS": 108738,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/DSC_3356s.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/bridals\/miriam-rodriguez-bridal-shot-1.jpg": {
 		"ft": 16384,
 		"iS": 67283,
@@ -6016,6 +6196,26 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/splash\/2.jpg": {
+		"ft": 16384,
+		"iS": 128663,
+		"oA": 1,
+		"oAP": "\/img\/splash\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/splash\/3.jpg": {
+		"ft": 16384,
+		"iS": 136547,
+		"oA": 1,
+		"oAP": "\/img\/splash\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/splash\/beta-1.jpg": {
 		"ft": 16384,
