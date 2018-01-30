@@ -26,7 +26,7 @@ body-class: index
 	<div data-magellan class="iconWrapper absolute show-for-medium">
 		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 	</div>
-	<div class="masthead flex absolute">
+	<div class="masthead flex absolute animated zoomIn">
 		<div class="prose absolute">
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<nav>
