@@ -4825,13 +4825,6 @@ a.thumbnail {
   .index#index .splash .logoWrapper img {
     width: 27.5rem;
     opacity: .6; }
-  .index#index .splash .menu {
-    text-transform: uppercase; }
-    .index#index .splash .menu a {
-      color: #0a0a0a;
-      border-bottom: 0.1875rem solid transparent; }
-      .index#index .splash .menu a:hover {
-        border-bottom: 0.1875rem solid #5b5ea6; }
 
 .index#index .bridals .sectionHeading {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }

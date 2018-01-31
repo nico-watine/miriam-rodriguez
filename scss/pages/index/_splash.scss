@@ -61,18 +61,5 @@
 				opacity: .6;
 			}
 		}
-
-		.menu {
-			text-transform: uppercase;
-
-			a {
-				color: $black;
-				border-bottom: rem-calc(3) solid transparent;
-
-				&:hover {
-					border-bottom: rem-calc(3) solid #5b5ea6;
-				}
-			}
-		}
 	}
 }
