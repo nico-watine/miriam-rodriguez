@@ -31,3 +31,72 @@ body {
 	  @include animate-prefixer(animation-duration, calc( #{$base-duration} * 0.75 ) );
 	}
 }
+
+.animated-2 {
+  	@include animate-prefixer(animation-duration, calc( #{$duration-2} ) );
+  	@include animate-prefixer(animation-fill-mode, $base-fill-mode);
+
+	&.infinite {
+	  animation-iteration-count: $base-iteration-count;
+	}
+
+	&.hinge {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-2} * 2 ) );
+	}
+
+	&.bounceIn,
+	&.bounceOut {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-2} * 0.75 ) );
+	}
+
+	&.flipOutX,
+	&.flipOutY {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-2} * 0.75 ) );
+	}
+}
+
+.animated-3 {
+  	@include animate-prefixer(animation-duration, calc( #{$duration-3} ) );
+  	@include animate-prefixer(animation-fill-mode, $base-fill-mode);
+
+	&.infinite {
+	  animation-iteration-count: $base-iteration-count;
+	}
+
+	&.hinge {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-3} * 2 ) );
+	}
+
+	&.bounceIn,
+	&.bounceOut {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-3} * 0.75 ) );
+	}
+
+	&.flipOutX,
+	&.flipOutY {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-3} * 0.75 ) );
+	}
+}
+
+.animated-4 {
+  	@include animate-prefixer(animation-duration, calc( #{$duration-4} ) );
+  	@include animate-prefixer(animation-fill-mode, $base-fill-mode);
+
+	&.infinite {
+	  animation-iteration-count: $base-iteration-count;
+	}
+
+	&.hinge {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-4} * 2 ) );
+	}
+
+	&.bounceIn,
+	&.bounceOut {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-4} * 0.75 ) );
+	}
+
+	&.flipOutX,
+	&.flipOutY {
+	  @include animate-prefixer(animation-duration, calc( #{$duration-4} * 0.75 ) );
+	}
+}

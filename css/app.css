@@ -5330,21 +5330,72 @@ body {
   -webkit-backface-visibility: hidden; }
 
 .animated {
-  -webkit-animation-duration: calc( 3s);
-  animation-duration: calc( 3s);
+  -webkit-animation-duration: calc( 1s);
+  animation-duration: calc( 1s);
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both; }
   .animated.infinite {
     animation-iteration-count: infinite; }
   .animated.hinge {
+    -webkit-animation-duration: calc( 1s * 2);
+    animation-duration: calc( 1s * 2); }
+  .animated.bounceIn, .animated.bounceOut {
+    -webkit-animation-duration: calc( 1s * 0.75);
+    animation-duration: calc( 1s * 0.75); }
+  .animated.flipOutX, .animated.flipOutY {
+    -webkit-animation-duration: calc( 1s * 0.75);
+    animation-duration: calc( 1s * 0.75); }
+
+.animated-2 {
+  -webkit-animation-duration: calc( 2s);
+  animation-duration: calc( 2s);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; }
+  .animated-2.infinite {
+    animation-iteration-count: infinite; }
+  .animated-2.hinge {
+    -webkit-animation-duration: calc( 2s * 2);
+    animation-duration: calc( 2s * 2); }
+  .animated-2.bounceIn, .animated-2.bounceOut {
+    -webkit-animation-duration: calc( 2s * 0.75);
+    animation-duration: calc( 2s * 0.75); }
+  .animated-2.flipOutX, .animated-2.flipOutY {
+    -webkit-animation-duration: calc( 2s * 0.75);
+    animation-duration: calc( 2s * 0.75); }
+
+.animated-3 {
+  -webkit-animation-duration: calc( 3s);
+  animation-duration: calc( 3s);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; }
+  .animated-3.infinite {
+    animation-iteration-count: infinite; }
+  .animated-3.hinge {
     -webkit-animation-duration: calc( 3s * 2);
     animation-duration: calc( 3s * 2); }
-  .animated.bounceIn, .animated.bounceOut {
+  .animated-3.bounceIn, .animated-3.bounceOut {
     -webkit-animation-duration: calc( 3s * 0.75);
     animation-duration: calc( 3s * 0.75); }
-  .animated.flipOutX, .animated.flipOutY {
+  .animated-3.flipOutX, .animated-3.flipOutY {
     -webkit-animation-duration: calc( 3s * 0.75);
     animation-duration: calc( 3s * 0.75); }
+
+.animated-4 {
+  -webkit-animation-duration: calc( 4s);
+  animation-duration: calc( 4s);
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both; }
+  .animated-4.infinite {
+    animation-iteration-count: infinite; }
+  .animated-4.hinge {
+    -webkit-animation-duration: calc( 4s * 2);
+    animation-duration: calc( 4s * 2); }
+  .animated-4.bounceIn, .animated-4.bounceOut {
+    -webkit-animation-duration: calc( 4s * 0.75);
+    animation-duration: calc( 4s * 0.75); }
+  .animated-4.flipOutX, .animated-4.flipOutY {
+    -webkit-animation-duration: calc( 4s * 0.75);
+    animation-duration: calc( 4s * 0.75); }
 
 @-webkit-keyframes bounce {
   0%, 20%, 50%, 80%, 100% {

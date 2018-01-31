@@ -34,10 +34,10 @@ body-class: index
 	</div>
 	<div class="row expanded collapse backgroundSplash">
 		<div class="medium-6 columns">
-			<img class="animated fadeInLeft" src="/img/splash/2.jpg" alt="">
+			<img class="animated-2 fadeInLeft" src="/img/splash/2.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img class="animated fadeInRight" src="/img/splash/3.jpg" alt="">
+			<img class="animated-2 fadeInRight" src="/img/splash/3.jpg" alt="">
 		</div>
 	</div>
 </section>

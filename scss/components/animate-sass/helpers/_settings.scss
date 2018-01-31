@@ -4,7 +4,10 @@
 
 
 // Base module settings
-$base-duration					: 3s !default;           // used in 1-base module
+$base-duration					: 1s !default;           // used in 1-base module
+$duration-2					: 2s;           // used in 1-base module
+$duration-3					: 3s;           // used in 1-base module
+$duration-4					: 4s;           // used in 1-base module
 $base-origin 					: top center !default;
 $base-degrees 					: 30deg !default;        // used in lightspeed & special modules
 $base-fill-mode					: both !default;
