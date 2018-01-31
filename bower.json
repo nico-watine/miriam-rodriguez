@@ -17,6 +17,7 @@
     "motion-ui": "~1.2.2",
     "animate.css": "^3.5.2",
     "magnific-popup": "^1.1.0",
-    "wow": "WOW#^1.1.2"
+    "wow": "WOW#^1.1.2",
+    "animate-sass": "^0.8.2"
   }
 }
