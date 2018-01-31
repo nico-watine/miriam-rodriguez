@@ -23,34 +23,21 @@ body-class: index
 		<span class="pipe h4"><strong>|</strong></span>
 		<a href="/eng/" class="h4 active">Eng</a>
 	</aside>
-	<div data-magellan class="iconWrapper absolute show-for-medium">
-		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
-	</div>
-	<div class="masthead flex absolute">
-		<div class="prose absolute">
+	<div class="masthead flex absolute animated zoomIn">
+		<div class="prose absolute white">
 			<h1 class="serif">Miriam Rodríguez</h1>
-			<h3 style="text-transform: uppercase; letter-spacing: 1.5px;">Haute Couture Bridal Gowns</h3>
-			<!-- <nav>
-				<ul class="menu inline-block">
-					<li data-threshold="0" data-magellan><a class="h3" href="#bridals">Bridal</a></li>
-					<li class="h3"><strong>|</strong></li>
-					<li data-threshold="0" data-magellan><a class="h3" href="#bio">Bio</a></li>
-				</ul>
-			</nav> -->
-			<div data-magellan class="iconWrapper show-for-small-only">
-				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
-			</div>
+			<h3 class="title uppercase">Haute Couture Bridal Gowns</h3>
 		</div>
 		<div class="logoWrapper">
 			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
-	<div class="row expanded collapse">
+	<div class="row expanded collapse backgroundSplash">
 		<div class="medium-6 columns">
-			<img class="backgroundSplash" src="/img/splash/splash-1.jpg" alt="">
+			<img class="animated fadeInLeft" src="/img/splash/2.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img class="backgroundSplash" src="/img/splash/splash-2.jpg" alt="">
+			<img class="animated fadeInRight" src="/img/splash/3.jpg" alt="">
 		</div>
 	</div>
 </section>
