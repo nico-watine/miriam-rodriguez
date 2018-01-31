@@ -4774,21 +4774,28 @@ a.thumbnail {
 
 .languageToggles {
   padding: 0.375rem 0;
-  text-transform: uppercase;
-  color: #fefefe;
-  text-shadow: 0 0.125rem 0.125rem #000; }
+  text-transform: uppercase; }
   .languageToggles .pipe {
     padding: 0 10px; }
-    @media print, screen and (min-width: 40em) {
-      .languageToggles .pipe {
-        padding: 0 5px; } }
   .languageToggles a {
-    color: #fefefe;
+    color: #0a0a0a;
     border-bottom: 0.1875rem solid transparent; }
     .languageToggles a:hover {
-      border-bottom: 0.1875rem solid #fff; }
+      border-bottom: 0.1875rem solid #5b5ea6; }
   .languageToggles a.active {
-    border-bottom: 0.1875rem solid #fff; }
+    border-bottom: 0.1875rem solid #5b5ea6; }
+  @media print, screen and (min-width: 40em) {
+    .languageToggles {
+      color: #fefefe;
+      text-shadow: 0 0.125rem 0.125rem #000; }
+      .languageToggles .pipe {
+        padding: 0 5px; }
+      .languageToggles a {
+        color: #fefefe; }
+        .languageToggles a:hover {
+          border-bottom: 0.1875rem solid #fff; }
+      .languageToggles a.active {
+        border-bottom: 0.1875rem solid #fff; } }
 
 .index#index .backgroundSplash {
   overflow: hidden; }
@@ -4831,7 +4838,10 @@ a.thumbnail {
     z-index: 10;
     text-shadow: 0 0.125rem 0.125rem #000; }
     .index#index .splash .prose .title {
-      letter-spacing: 0.25rem; }
+      letter-spacing: 0.125rem; }
+      @media print, screen and (min-width: 40em) {
+        .index#index .splash .prose .title {
+          letter-spacing: 0.25rem; } }
   .index#index .splash .logoWrapper img {
     width: 27.5rem;
     opacity: .6; }

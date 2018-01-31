@@ -26,7 +26,7 @@ body-class: index
 	<div class="masthead flex absolute animated zoomIn">
 		<div class="prose absolute white">
 			<h1 class="serif">Miriam Rodríguez</h1>
-			<h3 class="title uppercase">Alta Costa Bridals</h3>
+			<h3 class="title uppercase padding-X">Alta Costa Bridals</h3>
 		</div>
 		<div class="logoWrapper">
 			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
