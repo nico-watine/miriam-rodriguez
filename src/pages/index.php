@@ -50,7 +50,7 @@ body-class: index
 			<br>
 		</div>
 	</div>
-	<div class="row collapse imageGallery text-center">
+	<div class="row collapse imageGallery text-center gallery">
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<img src="/img/bridals/bridals-8.jpg" alt="">
 		</div>
