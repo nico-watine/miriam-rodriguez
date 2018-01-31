@@ -52,7 +52,7 @@ body-class: index
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
-			<h2 class="white wow animated fadeIn" style=" text-shadow: 0 2px 2px #000; letter-spacing: 1.5px;">Bridal Gowns</h2>
+			<h2 class="white wow animated fadeIn" style=" text-shadow: 0 2px 2px #000; letter-spacing: 4px;">Bridal Gowns</h2>
 			<br>
 		</div>
 	</div>
