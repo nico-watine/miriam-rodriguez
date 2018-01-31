@@ -6872,7 +6872,7 @@
 		"oA": 0,
 		"oAP": "\/js\/app-min.js",
 		"oF": 1,
-		"sC": 1,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/js\/src\/custom\/scripts.js": {
