@@ -5,16 +5,8 @@
 	padding: rem-calc(6) 0;
 	text-transform: uppercase;
 
-	@include breakpoint(medium) {
-		color: $white;
-	}
-
 	.pipe {
 		padding: 0 10px;
-
-		@include breakpoint(medium) {
-			padding: 0 5px;
-		}
 	}
 
 	a {
@@ -24,20 +16,28 @@
 		&:hover {
 			border-bottom: rem-calc(3) solid #5b5ea6;
 		}
+	}
 
-		@include breakpoint(medium) {
+	a.active {
+		border-bottom: rem-calc(3) solid #5b5ea6;
+	}
+
+	@include breakpoint(medium) {
+		color: $white;
+
+		.pipe {
+			padding: 0 5px;
+		}
+
+		a {
 			color: $white;
 
 			&:hover {
 				border-bottom: rem-calc(3) solid #fff;
 			}
 		}
-	}
 
-	a.active {
-		border-bottom: rem-calc(3) solid #5b5ea6;
-
-		@include breakpoint(medium) {
+		a.active {
 			border-bottom: rem-calc(3) solid #fff;
 		}
 	}
