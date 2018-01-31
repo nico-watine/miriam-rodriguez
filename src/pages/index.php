@@ -23,7 +23,7 @@ body-class: index
 		<span class="pipe h4"><strong>|</strong></span>
 		<a href="/eng/" class="h4">Eng</a>
 	</aside>
-	<div class="masthead flex absolute animated zoomIn">
+	<div class="masthead flex absolute animated-3 zoomIn">
 		<div class="prose absolute white">
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<h3 class="title uppercase padding-X">Alta Costa Bridals</h3>
@@ -34,10 +34,10 @@ body-class: index
 	</div>
 	<div class="row expanded collapse backgroundSplash">
 		<div class="medium-6 columns">
-			<img class="animated-2 fadeInLeft" src="/img/splash/2.jpg" alt="">
+			<img class="animated fadeInLeft" src="/img/splash/2.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img class="animated-2 fadeInRight" src="/img/splash/3.jpg" alt="">
+			<img class="animated fadeInRight" src="/img/splash/3.jpg" alt="">
 		</div>
 	</div>
 </section>
