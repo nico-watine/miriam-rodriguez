@@ -29,14 +29,7 @@ body-class: index
 	<div class="masthead flex absolute animated zoomIn">
 		<div class="prose absolute">
 			<h1 class="serif" style="color: #fff; text-shadow: 0 2px 2px #000;">Miriam Rodríguez</h1>
-			<h3 style="text-shadow: 0 2px 2px #000; color: #fff; text-transform: uppercase; letter-spacing: 1.5px;">Alta Costa Bridals</h3>
-			<!-- <nav>
-				<ul class="menu inline-block">
-					<li data-threshold="0" data-magellan><a class="h3" href="#bridals">Bridal</a></li>
-					<li class="h3"><strong>|</strong></li>
-					<li data-threshold="0" data-magellan><a class="h3" href="#bio">Bio</a></li>
-				</ul>
-			</nav> -->
+			<h3 style="text-shadow: 0 2px 2px #000; color: #fff; text-transform: uppercase; letter-spacing: 4px;">Alta Costa Bridals</h3>
 			<div data-magellan class="iconWrapper show-for-small-only">
 				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 			</div>
@@ -45,7 +38,7 @@ body-class: index
 			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
-	<div class="row expanded collapse">
+	<div class="row expanded collapse" style="overflow: hidden;">
 		<div class="medium-6 columns">
 			<img class="backgroundSplash animated fadeInLeft" src="/img/splash/2.jpg" alt="">
 		</div>
@@ -59,8 +52,7 @@ body-class: index
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
-			<!-- <h2 class="white wow animated fadeIn"><strong>Bridal Gowns</strong></h2> -->
-			<h2 class="white wow animated fadeIn" style=" text-shadow: 0 2px 2px #000; letter-spacing: 1.5px;">Bridal Gowns</h2>
+			<h2 class="white wow animated fadeIn" style=" text-shadow: 0 2px 2px #000; letter-spacing: 4px;">Bridal Gowns</h2>
 			<br>
 		</div>
 	</div>
