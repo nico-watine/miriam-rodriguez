@@ -4,7 +4,7 @@
 
 
 // Base module settings
-$base-duration					: 1s !default;           // used in 1-base module
+$base-duration					: 3s !default;           // used in 1-base module
 $base-origin 					: top center !default;
 $base-degrees 					: 30deg !default;        // used in lightspeed & special modules
 $base-fill-mode					: both !default;
@@ -14,7 +14,7 @@ $base-timing-function-in		: ease-in !default;
 $base-timing-function-out		: ease-out !default;
 $base-timing-function-in-out	: ease-in-out !default;
 
-$base-distance					: 10px !default; 		// used in fade, shake and bounce modules
+$base-distance					: 100px !default; 		// used in fade, shake and bounce modules
 $base-distance-big				: 1000px !default;       // used in fadeBig and bounce modules
 
 
