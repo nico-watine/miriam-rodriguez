@@ -4856,6 +4856,8 @@ a.thumbnail {
 
 #index.index .bio {
   background: #fefefe url("/img/bio/logo.svg") right top/contain no-repeat; }
+  #index.index .bio .adjectives {
+    text-shadow: 0.0625rem 0.125rem 0 #fff; }
   #index.index .bio .pictureWrapper h3 {
     background-image: linear-gradient(-180deg, transparent 0%, #000 100%);
     bottom: 0;
