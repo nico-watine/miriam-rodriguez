@@ -30,13 +30,6 @@ body-class: index
 		<div class="prose absolute">
 			<h1 class="serif" style="color: #fff; text-shadow: 0 2px 2px #000;">Miriam Rodríguez</h1>
 			<h3 style="text-shadow: 0 2px 2px #000; color: #fff; text-transform: uppercase; letter-spacing: 1.5px;">Alta Costa Bridals</h3>
-			<!-- <nav>
-				<ul class="menu inline-block">
-					<li data-threshold="0" data-magellan><a class="h3" href="#bridals">Bridal</a></li>
-					<li class="h3"><strong>|</strong></li>
-					<li data-threshold="0" data-magellan><a class="h3" href="#bio">Bio</a></li>
-				</ul>
-			</nav> -->
 			<div data-magellan class="iconWrapper show-for-small-only">
 				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 			</div>
