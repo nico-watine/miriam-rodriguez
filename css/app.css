@@ -4837,7 +4837,10 @@ a.thumbnail {
     z-index: 10;
     text-shadow: 0 0.125rem 0.125rem #000; }
     .index#index .splash .prose .title {
-      letter-spacing: 0.25rem; }
+      letter-spacing: 0.125rem; }
+      @media print, screen and (min-width: 40em) {
+        .index#index .splash .prose .title {
+          letter-spacing: 0.25rem; } }
   .index#index .splash .logoWrapper img {
     width: 27.5rem;
     opacity: .6; }
