@@ -10,6 +10,10 @@ $minWidth-820: "only screen and (min-width : rem-calc(820))";
 			.content {
 				background: url('/img/bridals/bridals.svg') center center/95% auto no-repeat;
 
+				h2 {
+					text-shadow: 0 rem-calc(2) rem-calc(2) #000;
+				}
+
 				@media #{$minWidth-820} {
 					background: url('/img/bridals/bridals.svg') center center/auto 95% no-repeat;
 				}
@@ -18,6 +22,7 @@ $minWidth-820: "only screen and (min-width : rem-calc(820))";
 
 		.imageGallery {
 			img {
+				padding: 4px;
 				max-width: rem-calc(500);
 				width: 100%;
 			}
