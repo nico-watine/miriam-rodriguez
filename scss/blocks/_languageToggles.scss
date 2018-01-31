@@ -4,8 +4,10 @@
 .languageToggles {
 	padding: rem-calc(6) 0;
 	text-transform: uppercase;
-	// color: $black;
-	// text-shadow: 0 rem-calc(2) rem-calc(2) #000;
+
+	@include breakpoint(medium) {
+		color: $white;
+	}
 
 	.pipe {
 		padding: 0 10px;
@@ -20,13 +22,23 @@
 		border-bottom: rem-calc(3) solid transparent;
 
 		&:hover {
-			// border-bottom: rem-calc(3) solid #fff;
 			border-bottom: rem-calc(3) solid #5b5ea6;
+		}
+
+		@include breakpoint(medium) {
+			color: $white;
+
+			&:hover {
+				border-bottom: rem-calc(3) solid #fff;
+			}
 		}
 	}
 
 	a.active {
-		// border-bottom: rem-calc(3) solid #fff;
 		border-bottom: rem-calc(3) solid #5b5ea6;
+
+		@include breakpoint(medium) {
+			border-bottom: rem-calc(3) solid #fff;
+		}
 	}
 }

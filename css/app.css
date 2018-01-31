@@ -4775,6 +4775,9 @@ a.thumbnail {
 .languageToggles {
   padding: 0.375rem 0;
   text-transform: uppercase; }
+  @media print, screen and (min-width: 40em) {
+    .languageToggles {
+      color: #fefefe; } }
   .languageToggles .pipe {
     padding: 0 10px; }
     @media print, screen and (min-width: 40em) {
@@ -4785,8 +4788,16 @@ a.thumbnail {
     border-bottom: 0.1875rem solid transparent; }
     .languageToggles a:hover {
       border-bottom: 0.1875rem solid #5b5ea6; }
+    @media print, screen and (min-width: 40em) {
+      .languageToggles a {
+        color: #fefefe; }
+        .languageToggles a:hover {
+          border-bottom: 0.1875rem solid #fff; } }
   .languageToggles a.active {
     border-bottom: 0.1875rem solid #5b5ea6; }
+    @media print, screen and (min-width: 40em) {
+      .languageToggles a.active {
+        border-bottom: 0.1875rem solid #fff; } }
 
 .index#index .backgroundSplash {
   overflow: hidden; }
