@@ -38,12 +38,12 @@ body-class: index
 			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
-	<div class="row expanded collapse" style="overflow: hidden;">
+	<div class="row expanded collapse backgroundSplash">
 		<div class="medium-6 columns">
-			<img class="backgroundSplash animated fadeInLeft" src="/img/splash/2.jpg" alt="">
+			<img class="animated fadeInLeft" src="/img/splash/2.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img class="backgroundSplash animated fadeInRight" src="/img/splash/3.jpg" alt="">
+			<img class="animated fadeInRight" src="/img/splash/3.jpg" alt="">
 		</div>
 	</div>
 </section>

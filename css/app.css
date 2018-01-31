@@ -4790,8 +4790,10 @@ a.thumbnail {
   .languageToggles a.active {
     border-bottom: 0.1875rem solid #fff; }
 
-.index#index img.backgroundSplash {
-  width: 100%; }
+.index#index .backgroundSplash {
+  overflow: hidden; }
+  .index#index .backgroundSplash img {
+    width: 100%; }
 
 .index#index .languageToggles.show-for-medium {
   z-index: 20; }

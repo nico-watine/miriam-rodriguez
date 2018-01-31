@@ -1,8 +1,12 @@
 @import "../../_settings.scss";
 
 .index#index {
-	img.backgroundSplash {
-		width: 100%;
+	.backgroundSplash {
+		overflow: hidden;
+		
+		img {
+			width: 100%;
+		}
 	}
 
 	.languageToggles.show-for-medium {
