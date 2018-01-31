@@ -4823,7 +4823,10 @@ a.thumbnail {
     flex-direction: column; }
   .index#index .splash .prose {
     width: 100%;
-    z-index: 10; }
+    z-index: 10;
+    text-shadow: 0 0.125rem 0.125rem #000; }
+    .index#index .splash .prose .title {
+      letter-spacing: 0.25rem; }
   .index#index .splash .logoWrapper img {
     width: 27.5rem;
     opacity: .6; }

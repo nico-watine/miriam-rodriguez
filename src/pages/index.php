@@ -27,9 +27,9 @@ body-class: index
 		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 	</div>
 	<div class="masthead flex absolute animated zoomIn">
-		<div class="prose absolute">
-			<h1 class="serif" style="color: #fff; text-shadow: 0 2px 2px #000;">Miriam Rodríguez</h1>
-			<h3 style="text-shadow: 0 2px 2px #000; color: #fff; text-transform: uppercase; letter-spacing: 4px;">Alta Costa Bridals</h3>
+		<div class="prose absolute white">
+			<h1 class="serif">Miriam Rodríguez</h1>
+			<h3 class="title" style="text-transform: uppercase;">Alta Costa Bridals</h3>
 			<div data-magellan class="iconWrapper show-for-small-only">
 				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 			</div>
