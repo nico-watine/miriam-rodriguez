@@ -51,20 +51,48 @@ body-class: index
 		</div>
 	</div>
 	<div class="row collapse imageGallery text-center">
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/bridals-8.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/14.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/bridals-2.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/DSC_3356s.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/89.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/bridals-3.jpg" alt=""></div>
-		<div class="medium-6 columns wow animated fadeInUp hide-for-large"><img src="/img/bridals/6899.jpg" alt=""></div>
-		<div class="medium-6 columns wow animated fadeInUp hide-for-large"><img src="/img/bridals/miriam-rodriguez-bridal-shot-1.jpg" alt=""></div>
-		<div class="show-for-large large-3 columns wow animated fadeInUp"><img src="/img/bridals/bridals-4.jpg" alt=""></div>
-		<div class="show-for-large large-3 columns wow animated fadeInUp"><img src="/img/bridals/17.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/DSC_3365.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/DSC_3381.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/corinne.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/DSC_0660.jpg" alt=""></div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/bridals-8.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/14.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/bridals-2.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/DSC_3356s.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/89.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/bridals-3.jpg" alt="">
+		</div>
+		<div class="medium-6 columns wow animated fadeInUp hide-for-large">
+			<img src="/img/bridals/6899.jpg" alt="">
+		</div>
+		<div class="medium-6 columns wow animated fadeInUp hide-for-large">
+			<img src="/img/bridals/miriam-rodriguez-bridal-shot-1.jpg" alt="">
+		</div>
+		<div class="show-for-large large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/bridals-4.jpg" alt="">
+		</div>
+		<div class="show-for-large large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/17.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/DSC_3365.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/DSC_3381.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/corinne.jpg" alt="">
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<img src="/img/bridals/DSC_0660.jpg" alt="">
+		</div>
 	</div>
 </section>
 
