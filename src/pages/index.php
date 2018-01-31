@@ -42,7 +42,7 @@ body-class: index
 	</div>
 </section>
 
-<section id="bridals" class="bridals" data-magellan-target="bridals">
+<section id="bridals" class="bridals">
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
