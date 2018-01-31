@@ -4769,6 +4769,9 @@ a.thumbnail {
 .black {
   color: #0a0a0a; }
 
+.uppercase {
+  text-transform: uppercase; }
+
 .languageToggles {
   padding: 0.375rem 0;
   text-transform: uppercase;
