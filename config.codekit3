@@ -7089,7 +7089,7 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.js",
 			"position": 0,
-			"type": 1
+			"type": 0
 			}
 		]
 	},
