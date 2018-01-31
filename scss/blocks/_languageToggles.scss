@@ -4,6 +4,8 @@
 .languageToggles {
 	padding: rem-calc(6) 0;
 	text-transform: uppercase;
+	color: $white;
+	text-shadow: 0 rem-calc(2) rem-calc(2) #000;
 
 	.pipe {
 		padding: 0 10px;
@@ -14,15 +16,15 @@
 	}
 
 	a {
-		color: $black;
+		color: $white;
 		border-bottom: rem-calc(3) solid transparent;
 
 		&:hover {
-			border-bottom: rem-calc(3) solid #5b5ea6;
+			border-bottom: rem-calc(3) solid #fff;
 		}
 	}
 
 	a.active {
-		border-bottom: rem-calc(3) solid #5b5ea6;
+		border-bottom: rem-calc(3) solid #fff;
 	}
 }

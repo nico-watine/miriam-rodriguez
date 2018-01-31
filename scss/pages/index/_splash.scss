@@ -1,8 +1,12 @@
 @import "../../_settings.scss";
 
 .index#index {
-	img.backgroundSplash {
-		width: 100%;
+	.backgroundSplash {
+		overflow: hidden;
+		
+		img {
+			width: 100%;
+		}
 	}
 
 	.languageToggles.show-for-medium {
@@ -20,6 +24,8 @@
 	}
 
 	.splash {
+		background: $lavender;
+
 		.iconWrapper.show-for-medium {
 			top: 30px;
 			right: 30px;
@@ -51,25 +57,17 @@
 		.prose {
 			width: 100%;
 			z-index: 10;
+			text-shadow: 0 rem-calc(2) rem-calc(2) #000;
+
+			.title {
+				letter-spacing: rem-calc(4);
+			}
 		}
 
 		.logoWrapper {
 			img {
 				width: rem-calc(440);
 				opacity: .6;
-			}
-		}
-
-		.menu {
-			text-transform: uppercase;
-
-			a {
-				color: $black;
-				border-bottom: rem-calc(3) solid transparent;
-
-				&:hover {
-					border-bottom: rem-calc(3) solid #5b5ea6;
-				}
 			}
 		}
 	}

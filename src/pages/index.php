@@ -17,7 +17,7 @@ body-class: index
 	<span class="pipe h4"><strong>|</strong></span>
 	<a href="/eng/" class="h4">English</a>
 </aside>
-<section class="splash text-center relative" style="background: #8C8EB7;">
+<section class="splash text-center relative">
 	<aside class="languageToggles absolute show-for-medium">
 		<a href="/" class="h4 active">Esp</a>
 		<span class="pipe h4"><strong>|</strong></span>
@@ -27,9 +27,9 @@ body-class: index
 		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 	</div>
 	<div class="masthead flex absolute animated zoomIn">
-		<div class="prose absolute">
-			<h1 class="serif" style="color: #fff; text-shadow: 0 2px 2px #000;">Miriam Rodríguez</h1>
-			<h3 style="text-shadow: 0 2px 2px #000; color: #fff; text-transform: uppercase; letter-spacing: 4px;">Alta Costa Bridals</h3>
+		<div class="prose absolute white">
+			<h1 class="serif">Miriam Rodríguez</h1>
+			<h3 class="title uppercase">Alta Costa Bridals</h3>
 			<div data-magellan class="iconWrapper show-for-small-only">
 				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
 			</div>
@@ -38,12 +38,12 @@ body-class: index
 			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
-	<div class="row expanded collapse" style="overflow: hidden;">
+	<div class="row expanded collapse backgroundSplash">
 		<div class="medium-6 columns">
-			<img class="backgroundSplash animated fadeInLeft" src="/img/splash/2.jpg" alt="">
+			<img class="animated fadeInLeft" src="/img/splash/2.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img class="backgroundSplash animated fadeInRight" src="/img/splash/3.jpg" alt="">
+			<img class="animated fadeInRight" src="/img/splash/3.jpg" alt="">
 		</div>
 	</div>
 </section>
@@ -52,7 +52,7 @@ body-class: index
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
-			<h2 class="white wow animated fadeIn" style=" text-shadow: 0 2px 2px #000; letter-spacing: 4px;">Bridal Gowns</h2>
+			<h2 class="white wow animated fadeIn">Bridal Gowns</h2>
 			<br>
 		</div>
 	</div>
@@ -83,7 +83,7 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns medium-text-right padding-0">
-			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Armonia, Elegancia y Distinción</h3>
+			<h3 class="adjectives padding-X h2 serif">Armonia, Elegancia y Distinción</h3>
 			<br>
 			<div class="pictureWrapper relative text-center wow animated fadeIn" data-wow-offset="100">
 				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
