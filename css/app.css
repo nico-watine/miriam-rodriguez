@@ -4840,6 +4840,8 @@ a.thumbnail {
   background: #ECEBF1 url("/img/assets/hex-pattern.png") left top/auto repeat; }
   .index#index .bridals .sectionHeading .content {
     background: url("/img/bridals/bridals.svg") center center/95% auto no-repeat; }
+    .index#index .bridals .sectionHeading .content h2 {
+      text-shadow: 0 0.125rem 0.125rem #000; }
     @media only screen and (min-width: 51.25rem) {
       .index#index .bridals .sectionHeading .content {
         background: url("/img/bridals/bridals.svg") center center/auto 95% no-repeat; } }
@@ -4902,7 +4904,7 @@ a.thumbnail {
     text-decoration: underline; }
 
 #index.index .sectionHeading h2 {
-  letter-spacing: 0.125rem;
+  letter-spacing: 0.25rem;
   text-transform: uppercase; }
 
 .inline-block {
