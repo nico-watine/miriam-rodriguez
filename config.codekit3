@@ -4559,6 +4559,238 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/bower_components\/magnific-popup\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/magnific-popup\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/.gitignore",
+		"oF": 0
+		},
+	"\/bower_components\/magnific-popup\/.jshintrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/.jshintrc",
+		"oF": 0
+		},
+	"\/bower_components\/magnific-popup\/.travis.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/.travis.yml",
+		"oF": 0
+		},
+	"\/bower_components\/magnific-popup\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/magnific-popup\/composer.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/composer.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/dist\/magnific-popup.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/dist\/magnific-popup.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/magnific-popup\/Gruntfile.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/Gruntfile.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/LICENSE",
+		"oF": 0
+		},
+	"\/bower_components\/magnific-popup\/magnific-popup.jquery.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/magnific-popup.jquery.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/magnific-popup\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/magnific-popup\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/magnific-popup\/src\/css\/_settings.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/magnific-popup\/src\/css\/_settings.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/magnific-popup\/src\/css\/main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/magnific-popup\/src\/css\/main.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/magnific-popup\/src\/js\/ajax.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/src\/js\/ajax.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/src\/js\/core.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/src\/js\/core.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/src\/js\/gallery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/src\/js\/gallery.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/src\/js\/iframe.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/src\/js\/iframe.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/src\/js\/image.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/src\/js\/image.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/src\/js\/inline.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/src\/js\/inline.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/src\/js\/retina.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/src\/js\/retina.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/bower_components\/magnific-popup\/src\/js\/zoom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/magnific-popup\/src\/js\/zoom.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/bower_components\/motion-ui\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -6852,6 +7084,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/app.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.js",
+			"position": 0,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 502296054,
