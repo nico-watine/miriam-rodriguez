@@ -23,7 +23,7 @@ body-class: index
 		<span class="pipe h4"><strong>|</strong></span>
 		<a href="/eng/" class="h4">Eng</a>
 	</aside>
-	<div class="masthead flex absolute animated zoomIn">
+	<div class="masthead flex absolute animated-3 zoomIn">
 		<div class="prose absolute white">
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<h3 class="title uppercase padding-X">Alta Costa Bridals</h3>
