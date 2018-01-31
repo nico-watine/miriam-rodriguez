@@ -4786,7 +4786,8 @@ a.thumbnail {
     border-bottom: 0.1875rem solid #5b5ea6; }
   @media print, screen and (min-width: 40em) {
     .languageToggles {
-      color: #fefefe; }
+      color: #fefefe;
+      text-shadow: 0 0.125rem 0.125rem #000; }
       .languageToggles .pipe {
         padding: 0 5px; }
       .languageToggles a {
