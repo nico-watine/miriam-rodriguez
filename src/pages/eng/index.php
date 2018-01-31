@@ -77,7 +77,7 @@ body-class: index
 	</div>
 	<div class="row">
 		<div class="medium-6 columns medium-text-right padding-0">
-			<h3 class="padding-X h2 serif" style="text-shadow: 1px 2px 0 #fff;">Harmony, Elegance and Distinction</h3>
+			<h3 class="adjectives padding-X h2 serif">Harmony, Elegance and Distinction</h3>
 			<br>
 			<div class="pictureWrapper relative text-center">
 				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
