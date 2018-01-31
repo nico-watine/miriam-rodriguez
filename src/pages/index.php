@@ -23,16 +23,10 @@ body-class: index
 		<span class="pipe h4"><strong>|</strong></span>
 		<a href="/eng/" class="h4">Eng</a>
 	</aside>
-	<div data-magellan class="iconWrapper absolute show-for-medium">
-		<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
-	</div>
 	<div class="masthead flex absolute animated zoomIn">
 		<div class="prose absolute white">
 			<h1 class="serif">Miriam Rodríguez</h1>
 			<h3 class="title uppercase">Alta Costa Bridals</h3>
-			<div data-magellan class="iconWrapper show-for-small-only">
-				<a href="#contact"><img src="/img/assets/contact.svg" alt="Contact Icon"></a>
-			</div>
 		</div>
 		<div class="logoWrapper">
 			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
@@ -48,7 +42,7 @@ body-class: index
 	</div>
 </section>
 
-<section id="bridals" class="bridals" data-magellan-target="bridals">
+<section id="bridals" class="bridals">
 	<div class="row padding-Y expanded collapse sectionHeading">
 		<div class="columns text-center content">
 			<br>
