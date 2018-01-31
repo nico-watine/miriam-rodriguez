@@ -4608,7 +4608,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.js",
 		"oF": 0,
 		"sC": 0,
@@ -4705,7 +4705,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/magnific-popup\/src\/css\/main.scss",
 		"oF": 0,
 		"oS": 0,
@@ -6614,7 +6614,7 @@
 		},
 	"\/img\/splash\/splash-1.jpg": {
 		"ft": 16384,
-		"iS": 52761,
+		"iS": 52709,
 		"oA": 1,
 		"oAP": "\/img\/splash\/splash-1.jpg",
 		"oF": 0,
@@ -7084,6 +7084,14 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/js\/src\/app.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.js",
+			"position": 0,
+			"type": 1
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 502296054,
