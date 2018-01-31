@@ -60,7 +60,11 @@
 			text-shadow: 0 rem-calc(2) rem-calc(2) #000;
 
 			.title {
-				letter-spacing: rem-calc(4);
+				letter-spacing: rem-calc(2);
+
+				@include breakpoint(medium) {
+					letter-spacing: rem-calc(4);
+				}
 			}
 		}
 
