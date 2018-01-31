@@ -52,7 +52,9 @@ body-class: index
 	</div>
 	<div class="row collapse imageGallery text-center gallery">
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
-			<img src="/img/bridals/bridals-8.jpg" alt="">
+			<a href="/img/bridals/bridals-8.jpg">
+				<img src="/img/bridals/bridals-8.jpg" alt="">
+			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<img src="/img/bridals/14.jpg" alt="">
