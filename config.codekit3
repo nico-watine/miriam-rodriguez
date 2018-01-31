@@ -6890,16 +6890,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -7485,16 +7475,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/img\/assets\/contact.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/assets\/contact.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/img\/assets\/hex-pattern.png": {
 		"ft": 32768,
 		"iS": 2054,
@@ -7899,7 +7879,7 @@
 		},
 	"\/img\/splash\/splash-1.jpg": {
 		"ft": 16384,
-		"iS": 52761,
+		"iS": 52709,
 		"oA": 1,
 		"oAP": "\/img\/splash\/splash-1.jpg",
 		"oF": 0,
