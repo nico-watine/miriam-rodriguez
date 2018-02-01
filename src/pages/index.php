@@ -58,67 +58,67 @@ body-class: index
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-2.jpg">
-				<img src="/img/bridals/14.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-2.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-3.jpg">
-				<img src="/img/bridals/bridals-2.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-3.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-4.jpg">
-				<img src="/img/bridals/DSC_3356s.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-4.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-5.jpg">
-				<img src="/img/bridals/89.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-5.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-6.jpg">
-				<img src="/img/bridals/bridals-3.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-6.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-6 columns wow animated fadeInUp hide-for-large">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-7.jpg">
-				<img src="/img/bridals/6899.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-7.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-6 columns wow animated fadeInUp hide-for-large">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-8.jpg">
-				<img src="/img/bridals/miriam-rodriguez-bridal-shot-1.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-8.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="show-for-large large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-9.jpg">
-				<img src="/img/bridals/bridals-4.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-9.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="show-for-large large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-10.jpg">
-				<img src="/img/bridals/17.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-10.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-11.jpg">
-				<img src="/img/bridals/DSC_3365.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-11.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-12.jpg">
-				<img src="/img/bridals/DSC_3381.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-12.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-13.jpg">
-				<img src="/img/bridals/corinne.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-13.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-14.jpg">
-				<img src="/img/bridals/DSC_0660.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-14.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 	</div>
