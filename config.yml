@@ -16,6 +16,8 @@ UNCSS_OPTIONS:
     - .tooltip.top
     - .has-tip
     - .has-tip.top
+    - .gallery
+    - .gallery a
 
 # Gulp will reference these paths when it copies files
 PATHS:
