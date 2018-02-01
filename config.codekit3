@@ -8730,20 +8730,6 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"\/js\/src\/app.js": [
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/magnific-popup\/dist\/jquery.magnific-popup.js",
-			"position": 0,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
-			"position": 1,
-			"type": 0
-			}
-		],
 	"\/js\/src\/custom\/scripts.js": [
 		{
 			"followForSyntaxChecking": 0,

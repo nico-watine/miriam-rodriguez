@@ -18,6 +18,47 @@ UNCSS_OPTIONS:
     - .has-tip.top
     - .gallery
     - .gallery a
+    - .mfp-bg
+    - .mfp-wrap
+    - .mfp-container
+    - .mfp-container
+    - .mfp-wrap
+    - .mfp-zoom-in.mfp-wrap.mfp-ready .mfp-content
+    - .mfp-zoom-in.mfp-wrap .mfp-content
+    - .mfp-auto-cursor .mfp-content
+    - .mfp-inline-holder .mfp-content
+    - .mfp-ajax-holder .mfp-content
+    - .mfp-s-ready .mfp-preloader
+    - .mfp-preloader
+    - .mfp-zoom-in.mfp-bg.mfp-ready
+    - .mfp-zoom-in.mfp-bg
+    - .mfp-bg
+    - .mfp-container:before
+    - .mfp-hide
+    - .button.mfp-close
+    - .button.mfp-arrow
+    - .mfp-close
+    - .mfp-close-btn-in .mfp-close
+    - .mfp-close:hover
+    - .mfp-close:focus
+    - .mfp-content
+    - .mfp-close
+    - .mfp-arrow
+    - .mfp-image-holder
+    - .mfp-counter
+    - .mfp-arrow-left
+    - .mfp-arrow-right
+    - img.mfp-img
+    - .mfp-figure
+    - .mfp-figure figure
+    - .mfp-bottom-bar
+    - .mfp-title
+    - .mfp-counter
+    - .mfp-zoom-out-cur
+    - .mfp-zoom-out-cur .mfp-image-holder .mfp-close
+    - .mfp-image-holder .mfp-close
+    - .mfp-iframe-holder .mfp-close
+    - .mfp-close-btn-in .mfp-close
 
 # Gulp will reference these paths when it copies files
 PATHS:
