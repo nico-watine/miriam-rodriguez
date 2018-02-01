@@ -59,6 +59,10 @@ UNCSS_OPTIONS:
     - .mfp-image-holder .mfp-close
     - .mfp-iframe-holder .mfp-close
     - .mfp-close-btn-in .mfp-close
+    - .mfp-close:focus
+    - .mfp-close:hover
+    - button.mfp-arrow
+    - button.mfp-close
 
 # Gulp will reference these paths when it copies files
 PATHS:
