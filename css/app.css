@@ -4861,7 +4861,7 @@ a.thumbnail {
   max-width: 31.25rem;
   width: 100%; }
 
-.index#index .bridals .imageGallery .hide-for-large img {
+.index#index .bridals .imageGallery img.landscape {
   max-width: none; }
 
 #index.index .bio {
