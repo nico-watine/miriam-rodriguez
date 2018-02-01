@@ -6890,16 +6890,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -6948,16 +6938,6 @@
 		"oA": 2,
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
-		},
-	"\/dist\/img\/assets\/contact.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/dist\/img\/assets\/contact.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/dist\/img\/assets\/hex-pattern.png": {
 		"ft": 32768,
@@ -7011,36 +6991,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/bridals\/1.jpg": {
-		"ft": 16384,
-		"iS": 140366,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/12.jpg": {
-		"ft": 16384,
-		"iS": 70164,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/13.jpg": {
-		"ft": 16384,
-		"iS": 70708,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/dist\/img\/bridals\/14.jpg": {
 		"ft": 16384,
 		"iS": 68130,
@@ -7081,16 +7031,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/bridals\/bridals-1.jpg": {
-		"ft": 16384,
-		"iS": 102852,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/dist\/img\/bridals\/bridals-2.jpg": {
 		"ft": 16384,
 		"iS": 72724,
@@ -7116,36 +7056,6 @@
 		"iS": 90378,
 		"oA": 1,
 		"oAP": "\/dist\/img\/bridals\/bridals-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-5.jpg": {
-		"ft": 16384,
-		"iS": 124410,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-6.jpg": {
-		"ft": 16384,
-		"iS": 54054,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/bridals\/bridals-7.jpg": {
-		"ft": 16384,
-		"iS": 174353,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/bridals-7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7191,16 +7101,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/bridals\/DSC_0714.jpg": {
-		"ft": 16384,
-		"iS": 68965,
-		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/DSC_0714.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/dist\/img\/bridals\/DSC_3356s.jpg": {
 		"ft": 16384,
 		"iS": 108738,
@@ -7231,21 +7131,151 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-shot-1.jpg": {
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-1.jpg": {
 		"ft": 16384,
-		"iS": 67283,
+		"iS": 148484,
 		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-shot-1.jpg",
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-shot-2.jpg": {
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-10.jpg": {
 		"ft": 16384,
-		"iS": 56946,
+		"iS": 650841,
 		"oA": 1,
-		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-shot-2.jpg",
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-11.jpg": {
+		"ft": 16384,
+		"iS": 486481,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-12.jpg": {
+		"ft": 16384,
+		"iS": 255586,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-13.jpg": {
+		"ft": 16384,
+		"iS": 312584,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-14.jpg": {
+		"ft": 16384,
+		"iS": 308081,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-2.jpg": {
+		"ft": 16384,
+		"iS": 180884,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-3.jpg": {
+		"ft": 16384,
+		"iS": 292725,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-4.jpg": {
+		"ft": 16384,
+		"iS": 342869,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-5.jpg": {
+		"ft": 16384,
+		"iS": 429595,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-6.jpg": {
+		"ft": 16384,
+		"iS": 442389,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-7.jpg": {
+		"ft": 16384,
+		"iS": 395202,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-8.jpg": {
+		"ft": 16384,
+		"iS": 296891,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-9.jpg": {
+		"ft": 16384,
+		"iS": 422127,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/miriam-rodriguez-bridal-shot-1.jpg": {
+		"ft": 16384,
+		"iS": 67283,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/miriam-rodriguez-bridal-shot-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7281,66 +7311,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/splash\/beta-1.jpg": {
-		"ft": 16384,
-		"iS": 144147,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/beta-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/beta-2.jpg": {
-		"ft": 16384,
-		"iS": 120310,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/beta-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/beta-3.jpg": {
-		"ft": 16384,
-		"iS": 143730,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/beta-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/DSC_2174-2.jpg": {
-		"ft": 16384,
-		"iS": 149658,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/DSC_2174-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/DSC_3365e.jpg": {
-		"ft": 16384,
-		"iS": 211542,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/DSC_3365e.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/DSC_71365.jpg": {
-		"ft": 16384,
-		"iS": 199971,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/DSC_71365.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/dist\/img\/splash\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7350,46 +7320,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/dist\/img\/splash\/miriam-rodriguez-bridal-shot-12.jpg": {
-		"ft": 16384,
-		"iS": 146181,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/miriam-rodriguez-bridal-shot-12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/splash-1.jpg": {
-		"ft": 16384,
-		"iS": 52761,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/splash-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/splash-2.jpg": {
-		"ft": 16384,
-		"iS": 52709,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/splash-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/dist\/img\/splash\/splash-double.jpg": {
-		"ft": 16384,
-		"iS": 85520,
-		"oA": 1,
-		"oAP": "\/dist\/img\/splash\/splash-double.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/dist\/index.php": {
 		"cB": 0,
@@ -7485,16 +7415,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/img\/assets\/contact.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/img\/assets\/contact.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/img\/assets\/hex-pattern.png": {
 		"ft": 32768,
 		"iS": 2054,
@@ -7547,156 +7467,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bridals\/1.jpg": {
-		"ft": 16384,
-		"iS": 140366,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/12.jpg": {
-		"ft": 16384,
-		"iS": 70164,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/13.jpg": {
-		"ft": 16384,
-		"iS": 70708,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/14.jpg": {
-		"ft": 16384,
-		"iS": 68130,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/14.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/17.jpg": {
-		"ft": 16384,
-		"iS": 101755,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/17.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/6899.jpg": {
-		"ft": 16384,
-		"iS": 51646,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/6899.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/89.jpg": {
-		"ft": 16384,
-		"iS": 72264,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/89.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/bridals-1.jpg": {
-		"ft": 16384,
-		"iS": 102852,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/bridals-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/bridals-2.jpg": {
-		"ft": 16384,
-		"iS": 72724,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/bridals-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/bridals-3.jpg": {
-		"ft": 16384,
-		"iS": 77205,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/bridals-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/bridals-4.jpg": {
-		"ft": 16384,
-		"iS": 90378,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/bridals-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/bridals-5.jpg": {
-		"ft": 16384,
-		"iS": 124410,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/bridals-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/bridals-6.jpg": {
-		"ft": 16384,
-		"iS": 54054,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/bridals-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/bridals-7.jpg": {
-		"ft": 16384,
-		"iS": 174353,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/bridals-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/bridals\/bridals-8.jpg": {
-		"ft": 16384,
-		"iS": 70759,
-		"oA": 1,
-		"oAP": "\/img\/bridals\/bridals-8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/bridals\/bridals.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7707,81 +7477,141 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/bridals\/corinne.jpg": {
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-1.jpg": {
 		"ft": 16384,
-		"iS": 62014,
+		"iS": 145469,
 		"oA": 1,
-		"oAP": "\/img\/bridals\/corinne.jpg",
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bridals\/DSC_0660.jpg": {
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-10.jpg": {
 		"ft": 16384,
-		"iS": 127682,
+		"iS": 643912,
 		"oA": 1,
-		"oAP": "\/img\/bridals\/DSC_0660.jpg",
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-10.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bridals\/DSC_0714.jpg": {
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-11.jpg": {
 		"ft": 16384,
-		"iS": 68965,
+		"iS": 483048,
 		"oA": 1,
-		"oAP": "\/img\/bridals\/DSC_0714.jpg",
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-11.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bridals\/DSC_3356s.jpg": {
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-12.jpg": {
 		"ft": 16384,
-		"iS": 108738,
+		"iS": 250326,
 		"oA": 1,
-		"oAP": "\/img\/bridals\/DSC_3356s.jpg",
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-12.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bridals\/DSC_3365.jpg": {
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-13.jpg": {
 		"ft": 16384,
-		"iS": 131372,
+		"iS": 312584,
 		"oA": 1,
-		"oAP": "\/img\/bridals\/DSC_3365.jpg",
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-13.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bridals\/DSC_3381.jpg": {
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-14.jpg": {
 		"ft": 16384,
-		"iS": 128025,
+		"iS": 308081,
 		"oA": 1,
-		"oAP": "\/img\/bridals\/DSC_3381.jpg",
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-14.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bridals\/miriam-rodriguez-bridal-shot-1.jpg": {
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-2.jpg": {
 		"ft": 16384,
-		"iS": 67283,
+		"iS": 177312,
 		"oA": 1,
-		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-shot-1.jpg",
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/bridals\/miriam-rodriguez-bridal-shot-2.jpg": {
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-3.jpg": {
 		"ft": 16384,
-		"iS": 56946,
+		"iS": 288656,
 		"oA": 1,
-		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-shot-2.jpg",
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-4.jpg": {
+		"ft": 16384,
+		"iS": 339440,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-5.jpg": {
+		"ft": 16384,
+		"iS": 421797,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-6.jpg": {
+		"ft": 16384,
+		"iS": 438114,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-7.jpg": {
+		"ft": 16384,
+		"iS": 392770,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-8.jpg": {
+		"ft": 16384,
+		"iS": 291378,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bridals\/miriam-rodriguez-bridal-gown-9.jpg": {
+		"ft": 16384,
+		"iS": 418624,
+		"oA": 1,
+		"oAP": "\/img\/bridals\/miriam-rodriguez-bridal-gown-9.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7817,66 +7647,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/splash\/beta-1.jpg": {
-		"ft": 16384,
-		"iS": 144147,
-		"oA": 1,
-		"oAP": "\/img\/splash\/beta-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/splash\/beta-2.jpg": {
-		"ft": 16384,
-		"iS": 120310,
-		"oA": 1,
-		"oAP": "\/img\/splash\/beta-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/splash\/beta-3.jpg": {
-		"ft": 16384,
-		"iS": 143730,
-		"oA": 1,
-		"oAP": "\/img\/splash\/beta-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/splash\/DSC_2174-2.jpg": {
-		"ft": 16384,
-		"iS": 149658,
-		"oA": 1,
-		"oAP": "\/img\/splash\/DSC_2174-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/splash\/DSC_3365e.jpg": {
-		"ft": 16384,
-		"iS": 211542,
-		"oA": 1,
-		"oAP": "\/img\/splash\/DSC_3365e.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/splash\/DSC_71365.jpg": {
-		"ft": 16384,
-		"iS": 199971,
-		"oA": 1,
-		"oAP": "\/img\/splash\/DSC_71365.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/splash\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -7886,46 +7656,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/img\/splash\/miriam-rodriguez-bridal-shot-12.jpg": {
-		"ft": 16384,
-		"iS": 146181,
-		"oA": 1,
-		"oAP": "\/img\/splash\/miriam-rodriguez-bridal-shot-12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/splash\/splash-1.jpg": {
-		"ft": 16384,
-		"iS": 52761,
-		"oA": 1,
-		"oAP": "\/img\/splash\/splash-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/splash\/splash-2.jpg": {
-		"ft": 16384,
-		"iS": 52709,
-		"oA": 1,
-		"oAP": "\/img\/splash\/splash-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/splash\/splash-double.jpg": {
-		"ft": 16384,
-		"iS": 85520,
-		"oA": 1,
-		"oAP": "\/img\/splash\/splash-double.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
