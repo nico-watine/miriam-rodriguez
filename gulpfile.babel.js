@@ -49,7 +49,7 @@ function pages() {
       root: 'src/pages/',
       layouts: 'src/layouts/',
       // UNCOMMENT FOR PRODUCTION ::
-      // layouts: 'src/layouts-production/',
+      layouts: 'src/layouts-production/',
       partials: 'src/partials/',
       data: 'src/data/',
       helpers: 'src/helpers/'
