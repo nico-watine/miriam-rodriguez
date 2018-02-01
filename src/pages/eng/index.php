@@ -23,21 +23,24 @@ body-class: index
 		<span class="pipe h4"><strong>|</strong></span>
 		<a href="/eng/" class="h4 active">Eng</a>
 	</aside>
-	<div class="masthead flex absolute animated zoomIn">
+	<div class="masthead flex absolute">
 		<div class="prose absolute white">
-			<h1 class="serif">Miriam Rodríguez</h1>
-			<h3 class="title uppercase padding-X">Haute Couture <span class="inline-block">Bridal Gowns</span></h3>
+			<h1 class="serif animated-3 zoomIn">Miriam Rodríguez</h1>
+			<h3 class="title uppercase padding-X animated-2 zoomIn">Haute Couture <span class="inline-block">Bridal Gowns</span></h3>
 		</div>
-		<div class="logoWrapper">
+		<div class="logoWrapper animated-4 zoomIn">
 			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
 	<div class="row expanded collapse backgroundSplash">
-		<div class="medium-6 columns">
-			<img class="animated fadeInLeft" src="/img/splash/2.jpg" alt="">
+		<div class="columns show-for-small-only">
+			<img class="animated-2 fadeIn" src="/img/splash/2.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img class="animated fadeInRight" src="/img/splash/3.jpg" alt="">
+			<img class="animated-2 fadeInLeft" src="/img/splash/2.jpg" alt="">
+		</div>
+		<div class="medium-6 columns show-for-medium">
+			<img class="animated-2 fadeInRight" src="/img/splash/3.jpg" alt="">
 		</div>
 	</div>
 </section>
@@ -50,21 +53,77 @@ body-class: index
 			<br>
 		</div>
 	</div>
-	<div class="row collapse imageGallery text-center">
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/bridals-8.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/14.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/bridals-2.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/DSC_3356s.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/89.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/bridals-3.jpg" alt=""></div>
-		<div class="medium-6 columns wow animated fadeInUp hide-for-large"><img src="/img/bridals/6899.jpg" alt=""></div>
-		<div class="medium-6 columns wow animated fadeInUp hide-for-large"><img src="/img/bridals/miriam-rodriguez-bridal-shot-1.jpg" alt=""></div>
-		<div class="show-for-large large-3 columns wow animated fadeInUp"><img src="/img/bridals/bridals-4.jpg" alt=""></div>
-		<div class="show-for-large large-3 columns wow animated fadeInUp"><img src="/img/bridals/17.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/DSC_3365.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/DSC_3381.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/corinne.jpg" alt=""></div>
-		<div class="medium-4 large-3 columns wow animated fadeInUp"><img src="/img/bridals/DSC_0660.jpg" alt=""></div>
+	<div class="row collapse imageGallery text-center gallery">
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-1.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-1.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-2.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-2.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-3.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-3.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-4.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-4.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-5.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-5.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-6.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-6.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-7.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-7.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-8.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-8.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-9.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-9.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-10.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-10.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-11.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-11.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-4 large-3 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-12.jpg">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-12.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-6 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-13.jpg">
+				<img class="landscape" src="/img/bridals/grid/miriam-rodriguez-bridal-gown-13.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
+		<div class="medium-6 columns wow animated fadeInUp">
+			<a href="/img/bridals/miriam-rodriguez-bridal-gown-14.jpg">
+				<img class="landscape" src="/img/bridals/grid/miriam-rodriguez-bridal-gown-14.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+			</a>
+		</div>
 	</div>
 </section>
 
@@ -79,7 +138,7 @@ body-class: index
 		<div class="medium-6 columns medium-text-right padding-0">
 			<h3 class="adjectives padding-X h2 serif">Harmony, Elegance and Distinction</h3>
 			<br>
-			<div class="pictureWrapper relative text-center">
+			<div class="pictureWrapper relative text-center wow animated fadeIn" data-wow-offset="100">
 				<h3 class="serif white absolute margin-0 padding-Y">Miriam Rodríguez</h3>
 				<picture class="block">
 					<source srcset="/img/bio/miriam-rodriguez.jpg" media="(min-width: 880px)">
