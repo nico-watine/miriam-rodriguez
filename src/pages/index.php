@@ -53,7 +53,7 @@ body-class: index
 	<div class="row collapse imageGallery text-center gallery">
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-1.jpg">
-				<img src="/img/bridals/bridals-8.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-1.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-4 large-3 columns wow animated fadeInUp">
