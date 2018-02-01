@@ -19,9 +19,9 @@ body-class: index
 </aside>	
 <section class="splash text-center relative">
 	<aside class="languageToggles absolute show-for-medium">
-		<a href="/" class="h4 active">Esp</a>
+		<a href="/" class="h4">Esp</a>
 		<span class="pipe h4"><strong>|</strong></span>
-		<a href="/eng/" class="h4">Eng</a>
+		<a href="/eng/" class="h4 active">Eng</a>
 	</aside>
 	<div class="masthead flex absolute">
 		<div class="prose absolute white">
