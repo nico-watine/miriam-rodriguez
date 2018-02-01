@@ -19,25 +19,28 @@ body-class: index
 </aside>	
 <section class="splash text-center relative">
 	<aside class="languageToggles absolute show-for-medium">
-		<a href="/" class="h4">Esp</a>
+		<a href="/" class="h4 active">Esp</a>
 		<span class="pipe h4"><strong>|</strong></span>
-		<a href="/eng/" class="h4 active">Eng</a>
+		<a href="/eng/" class="h4">Eng</a>
 	</aside>
-	<div class="masthead flex absolute animated zoomIn">
+	<div class="masthead flex absolute">
 		<div class="prose absolute white">
-			<h1 class="serif">Miriam Rodríguez</h1>
-			<h3 class="title uppercase padding-X">Haute Couture <span class="inline-block">Bridal Gowns</span></h3>
+			<h1 class="serif animated-3 zoomIn">Miriam Rodríguez</h1>
+			<h3 class="title uppercase padding-X animated-2 zoomIn">Haute Couture <span class="inline-block">Bridal Gowns</span></h3>
 		</div>
-		<div class="logoWrapper">
+		<div class="logoWrapper animated-4 zoomIn">
 			<img src="/img/splash/logo.svg" alt="Miriam Rodriguez Logo">
 		</div>
 	</div>
 	<div class="row expanded collapse backgroundSplash">
-		<div class="medium-6 columns">
-			<img class="animated fadeInLeft" src="/img/splash/2.jpg" alt="">
+		<div class="columns show-for-small-only">
+			<img class="animated-2 fadeIn" src="/img/splash/2.jpg" alt="">
 		</div>
 		<div class="medium-6 columns show-for-medium">
-			<img class="animated fadeInRight" src="/img/splash/3.jpg" alt="">
+			<img class="animated-2 fadeInLeft" src="/img/splash/2.jpg" alt="">
+		</div>
+		<div class="medium-6 columns show-for-medium">
+			<img class="animated-2 fadeInRight" src="/img/splash/3.jpg" alt="">
 		</div>
 	</div>
 </section>
