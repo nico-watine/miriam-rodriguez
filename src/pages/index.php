@@ -113,12 +113,12 @@ body-class: index
 		</div>
 		<div class="medium-6 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-13.jpg">
-				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-13.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img class="landscape" src="/img/bridals/grid/miriam-rodriguez-bridal-gown-13.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 		<div class="medium-6 columns wow animated fadeInUp">
 			<a href="/img/bridals/miriam-rodriguez-bridal-gown-14.jpg">
-				<img src="/img/bridals/grid/miriam-rodriguez-bridal-gown-14.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
+				<img class="landscape" src="/img/bridals/grid/miriam-rodriguez-bridal-gown-14.jpg" alt="Miriam Rodriguez Bridal Gown Couturier">
 			</a>
 		</div>
 	</div>
