@@ -6814,6 +6814,36 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-8.jpg": {
+		"ft": 16384,
+		"iS": 136993,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-9.jpg": {
+		"ft": 16384,
+		"iS": 218007,
+		"oA": 1,
+		"oAP": "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/js\/vendor\/jquery\/jquery-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/gulpfile.babel.js": {
 		"ft": 64,
 		"ma": 0,
