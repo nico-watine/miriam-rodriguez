@@ -7,7 +7,7 @@
       "uuidString" : "472B7510-C306-426F-AF80-FB25224303CF"
     }
   ],
-  "creatorBuild" : "34127",
+  "creatorBuild" : "34418",
   "files" : {
     "\/_ignores\/head\/favicon-linking.html" : {
       "cB" : 0,
@@ -265,6 +265,7 @@
     "\/bower_components\/animate-sass\/_animate.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -287,6 +288,7 @@
     "\/bower_components\/animate-sass\/animations\/attention-seekers\/_bounce.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -301,6 +303,7 @@
     "\/bower_components\/animate-sass\/animations\/attention-seekers\/_flash.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -315,6 +318,7 @@
     "\/bower_components\/animate-sass\/animations\/attention-seekers\/_pulse.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -329,6 +333,7 @@
     "\/bower_components\/animate-sass\/animations\/attention-seekers\/_shake.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -343,6 +348,7 @@
     "\/bower_components\/animate-sass\/animations\/attention-seekers\/_swing.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -357,6 +363,7 @@
     "\/bower_components\/animate-sass\/animations\/attention-seekers\/_tada.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -371,6 +378,7 @@
     "\/bower_components\/animate-sass\/animations\/attention-seekers\/_wiggle.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -385,6 +393,7 @@
     "\/bower_components\/animate-sass\/animations\/attention-seekers\/_wobble.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -399,6 +408,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-enter\/_bounceIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -413,6 +423,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-enter\/_bounceInDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -427,6 +438,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-enter\/_bounceInLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -441,6 +453,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-enter\/_bounceInRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -455,6 +468,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-enter\/_bounceInUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -469,6 +483,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-exit\/_bounceOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -483,6 +498,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-exit\/_bounceOutDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -497,6 +513,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-exit\/_bounceOutLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -511,6 +528,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-exit\/_bounceOutRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -525,6 +543,7 @@
     "\/bower_components\/animate-sass\/animations\/bounce-exit\/_bounceOutUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -539,6 +558,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -553,6 +573,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeInDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -567,6 +588,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeInDownBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -581,6 +603,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeInLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -595,6 +618,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeInLeftBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -609,6 +633,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeInRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -623,6 +648,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeInRightBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -637,6 +663,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeInUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -651,6 +678,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-enter\/_fadeInUpBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -665,6 +693,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -679,6 +708,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOutDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -693,6 +723,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOutDownBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -707,6 +738,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOutLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -721,6 +753,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOutLeftBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -735,6 +768,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOutRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -749,6 +783,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOutRightBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -763,6 +798,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOutUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -777,6 +813,7 @@
     "\/bower_components\/animate-sass\/animations\/fade-exit\/_fadeOutUpBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -791,6 +828,7 @@
     "\/bower_components\/animate-sass\/animations\/flippers\/_flip.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -805,6 +843,7 @@
     "\/bower_components\/animate-sass\/animations\/flippers\/_flipInX.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -819,6 +858,7 @@
     "\/bower_components\/animate-sass\/animations\/flippers\/_flipInY.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -833,6 +873,7 @@
     "\/bower_components\/animate-sass\/animations\/flippers\/_flipOutX.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -847,6 +888,7 @@
     "\/bower_components\/animate-sass\/animations\/flippers\/_flipOutY.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -861,6 +903,7 @@
     "\/bower_components\/animate-sass\/animations\/lightspeed\/_lightSpeedIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -875,6 +918,7 @@
     "\/bower_components\/animate-sass\/animations\/lightspeed\/_lightSpeedOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -889,6 +933,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-enter\/_rotateIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -903,6 +948,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-enter\/_rotateInDownLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -917,6 +963,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-enter\/_rotateInDownRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -931,6 +978,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-enter\/_rotateInUpLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -945,6 +993,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-enter\/_rotateInUpRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -959,6 +1008,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-exit\/_rotateOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -973,6 +1023,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-exit\/_rotateOutDownLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -987,6 +1038,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-exit\/_rotateOutDownRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1001,6 +1053,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-exit\/_rotateOutUpLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1015,6 +1068,7 @@
     "\/bower_components\/animate-sass\/animations\/rotate-exit\/_rotateOutUpRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1029,6 +1083,7 @@
     "\/bower_components\/animate-sass\/animations\/slide-enter\/_slideInDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1043,6 +1098,7 @@
     "\/bower_components\/animate-sass\/animations\/slide-enter\/_slideInLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1057,6 +1113,7 @@
     "\/bower_components\/animate-sass\/animations\/slide-enter\/_slideInRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1071,6 +1128,7 @@
     "\/bower_components\/animate-sass\/animations\/slide-enter\/_slideInUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1085,6 +1143,7 @@
     "\/bower_components\/animate-sass\/animations\/slide-exit\/_slideOutDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1099,6 +1158,7 @@
     "\/bower_components\/animate-sass\/animations\/slide-exit\/_slideOutLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1113,6 +1173,7 @@
     "\/bower_components\/animate-sass\/animations\/slide-exit\/_slideOutRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1127,6 +1188,7 @@
     "\/bower_components\/animate-sass\/animations\/slide-exit\/_slideOutUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1141,6 +1203,7 @@
     "\/bower_components\/animate-sass\/animations\/special\/_hinge.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1155,6 +1218,7 @@
     "\/bower_components\/animate-sass\/animations\/special\/_rollIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1169,6 +1233,7 @@
     "\/bower_components\/animate-sass\/animations\/special\/_rollOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1183,6 +1248,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-enter\/_zoomIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1197,6 +1263,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-enter\/_zoomInDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1211,6 +1278,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-enter\/_zoomInLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1225,6 +1293,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-enter\/_zoomInRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1239,6 +1308,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-enter\/_zoomInUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1253,6 +1323,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-exit\/_zoomOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1267,6 +1338,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-exit\/_zoomOutDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1281,6 +1353,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-exit\/_zoomOutLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1295,6 +1368,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-exit\/_zoomOutRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1309,6 +1383,7 @@
     "\/bower_components\/animate-sass\/animations\/zoom-exit\/_zoomOutUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1350,6 +1425,7 @@
     "\/bower_components\/animate-sass\/helpers\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1364,6 +1440,7 @@
     "\/bower_components\/animate-sass\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -1378,6 +1455,7 @@
     "\/bower_components\/animate-sass\/helpers\/_settings.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2450,6 +2528,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/normalize-scss\/sass\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2464,6 +2543,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_import-now.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2478,6 +2558,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_normalize-mixin.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2492,6 +2573,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2506,6 +2588,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_vertical-rhythm.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2520,6 +2603,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_purge.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2534,6 +2618,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_remove.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2548,6 +2633,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_replace.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2562,6 +2648,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_to-list.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2576,6 +2663,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/helpers\/_missing-dependencies.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2590,6 +2678,7 @@
     "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/helpers\/_true.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2682,6 +2771,7 @@
     "\/bower_components\/foundation-sites\/assets\/foundation-flex.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2696,6 +2786,7 @@
     "\/bower_components\/foundation-sites\/assets\/foundation-rtl.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2710,6 +2801,7 @@
     "\/bower_components\/foundation-sites\/assets\/foundation.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -2865,6 +2957,7 @@
       "ft" : 128,
       "jxM" : 0,
       "ma" : 0,
+      "mDT" : 0,
       "mi" : 0,
       "moR" : 0,
       "moT" : 0,
@@ -3891,6 +3984,7 @@
     "\/bower_components\/foundation-sites\/scss\/_global.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3905,6 +3999,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_accordion-menu.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3919,6 +4014,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_accordion.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3933,6 +4029,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_badge.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3947,6 +4044,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_breadcrumbs.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3961,6 +4059,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_button-group.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3975,6 +4074,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_button.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -3989,6 +4089,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_callout.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4003,6 +4104,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_card.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4017,6 +4119,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_close-button.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4031,6 +4134,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_drilldown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4045,6 +4149,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_dropdown-menu.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4059,6 +4164,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_dropdown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4073,6 +4179,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_flex-video.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4087,6 +4194,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_flex.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4101,6 +4209,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_float.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4115,6 +4224,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_label.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4129,6 +4239,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_media-object.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4143,6 +4254,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_menu-icon.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4157,6 +4269,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_menu.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4171,6 +4284,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_off-canvas.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4185,6 +4299,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_orbit.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4199,6 +4314,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_pagination.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4213,6 +4329,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_progress-bar.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4227,6 +4344,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_responsive-embed.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4241,6 +4359,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_reveal.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4255,6 +4374,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_slider.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4269,6 +4389,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_sticky.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4283,6 +4404,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_switch.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4297,6 +4419,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_table.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4311,6 +4434,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_tabs.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4325,6 +4449,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_thumbnail.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4339,6 +4464,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_title-bar.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4353,6 +4479,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_tooltip.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4367,6 +4494,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_top-bar.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4381,6 +4509,7 @@
     "\/bower_components\/foundation-sites\/scss\/components\/_visibility.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4395,6 +4524,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_checkbox.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4409,6 +4539,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_error.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4423,6 +4554,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_fieldset.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4437,6 +4569,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4451,6 +4584,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_help-text.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4465,6 +4599,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_input-group.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4479,6 +4614,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_label.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4493,6 +4629,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_meter.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4507,6 +4644,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_progress.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4521,6 +4659,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_range.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4535,6 +4674,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_select.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4549,6 +4689,7 @@
     "\/bower_components\/foundation-sites\/scss\/forms\/_text.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4563,6 +4704,7 @@
     "\/bower_components\/foundation-sites\/scss\/foundation.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4577,6 +4719,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_classes.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4591,6 +4734,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_column.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4605,6 +4749,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_flex-grid.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4619,6 +4764,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_grid.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4633,6 +4779,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_gutter.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4647,6 +4794,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_layout.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4661,6 +4809,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_position.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4675,6 +4824,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_row.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4689,6 +4839,7 @@
     "\/bower_components\/foundation-sites\/scss\/grid\/_size.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4703,6 +4854,7 @@
     "\/bower_components\/foundation-sites\/scss\/settings\/_settings.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4717,6 +4869,7 @@
     "\/bower_components\/foundation-sites\/scss\/typography\/_alignment.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4731,6 +4884,7 @@
     "\/bower_components\/foundation-sites\/scss\/typography\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4745,6 +4899,7 @@
     "\/bower_components\/foundation-sites\/scss\/typography\/_helpers.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4759,6 +4914,7 @@
     "\/bower_components\/foundation-sites\/scss\/typography\/_print.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4773,6 +4929,7 @@
     "\/bower_components\/foundation-sites\/scss\/typography\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4787,6 +4944,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_breakpoint.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4801,6 +4959,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_color.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4815,6 +4974,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_direction.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4829,6 +4989,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_flex.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4843,6 +5004,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_math.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4857,6 +5019,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4871,6 +5034,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_selector.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4885,6 +5049,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4899,6 +5064,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_unit.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4913,6 +5079,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_util.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -4927,6 +5094,7 @@
     "\/bower_components\/foundation-sites\/scss\/util\/_value.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6414,6 +6582,7 @@
     "\/bower_components\/magnific-popup\/src\/css\/_settings.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6428,6 +6597,7 @@
     "\/bower_components\/magnific-popup\/src\/css\/main.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6812,6 +6982,7 @@
     "\/bower_components\/motion-ui\/motion-ui.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6864,6 +7035,7 @@
     "\/bower_components\/motion-ui\/src\/_classes.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6878,6 +7050,7 @@
     "\/bower_components\/motion-ui\/src\/_settings.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6892,6 +7065,7 @@
     "\/bower_components\/motion-ui\/src\/effects\/_fade.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6906,6 +7080,7 @@
     "\/bower_components\/motion-ui\/src\/effects\/_hinge.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6920,6 +7095,7 @@
     "\/bower_components\/motion-ui\/src\/effects\/_shake.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6934,6 +7110,7 @@
     "\/bower_components\/motion-ui\/src\/effects\/_slide.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6948,6 +7125,7 @@
     "\/bower_components\/motion-ui\/src\/effects\/_spin.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6962,6 +7140,7 @@
     "\/bower_components\/motion-ui\/src\/effects\/_wiggle.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6976,6 +7155,7 @@
     "\/bower_components\/motion-ui\/src\/effects\/_zoom.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -6990,6 +7170,7 @@
     "\/bower_components\/motion-ui\/src\/motion-ui.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7004,6 +7185,7 @@
     "\/bower_components\/motion-ui\/src\/transitions\/_fade.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7018,6 +7200,7 @@
     "\/bower_components\/motion-ui\/src\/transitions\/_hinge.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7032,6 +7215,7 @@
     "\/bower_components\/motion-ui\/src\/transitions\/_slide.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7046,6 +7230,7 @@
     "\/bower_components\/motion-ui\/src\/transitions\/_spin.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7060,6 +7245,7 @@
     "\/bower_components\/motion-ui\/src\/transitions\/_zoom.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7074,6 +7260,7 @@
     "\/bower_components\/motion-ui\/src\/util\/_animation.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7088,6 +7275,7 @@
     "\/bower_components\/motion-ui\/src\/util\/_args.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7102,6 +7290,7 @@
     "\/bower_components\/motion-ui\/src\/util\/_keyframe.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7116,6 +7305,7 @@
     "\/bower_components\/motion-ui\/src\/util\/_selector.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7130,6 +7320,7 @@
     "\/bower_components\/motion-ui\/src\/util\/_series.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7144,6 +7335,7 @@
     "\/bower_components\/motion-ui\/src\/util\/_transition.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7158,6 +7350,7 @@
     "\/bower_components\/motion-ui\/src\/util\/_unit.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -7437,7 +7630,6 @@
       "oAP" : "\/bower_components\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee",
       "oF" : 0,
       "oS" : 0,
-      "sC" : 1,
       "tS" : 1
     },
     "\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee" : {
@@ -7448,7 +7640,6 @@
       "oAP" : "\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee",
       "oF" : 0,
       "oS" : 0,
-      "sC" : 1,
       "tS" : 1
     },
     "\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html" : {
@@ -7519,7 +7710,6 @@
       "oAP" : "\/bower_components\/wow\/src\/wow.coffee",
       "oF" : 0,
       "oS" : 0,
-      "sC" : 1,
       "tS" : 1
     },
     "\/bower.json" : {
@@ -7549,6 +7739,730 @@
       "oAP" : "\/css\/app-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/dist\/.htaccess" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/.htaccess",
+      "oF" : 0
+    },
+    "\/dist\/403.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/403.html",
+      "oF" : 0
+    },
+    "\/dist\/404.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/404.html",
+      "oF" : 0
+    },
+    "\/dist\/apple-touch-icon-76x76-precomposed.png" : {
+      "ft" : 32768,
+      "iS" : 1157,
+      "oA" : 1,
+      "oAP" : "\/dist\/apple-touch-icon-76x76-precomposed.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/apple-touch-icon-120x120-precomposed.png" : {
+      "ft" : 32768,
+      "iS" : 1735,
+      "oA" : 1,
+      "oAP" : "\/dist\/apple-touch-icon-120x120-precomposed.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/apple-touch-icon-152x152-precomposed.png" : {
+      "ft" : 32768,
+      "iS" : 1991,
+      "oA" : 1,
+      "oAP" : "\/dist\/apple-touch-icon-152x152-precomposed.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/apple-touch-icon-180x180-precomposed.png" : {
+      "ft" : 32768,
+      "iS" : 2478,
+      "oA" : 1,
+      "oAP" : "\/dist\/apple-touch-icon-180x180-precomposed.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/apple-touch-icon.png" : {
+      "ft" : 32768,
+      "iS" : 2478,
+      "oA" : 1,
+      "oAP" : "\/dist\/apple-touch-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/css\/app.css" : {
+      "aP" : 0,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/css\/app-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/dist\/eng\/index.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/eng\/index.php",
+      "oF" : 0
+    },
+    "\/dist\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/favicon.ico",
+      "oF" : 0
+    },
+    "\/dist\/favicon.png" : {
+      "ft" : 32768,
+      "iS" : 607,
+      "oA" : 1,
+      "oAP" : "\/dist\/favicon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/googlea536b0ce9879dae9.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/googlea536b0ce9879dae9.html",
+      "oF" : 0
+    },
+    "\/dist\/humans.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/humans.txt",
+      "oF" : 0
+    },
+    "\/dist\/img\/assets\/hex-pattern.png" : {
+      "ft" : 32768,
+      "iS" : 2054,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/assets\/hex-pattern.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/assets\/og-images\/miriam-rodriguez-bridals.png" : {
+      "ft" : 32768,
+      "iS" : 333351,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/assets\/og-images\/miriam-rodriguez-bridals.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bio\/logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/img\/bio\/logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/dist\/img\/bio\/medium\/miriam-rodriguez.jpg" : {
+      "ft" : 16384,
+      "iS" : 32696,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bio\/medium\/miriam-rodriguez.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bio\/miriam-rodriguez.jpg" : {
+      "ft" : 16384,
+      "iS" : 55456,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bio\/miriam-rodriguez.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/bridals.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/img\/bridals\/bridals.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 113214,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 108719,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 159388,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-4.jpg" : {
+      "ft" : 16384,
+      "iS" : 190875,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-5.jpg" : {
+      "ft" : 16384,
+      "iS" : 174526,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-6.jpg" : {
+      "ft" : 16384,
+      "iS" : 226321,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-6.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-7.jpg" : {
+      "ft" : 16384,
+      "iS" : 220728,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-7.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-8.jpg" : {
+      "ft" : 16384,
+      "iS" : 136993,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-8.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-9.jpg" : {
+      "ft" : 16384,
+      "iS" : 218007,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-9.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-10.jpg" : {
+      "ft" : 16384,
+      "iS" : 372443,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-11.jpg" : {
+      "ft" : 16384,
+      "iS" : 289671,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-11.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-12.jpg" : {
+      "ft" : 16384,
+      "iS" : 168670,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-12.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-13.jpg" : {
+      "ft" : 16384,
+      "iS" : 91540,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-13.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-14.jpg" : {
+      "ft" : 16384,
+      "iS" : 83350,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/grid\/miriam-rodriguez-bridal-gown-14.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 145469,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 177312,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 288656,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-4.jpg" : {
+      "ft" : 16384,
+      "iS" : 339440,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-5.jpg" : {
+      "ft" : 16384,
+      "iS" : 421797,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-6.jpg" : {
+      "ft" : 16384,
+      "iS" : 438114,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-6.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-7.jpg" : {
+      "ft" : 16384,
+      "iS" : 392770,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-7.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-8.jpg" : {
+      "ft" : 16384,
+      "iS" : 291378,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-8.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-9.jpg" : {
+      "ft" : 16384,
+      "iS" : 418624,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-9.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-10.jpg" : {
+      "ft" : 16384,
+      "iS" : 643912,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-11.jpg" : {
+      "ft" : 16384,
+      "iS" : 483048,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-11.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-12.jpg" : {
+      "ft" : 16384,
+      "iS" : 250326,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-12.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-13.jpg" : {
+      "ft" : 16384,
+      "iS" : 312584,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-13.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-14.jpg" : {
+      "ft" : 16384,
+      "iS" : 308081,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/bridals\/miriam-rodriguez-bridal-gown-14.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/instagram\/instagram.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/img\/instagram\/instagram.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/dist\/img\/splash\/2.jpg" : {
+      "ft" : 16384,
+      "iS" : 128663,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/splash\/2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/splash\/3.jpg" : {
+      "ft" : 16384,
+      "iS" : 136547,
+      "jF" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/img\/splash\/3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/img\/splash\/logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/img\/splash\/logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/dist\/index.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/index.php",
+      "oF" : 0
+    },
+    "\/dist\/js\/app-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/app-min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/dist\/js\/custom\/scripts-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/js\/scripts-min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/dist\/js\/vendor\/jquery\/2-2-4\/jquery-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 1,
+      "oAP" : "\/dist\/js\/vendor\/jquery\/jquery-min-min.js",
+      "oF" : 0,
+      "sC" : 0,
+      "tS" : 0
+    },
+    "\/dist\/php\/autoVer.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/php\/autoVer.php",
+      "oF" : 0
+    },
+    "\/dist\/robots.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/robots.txt",
+      "oF" : 0
+    },
+    "\/dist\/tile-wide.png" : {
+      "ft" : 32768,
+      "iS" : 4033,
+      "oA" : 1,
+      "oAP" : "\/dist\/tile-wide.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/tile.png" : {
+      "ft" : 32768,
+      "iS" : 4899,
+      "oA" : 1,
+      "oAP" : "\/dist\/tile.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dist\/touch-icon-192x192.png" : {
+      "ft" : 32768,
+      "iS" : 2607,
+      "oA" : 1,
+      "oAP" : "\/dist\/touch-icon-192x192.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/gulpfile.babel.js" : {
       "bF" : 0,
@@ -8104,50 +9018,6 @@
       "oAP" : "\/node_modules",
       "oF" : 0
     },
-    "\/node_modules\/gulp\/index.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
-      "oAP" : "\/node_modules\/index-min.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/node_modules\/panini\/index.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
-      "oAP" : "\/node_modules\/index-min.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/node_modules\/rimraf\/rimraf.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
-      "oAP" : "\/node_modules\/rimraf-min.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
-    "\/node_modules\/yargs\/.\/index.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 0,
-      "oA" : 1,
-      "oAP" : "\/node_modules\/yargs\/index-min.js",
-      "oF" : 0,
-      "sC" : 0,
-      "tS" : 0
-    },
     "\/package-lock.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -8186,6 +9056,7 @@
     "\/scss\/_settings.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8200,6 +9071,7 @@
     "\/scss\/app.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8214,6 +9086,7 @@
     "\/scss\/blocks\/_body.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8228,6 +9101,7 @@
     "\/scss\/blocks\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8242,6 +9116,7 @@
     "\/scss\/blocks\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8256,6 +9131,7 @@
     "\/scss\/blocks\/_languageToggles.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8270,6 +9146,7 @@
     "\/scss\/blocks\/_main.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8284,6 +9161,7 @@
     "\/scss\/blocks\/_nav.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8298,6 +9176,7 @@
     "\/scss\/components\/_extras.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8312,6 +9191,7 @@
     "\/scss\/components\/_metrics.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8326,6 +9206,7 @@
     "\/scss\/components\/_resets.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8340,6 +9221,7 @@
     "\/scss\/components\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8354,6 +9236,7 @@
     "\/scss\/components\/_utility-classes.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8368,6 +9251,7 @@
     "\/scss\/components\/animate-sass\/_animate.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8390,6 +9274,7 @@
     "\/scss\/components\/animate-sass\/animations\/attention-seekers\/_bounce.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8404,6 +9289,7 @@
     "\/scss\/components\/animate-sass\/animations\/attention-seekers\/_flash.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8418,6 +9304,7 @@
     "\/scss\/components\/animate-sass\/animations\/attention-seekers\/_pulse.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8432,6 +9319,7 @@
     "\/scss\/components\/animate-sass\/animations\/attention-seekers\/_shake.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8446,6 +9334,7 @@
     "\/scss\/components\/animate-sass\/animations\/attention-seekers\/_swing.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8460,6 +9349,7 @@
     "\/scss\/components\/animate-sass\/animations\/attention-seekers\/_tada.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8474,6 +9364,7 @@
     "\/scss\/components\/animate-sass\/animations\/attention-seekers\/_wiggle.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8488,6 +9379,7 @@
     "\/scss\/components\/animate-sass\/animations\/attention-seekers\/_wobble.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8502,6 +9394,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-enter\/_bounceIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8516,6 +9409,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-enter\/_bounceInDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8530,6 +9424,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-enter\/_bounceInLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8544,6 +9439,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-enter\/_bounceInRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8558,6 +9454,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-enter\/_bounceInUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8572,6 +9469,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-exit\/_bounceOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8586,6 +9484,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-exit\/_bounceOutDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8600,6 +9499,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-exit\/_bounceOutLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8614,6 +9514,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-exit\/_bounceOutRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8628,6 +9529,7 @@
     "\/scss\/components\/animate-sass\/animations\/bounce-exit\/_bounceOutUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8642,6 +9544,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8656,6 +9559,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeInDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8670,6 +9574,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeInDownBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8684,6 +9589,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeInLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8698,6 +9604,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeInLeftBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8712,6 +9619,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeInRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8726,6 +9634,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeInRightBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8740,6 +9649,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeInUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8754,6 +9664,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-enter\/_fadeInUpBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8768,6 +9679,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8782,6 +9694,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOutDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8796,6 +9709,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOutDownBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8810,6 +9724,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOutLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8824,6 +9739,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOutLeftBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8838,6 +9754,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOutRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8852,6 +9769,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOutRightBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8866,6 +9784,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOutUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8880,6 +9799,7 @@
     "\/scss\/components\/animate-sass\/animations\/fade-exit\/_fadeOutUpBig.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8894,6 +9814,7 @@
     "\/scss\/components\/animate-sass\/animations\/flippers\/_flip.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8908,6 +9829,7 @@
     "\/scss\/components\/animate-sass\/animations\/flippers\/_flipInX.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8922,6 +9844,7 @@
     "\/scss\/components\/animate-sass\/animations\/flippers\/_flipInY.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8936,6 +9859,7 @@
     "\/scss\/components\/animate-sass\/animations\/flippers\/_flipOutX.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8950,6 +9874,7 @@
     "\/scss\/components\/animate-sass\/animations\/flippers\/_flipOutY.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8964,6 +9889,7 @@
     "\/scss\/components\/animate-sass\/animations\/lightspeed\/_lightSpeedIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8978,6 +9904,7 @@
     "\/scss\/components\/animate-sass\/animations\/lightspeed\/_lightSpeedOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -8992,6 +9919,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-enter\/_rotateIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9006,6 +9934,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-enter\/_rotateInDownLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9020,6 +9949,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-enter\/_rotateInDownRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9034,6 +9964,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-enter\/_rotateInUpLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9048,6 +9979,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-enter\/_rotateInUpRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9062,6 +9994,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-exit\/_rotateOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9076,6 +10009,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-exit\/_rotateOutDownLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9090,6 +10024,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-exit\/_rotateOutDownRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9104,6 +10039,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-exit\/_rotateOutUpLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9118,6 +10054,7 @@
     "\/scss\/components\/animate-sass\/animations\/rotate-exit\/_rotateOutUpRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9132,6 +10069,7 @@
     "\/scss\/components\/animate-sass\/animations\/slide-enter\/_slideInDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9146,6 +10084,7 @@
     "\/scss\/components\/animate-sass\/animations\/slide-enter\/_slideInLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9160,6 +10099,7 @@
     "\/scss\/components\/animate-sass\/animations\/slide-enter\/_slideInRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9174,6 +10114,7 @@
     "\/scss\/components\/animate-sass\/animations\/slide-enter\/_slideInUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9188,6 +10129,7 @@
     "\/scss\/components\/animate-sass\/animations\/slide-exit\/_slideOutDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9202,6 +10144,7 @@
     "\/scss\/components\/animate-sass\/animations\/slide-exit\/_slideOutLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9216,6 +10159,7 @@
     "\/scss\/components\/animate-sass\/animations\/slide-exit\/_slideOutRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9230,6 +10174,7 @@
     "\/scss\/components\/animate-sass\/animations\/slide-exit\/_slideOutUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9244,6 +10189,7 @@
     "\/scss\/components\/animate-sass\/animations\/special\/_hinge.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9258,6 +10204,7 @@
     "\/scss\/components\/animate-sass\/animations\/special\/_rollIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9272,6 +10219,7 @@
     "\/scss\/components\/animate-sass\/animations\/special\/_rollOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9286,6 +10234,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-enter\/_zoomIn.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9300,6 +10249,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-enter\/_zoomInDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9314,6 +10264,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-enter\/_zoomInLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9328,6 +10279,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-enter\/_zoomInRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9342,6 +10294,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-enter\/_zoomInUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9356,6 +10309,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-exit\/_zoomOut.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9370,6 +10324,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-exit\/_zoomOutDown.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9384,6 +10339,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-exit\/_zoomOutLeft.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9398,6 +10354,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-exit\/_zoomOutRight.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9412,6 +10369,7 @@
     "\/scss\/components\/animate-sass\/animations\/zoom-exit\/_zoomOutUp.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9453,6 +10411,7 @@
     "\/scss\/components\/animate-sass\/helpers\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9467,6 +10426,7 @@
     "\/scss\/components\/animate-sass\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9481,6 +10441,7 @@
     "\/scss\/components\/animate-sass\/helpers\/_settings.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9530,6 +10491,7 @@
     "\/scss\/components\/extras\/_sticky-footer.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9544,6 +10506,7 @@
     "\/scss\/components\/typography\/_fonts.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9558,6 +10521,7 @@
     "\/scss\/pages\/index\/_bio.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9572,6 +10536,7 @@
     "\/scss\/pages\/index\/_bridals.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9586,6 +10551,7 @@
     "\/scss\/pages\/index\/_contact.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9600,6 +10566,7 @@
     "\/scss\/pages\/index\/_index.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9614,6 +10581,7 @@
     "\/scss\/pages\/index\/_instagram.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9628,6 +10596,7 @@
     "\/scss\/pages\/index\/_splash.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -9642,6 +10611,7 @@
     "\/scss\/settings\/_custom-settings.scss" : {
       "aP" : 0,
       "bl" : 0,
+      "co" : 0,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
@@ -10043,144 +11013,6 @@
     "buildFolderActive" : 0,
     "buildFolderName" : "build",
     "cleanBuild" : 1,
-    "coffeeLintFlags2" : {
-      "arrow_spacing" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "camel_case_classes" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "colon_assignment_spacing" : {
-        "active" : 0,
-        "flagValue" : 1
-      },
-      "cyclomatic_complexity" : {
-        "active" : 0,
-        "flagValue" : 10
-      },
-      "duplicate_key" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "empty_constructor_needs_parens" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "ensure_comprehensions" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "indentation" : {
-        "active" : 1,
-        "flagValue" : 2
-      },
-      "line_endings" : {
-        "active" : 0,
-        "flagValue" : 0
-      },
-      "max_line_length" : {
-        "active" : 0,
-        "flagValue" : 150
-      },
-      "missing_fat_arrows" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "newlines_after_classes" : {
-        "active" : 0,
-        "flagValue" : 3
-      },
-      "no_backticks" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_debugger" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_empty_functions" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_empty_param_list" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_implicit_braces" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_implicit_parens" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_interpolation_in_single_quotes" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_nested_string_interpolation" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_plusplus" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_private_function_fat_arrows" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_stand_alone_at" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_tabs" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_this" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_throwing_strings" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_trailing_semicolons" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_trailing_whitespace" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "no_unnecessary_double_quotes" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "no_unnecessary_fat_arrows" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "non_empty_constructor_needs_parens" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "prefer_english_operator" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "space_operators" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "spacing_after_comma" : {
-        "active" : 1,
-        "flagValue" : -1
-      }
-    },
     "cssoForceMediaMerge" : 0,
     "cssoRestructure" : 1,
     "environmentVariableEntries" : [
@@ -10232,10 +11064,6 @@
       "brace-style" : {
         "active" : 0,
         "optionString" : "'1tbs', {'allowSingleLine': true}"
-      },
-      "callback-return" : {
-        "active" : 0,
-        "optionString" : "['callback', 'cb', 'next']"
       },
       "camelcase" : {
         "active" : 0,
@@ -10328,6 +11156,10 @@
         "active" : 0,
         "optionString" : "'expression'"
       },
+      "function-call-argument-newline" : {
+        "active" : 0,
+        "optionString" : "'always'"
+      },
       "function-paren-newline" : {
         "active" : 0,
         "optionString" : "'multiline'"
@@ -10340,9 +11172,6 @@
         "active" : 0,
         "optionString" : "{'allowImplicit': false}"
       },
-      "global-require" : {
-        "active" : 0
-      },
       "grouped-accessor-pairs" : {
         "active" : 0,
         "optionString" : "'anyOrder'"
@@ -10350,11 +11179,7 @@
       "guard-for-in" : {
         "active" : 0
       },
-      "handle-callback-err" : {
-        "active" : 0,
-        "optionString" : "'err'"
-      },
-      "id-blacklist" : {
+      "id-denylist" : {
         "active" : 0,
         "optionString" : "'data', 'err', 'e', 'cb', 'callback'"
       },
@@ -10478,9 +11303,6 @@
         "active" : 0,
         "optionString" : "{'allow': ['~'], 'int32Hint': true}"
       },
-      "no-buffer-constructor" : {
-        "active" : 0
-      },
       "no-caller" : {
         "active" : 0
       },
@@ -10507,6 +11329,9 @@
       },
       "no-const-assign" : {
         "active" : 1
+      },
+      "no-constant-binary-expression" : {
+        "active" : 0
       },
       "no-constant-condition" : {
         "active" : 1,
@@ -10540,6 +11365,9 @@
         "active" : 1
       },
       "no-dupe-keys" : {
+        "active" : 1
+      },
+      "no-duplicate-case" : {
         "active" : 1
       },
       "no-duplicate-imports" : {
@@ -10583,7 +11411,7 @@
       "no-extra-boolean-cast" : {
         "active" : 1
       },
-      "no-extra-labels" : {
+      "no-extra-label" : {
         "active" : 0
       },
       "no-extra-parens" : {
@@ -10671,16 +11499,13 @@
         "active" : 0,
         "optionString" : "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
       },
-      "no-mixed-requires" : {
-        "active" : 0,
-        "optionString" : "{'grouping': false, 'allowCall': false }"
-      },
       "no-mixed-spaces-and-tabs" : {
         "active" : 0,
         "optionString" : ""
       },
       "no-multi-assign" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'ignoreNonDeclaration': false}"
       },
       "no-multi-spaces" : {
         "active" : 0,
@@ -10708,9 +11533,6 @@
       "no-new-object" : {
         "active" : 0
       },
-      "no-new-require" : {
-        "active" : 0
-      },
       "no-new-symbol" : {
         "active" : 1
       },
@@ -10733,18 +11555,9 @@
         "active" : 0,
         "optionString" : "{'props': false}"
       },
-      "no-path-concat" : {
-        "active" : 0
-      },
       "no-plusplus" : {
         "active" : 0,
         "optionString" : "{'allowForLoopAfterthoughts': false}"
-      },
-      "no-process-env" : {
-        "active" : 0
-      },
-      "no-process-exit" : {
-        "active" : 0
       },
       "no-promise-executor-return" : {
         "active" : 0
@@ -10771,9 +11584,6 @@
         "optionString" : "'event', 'fdescribe'"
       },
       "no-restricted-imports" : {
-        "active" : 0
-      },
-      "no-restricted-modules" : {
         "active" : 0,
         "optionString" : ""
       },
@@ -10803,7 +11613,8 @@
         "active" : 1
       },
       "no-sequences" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'allowInParentheses': true}"
       },
       "no-setter-return" : {
         "active" : 1
@@ -10817,10 +11628,6 @@
       },
       "no-sparse-arrays" : {
         "active" : 1
-      },
-      "no-sync" : {
-        "active" : 0,
-        "optionString" : ""
       },
       "no-tabs" : {
         "active" : 0,
@@ -10890,6 +11697,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
@@ -11009,6 +11819,9 @@
       "prefer-numeric-literals" : {
         "active" : 0
       },
+      "prefer-object-has-own" : {
+        "active" : 0
+      },
       "prefer-object-spread" : {
         "active" : 0
       },
@@ -11041,14 +11854,11 @@
         "optionString" : "'always'"
       },
       "require-atomic-updates" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'allowProperties': false}"
       },
       "require-await" : {
         "active" : 0
-      },
-      "require-jsdoc" : {
-        "active" : 0,
-        "optionString" : "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
       },
       "require-unicode-regexp" : {
         "active" : 0
@@ -11135,10 +11945,6 @@
         "active" : 1,
         "optionString" : ""
       },
-      "valid-jsdoc" : {
-        "active" : 0,
-        "optionString" : "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
-      },
       "valid-typeof" : {
         "active" : 1,
         "optionString" : "{'requireStringLiterals': true}"
@@ -11167,354 +11973,6 @@
     "gitIgnoreBuildFolder" : 1,
     "hideConfigFile" : 0,
     "jsCheckerReservedNamesString" : "",
-    "jsHintFlags2" : {
-      "asi" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "bitwise" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "boss" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "browser" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "browserify" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "camelcase" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "couch" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "curly" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "debug" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "devel" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "dojo" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "elision" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "eqeqeq" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "eqnull" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "es3" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "esnext" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "evil" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "expr" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "forin" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "freeze" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "funcscope" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "futurehostile" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "globalstrict" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "immed" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "indent" : {
-        "active" : 0,
-        "flagValue" : 4
-      },
-      "iterator" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "jasmine" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "jquery" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "lastsemic" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "latedef" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "laxbreak" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "laxcomma" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "loopfunc" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "maxcomplexity" : {
-        "active" : 0,
-        "flagValue" : 10
-      },
-      "maxdepth" : {
-        "active" : 0,
-        "flagValue" : 3
-      },
-      "maxlen" : {
-        "active" : 0,
-        "flagValue" : 150
-      },
-      "maxparams" : {
-        "active" : 0,
-        "flagValue" : 3
-      },
-      "maxstatements" : {
-        "active" : 0,
-        "flagValue" : 4
-      },
-      "mocha" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "mootools" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "moz" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "multistr" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "newcap" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "noarg" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "nocomma" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "node" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "noempty" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "nonbsp" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "nonew" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "nonstandard" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "notypeof" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "noyield" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "onecase" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "phantom" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "plusplus" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "proto" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "prototypejs" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "qunit" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "regexp" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "rhino" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "scripturl" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "shadow" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "shelljs" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "singleGroups" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "strict" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "sub" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "supernew" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "typed" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "undef" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "unused" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "varstmt" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "withstmt" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "worker" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "wsh" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "yui" : {
-        "active" : 0,
-        "flagValue" : -1
-      }
-    },
-    "jsLintFlags2" : {
-      "bitwise" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "browser" : {
-        "active" : 1,
-        "flagValue" : -1
-      },
-      "couch" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "devel" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "es6" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "eval" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "for" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "maxlen" : {
-        "active" : 0,
-        "flagValue" : 150
-      },
-      "node" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "this" : {
-        "active" : 0,
-        "flagValue" : -1
-      },
-      "white" : {
-        "active" : 0,
-        "flagValue" : -1
-      }
-    },
     "languageDefaultsCOFFEE" : {
       "autoOutputAction" : 0,
       "autoOutputPathFilenamePattern" : "*.js",
@@ -11525,7 +11983,6 @@
       "minifierStyle" : 1,
       "outputStyle" : 0,
       "sourceMapStyle" : 0,
-      "syntaxCheckerStyle" : 1,
       "transpilerStyle" : 1
     },
     "languageDefaultsCSS" : {
@@ -11756,6 +12213,7 @@
       "createDeclarationFile" : 0,
       "jsxMode" : 0,
       "minifierStyle" : 0,
+      "moduleDetectionType" : 0,
       "moduleResolutionType" : 0,
       "moduleType" : 0,
       "removeComments" : 0,
@@ -11823,6 +12281,7 @@
     "tsEmitBOM" : 0,
     "tsEmitDecoratorMetadata" : 0,
     "tsESModuleInterop" : 0,
+    "tsExactOptionalPropertyTypes" : 0,
     "tsForceConsistentCasingInFileNames" : 0,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
@@ -11831,6 +12290,7 @@
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
+    "tsNoImplicitOverride" : 0,
     "tsNoImplicitReturns" : 0,
     "tsNoImplicitThis" : 0,
     "tsNoImplicitUseStrict" : 0,
@@ -11851,6 +12311,7 @@
     "tsStripInternal" : 0,
     "tsSuppressExcessPropertyErrors" : 0,
     "tsSuppressImplicitAnyIndexErrors" : 0,
+    "tsUseUnknownInCatchVariables" : 0,
     "uglifyDefinesString" : "",
     "uglifyFlags2" : {
       "arguments" : {
@@ -11985,6 +12446,10 @@
         "active" : 0,
         "flagValue" : -1
       },
+      "keep_numbers" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
       "keep_quoted_props" : {
         "active" : 0,
         "flagValue" : -1
@@ -12008,6 +12473,10 @@
       "passes" : {
         "active" : 1,
         "flagValue" : 1
+      },
+      "preserve_annotations" : {
+        "active" : 0,
+        "flagValue" : -1
       },
       "properties" : {
         "active" : 1,
@@ -12111,6 +12580,10 @@
       },
       "webkit" : {
         "active" : 0,
+        "flagValue" : -1
+      },
+      "wrap_func_args" : {
+        "active" : 1,
         "flagValue" : -1
       },
       "wrap_iife" : {
